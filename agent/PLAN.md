@@ -225,3 +225,8 @@ bun run format   # prettier --write
 - Hằng số: mọi hằng module-level nằm trong `src/const/` (đã chuyển `ROLE_COLOR`, `GROUP_COLOR*`, `SUPPORTED_LANGUAGES`, `LANGUAGE_LABELS`, `SPLASH_BG`; bỏ các bản re-export `MIN/MAX_PLAYERS`, `TIMER_OPTIONS`, `CUSTOM_CATEGORY`).
 - A11y theo Vercel Web Interface Guidelines (`agent/rules/a11y.md`): skip link, `<main id>`, `color-scheme`, `touch-action`, reduced motion cho CSS, `aria-label`/`aria-hidden`, văn bản ẩn cho số lượt và vai người bị loại, bàn phím cho kéo thả (dnd-kit), `overscroll-contain` cho popup.
 - Bộ từ: `src/data/words/<ngôn ngữ>/<chủ đề>/<độ khó>.json` (120 file, mỗi file `{id,a,b}`; chủ đề và độ khó lấy từ đường dẫn qua `import.meta.glob`). Độ khó easy/medium/hard (≈ 35/45/20%) do 8 subagent gán. Hướng dẫn thêm từ ở `agent/rules/words.md`; `WordEntry` có thêm `difficulty` (từ tự thêm mặc định medium). Chưa có chế độ chọn độ khó trong UI.
+
+## 13. Deploy
+
+- Nhánh: `develop` (làm việc, Vercel preview), `main` (chỉ production, bảo vệ, merge PR từ `develop` khi phát hành). CI GitHub Actions `.github/workflows/ci.yml` (job `ci`: format:check, lint, test, build) chạy trên PR vào `main`/`develop` và push `develop`.
+- Việc còn lại phải làm tay: push `main` rồi `develop`, bật protect `main` (yêu cầu PR + check `ci`), import repo vào Vercel, đặt Production Branch = `main`.
