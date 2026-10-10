@@ -1,0 +1,97 @@
+[
+  {
+    "id": "thunder-lightning",
+    "a": "Thunder",
+    "b": "Lightning"
+  },
+  {
+    "id": "forest-jungle",
+    "a": "Forest",
+    "b": "Jungle"
+  },
+  {
+    "id": "tree-bush",
+    "a": "Tree",
+    "b": "Bush"
+  },
+  {
+    "id": "pine-oak",
+    "a": "Pine",
+    "b": "Oak"
+  },
+  {
+    "id": "volcano-geyser",
+    "a": "Volcano",
+    "b": "Geyser"
+  },
+  {
+    "id": "island-peninsula",
+    "a": "Island",
+    "b": "Peninsula"
+  },
+  {
+    "id": "star-planet",
+    "a": "Star",
+    "b": "Planet"
+  },
+  {
+    "id": "rainbow-aurora",
+    "a": "Rainbow",
+    "b": "Aurora"
+  },
+  {
+    "id": "frost-dew",
+    "a": "Frost",
+    "b": "Dew"
+  },
+  {
+    "id": "icicle-snowflake",
+    "a": "Icicle",
+    "b": "Snowflake"
+  },
+  {
+    "id": "bamboo-reed",
+    "a": "Bamboo",
+    "b": "Reed"
+  },
+  {
+    "id": "orchid-lily",
+    "a": "Orchid",
+    "b": "Lily"
+  },
+  {
+    "id": "lavender-mint",
+    "a": "Lavender",
+    "b": "Mint"
+  },
+  {
+    "id": "valley-cliff",
+    "a": "Valley",
+    "b": "Cliff"
+  },
+  {
+    "id": "pebble-boulder",
+    "a": "Pebble",
+    "b": "Boulder"
+  },
+  {
+    "id": "coral-seaweed",
+    "a": "Coral",
+    "b": "Seaweed"
+  },
+  {
+    "id": "spring-autumn",
+    "a": "Spring",
+    "b": "Autumn"
+  },
+  {
+    "id": "tide-wave",
+    "a": "Tide",
+    "b": "Wave"
+  },
+  {
+    "id": "burrow-nest",
+    "a": "Burrow",
+    "b": "Nest"
+  }
+]

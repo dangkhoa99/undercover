@@ -1,0 +1,102 @@
+[
+  {
+    "id": "fridge-freezer",
+    "a": "Fridge",
+    "b": "Freezer"
+  },
+  {
+    "id": "pillow-cushion",
+    "a": "Pillow",
+    "b": "Cushion"
+  },
+  {
+    "id": "curtain-blinds",
+    "a": "Curtain",
+    "b": "Blinds"
+  },
+  {
+    "id": "lamp-candle",
+    "a": "Lamp",
+    "b": "Candle"
+  },
+  {
+    "id": "chair-stool",
+    "a": "Chair",
+    "b": "Stool"
+  },
+  {
+    "id": "bedroom-living-room",
+    "a": "Bedroom",
+    "b": "Living room"
+  },
+  {
+    "id": "attic-basement",
+    "a": "Attic",
+    "b": "Basement"
+  },
+  {
+    "id": "balcony-porch",
+    "a": "Balcony",
+    "b": "Porch"
+  },
+  {
+    "id": "fan-air-conditioner",
+    "a": "Fan",
+    "b": "Air conditioner"
+  },
+  {
+    "id": "heater-fireplace",
+    "a": "Heater",
+    "b": "Fireplace"
+  },
+  {
+    "id": "clock-watch",
+    "a": "Clock",
+    "b": "Watch"
+  },
+  {
+    "id": "iron-hair-dryer",
+    "a": "Iron",
+    "b": "Hair dryer"
+  },
+  {
+    "id": "trash-can-laundry-basket",
+    "a": "Trash can",
+    "b": "Laundry basket"
+  },
+  {
+    "id": "vase-flowerpot",
+    "a": "Vase",
+    "b": "Flowerpot"
+  },
+  {
+    "id": "garage-shed",
+    "a": "Garage",
+    "b": "Shed"
+  },
+  {
+    "id": "wallpaper-paint",
+    "a": "Wallpaper",
+    "b": "Paint"
+  },
+  {
+    "id": "peeler-grater",
+    "a": "Peeler",
+    "b": "Grater"
+  },
+  {
+    "id": "photo-frame-wall-art",
+    "a": "Photo frame",
+    "b": "Wall art"
+  },
+  {
+    "id": "straw-ladle-spoon",
+    "a": "Straw",
+    "b": "Ladle spoon"
+  },
+  {
+    "id": "faucet-drain",
+    "a": "Faucet",
+    "b": "Drain"
+  }
+]

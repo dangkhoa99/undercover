@@ -1,0 +1,47 @@
+[
+  {
+    "id": "bao-ve-cong-an",
+    "a": "Bảo vệ",
+    "b": "Công an"
+  },
+  {
+    "id": "tho-may-nha-thiet-ke",
+    "a": "Thợ may",
+    "b": "Nhà thiết kế"
+  },
+  {
+    "id": "ke-toan-thu-ngan",
+    "a": "Kế toán",
+    "b": "Thu ngân"
+  },
+  {
+    "id": "le-tan-thu-ngan",
+    "a": "Lễ tân",
+    "b": "Thu ngân"
+  },
+  {
+    "id": "giang-vien-giao-su",
+    "a": "Giảng viên",
+    "b": "Giáo sư"
+  },
+  {
+    "id": "phong-vien-bien-tap-vien",
+    "a": "Phóng viên",
+    "b": "Biên tập viên"
+  },
+  {
+    "id": "bao-mau-giao-vien-mam-non",
+    "a": "Bảo mẫu",
+    "b": "Giáo viên mầm non"
+  },
+  {
+    "id": "bien-dich-vien-thong-dich-vien",
+    "a": "Biên dịch viên",
+    "b": "Thông dịch viên"
+  },
+  {
+    "id": "chu-quan-quan-ly",
+    "a": "Chủ quán",
+    "b": "Quản lý"
+  }
+]

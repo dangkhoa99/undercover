@@ -1,0 +1,52 @@
+[
+  {
+    "id": "homestay-resort",
+    "a": "Homestay",
+    "b": "Resort"
+  },
+  {
+    "id": "di-phuot-di-tour",
+    "a": "Đi phượt",
+    "b": "Đi tour"
+  },
+  {
+    "id": "phu-quoc-nha-trang",
+    "a": "Phú Quốc",
+    "b": "Nha Trang"
+  },
+  {
+    "id": "phong-don-phong-doi",
+    "a": "Phòng đơn",
+    "b": "Phòng đôi"
+  },
+  {
+    "id": "hanh-ly-xach-tay-hanh-ly-ky-gui",
+    "a": "Hành lý xách tay",
+    "b": "Hành lý ký gửi"
+  },
+  {
+    "id": "ve-khu-hoi-ve-mot-chieu",
+    "a": "Vé khứ hồi",
+    "b": "Vé một chiều"
+  },
+  {
+    "id": "tour-tron-goi-di-tu-tuc",
+    "a": "Tour trọn gói",
+    "b": "Đi tự túc"
+  },
+  {
+    "id": "ghe-cua-so-ghe-loi-di",
+    "a": "Ghế cửa sổ",
+    "b": "Ghế lối đi"
+  },
+  {
+    "id": "hang-pho-thong-hang-thuong-gia",
+    "a": "Hạng phổ thông",
+    "b": "Hạng thương gia"
+  },
+  {
+    "id": "du-lich-sinh-thai-du-lich-nghi-duong",
+    "a": "Du lịch sinh thái",
+    "b": "Du lịch nghỉ dưỡng"
+  }
+]

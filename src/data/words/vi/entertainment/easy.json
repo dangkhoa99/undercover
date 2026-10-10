@@ -1,0 +1,72 @@
+[
+  {
+    "id": "tivi-radio",
+    "a": "Tivi",
+    "b": "Radio"
+  },
+  {
+    "id": "hoat-hinh-phim-hai",
+    "a": "Hoạt hình",
+    "b": "Phim hài"
+  },
+  {
+    "id": "xiec-ao-thuat",
+    "a": "Xiếc",
+    "b": "Ảo thuật"
+  },
+  {
+    "id": "bup-be-robot-do-choi",
+    "a": "Búp bê",
+    "b": "Robot đồ chơi"
+  },
+  {
+    "id": "tha-dieu-choi-chuyen",
+    "a": "Thả diều",
+    "b": "Chơi chuyền"
+  },
+  {
+    "id": "bai-tay-domino",
+    "a": "Bài tây",
+    "b": "Domino"
+  },
+  {
+    "id": "mua-roi-nuoc-xiec",
+    "a": "Múa rối nước",
+    "b": "Xiếc"
+  },
+  {
+    "id": "o-an-quan-ca-ngua",
+    "a": "Ô ăn quan",
+    "b": "Cá ngựa"
+  },
+  {
+    "id": "rock-rap",
+    "a": "Rock",
+    "b": "Rap"
+  },
+  {
+    "id": "o-chu-sudoku",
+    "a": "Ô chữ",
+    "b": "Sudoku"
+  },
+  {
+    "id": "dia-cd-bang-cassette",
+    "a": "Đĩa CD",
+    "b": "Băng cassette"
+  },
+  {
+    "id": "ca-si-vu-cong",
+    "a": "Ca sĩ",
+    "b": "Vũ công"
+  },
+  {
+    "id": "rap-xiec-rap-hat",
+    "a": "Rạp xiếc",
+    "b": "Rạp hát"
+  },
+  {
+    "id": "quan-game-rap-phim",
+    "a": "Quán game",
+    "b": "Rạp phim"
+  }
+]

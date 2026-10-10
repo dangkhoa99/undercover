@@ -1,0 +1,97 @@
+[
+  {
+    "id": "ben-xe-ben-pha",
+    "a": "Bến xe",
+    "b": "Bến phà"
+  },
+  {
+    "id": "cau-vuot-ham-chui",
+    "a": "Cầu vượt",
+    "b": "Hầm chui"
+  },
+  {
+    "id": "vong-xoay-nga-tu",
+    "a": "Vòng xoay",
+    "b": "Ngã tư"
+  },
+  {
+    "id": "san-van-dong-nha-thi-dau",
+    "a": "Sân vận động",
+    "b": "Nhà thi đấu"
+  },
+  {
+    "id": "bao-tang-trien-lam",
+    "a": "Bảo tàng",
+    "b": "Triển lãm"
+  },
+  {
+    "id": "khu-vui-choi-cong-vien-nuoc",
+    "a": "Khu vui chơi",
+    "b": "Công viên nước"
+  },
+  {
+    "id": "tiem-cat-toc-tiem-lam-mong",
+    "a": "Tiệm cắt tóc",
+    "b": "Tiệm làm móng"
+  },
+  {
+    "id": "hieu-thuoc-cua-hang-tien-loi",
+    "a": "Hiệu thuốc",
+    "b": "Cửa hàng tiện lợi"
+  },
+  {
+    "id": "tram-xang-tiem-sua-xe",
+    "a": "Trạm xăng",
+    "b": "Tiệm sửa xe"
+  },
+  {
+    "id": "dong-bang-cao-nguyen",
+    "a": "Đồng bằng",
+    "b": "Cao nguyên"
+  },
+  {
+    "id": "quang-truong-vuon-hoa",
+    "a": "Quảng trường",
+    "b": "Vườn hoa"
+  },
+  {
+    "id": "duong-lang-cao-toc",
+    "a": "Đường làng",
+    "b": "Cao tốc"
+  },
+  {
+    "id": "via-he-long-duong",
+    "a": "Vỉa hè",
+    "b": "Lòng đường"
+  },
+  {
+    "id": "nha-san-nha-ong",
+    "a": "Nhà sàn",
+    "b": "Nhà ống"
+  },
+  {
+    "id": "biet-thu-chung-cu",
+    "a": "Biệt thự",
+    "b": "Chung cư"
+  },
+  {
+    "id": "nha-tro-ky-tuc-xa",
+    "a": "Nhà trọ",
+    "b": "Ký túc xá"
+  },
+  {
+    "id": "da-lat-nha-trang",
+    "a": "Đà Lạt",
+    "b": "Nha Trang"
+  },
+  {
+    "id": "ben-xe-buyt-tram-tau-dien",
+    "a": "Bến xe buýt",
+    "b": "Trạm tàu điện"
+  },
+  {
+    "id": "lang-nghe-cho-que",
+    "a": "Làng nghề",
+    "b": "Chợ quê"
+  }
+]

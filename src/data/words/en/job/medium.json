@@ -1,0 +1,77 @@
+[
+  {
+    "id": "police-officer-security-guard",
+    "a": "Police officer",
+    "b": "Security guard"
+  },
+  {
+    "id": "firefighter-paramedic",
+    "a": "Firefighter",
+    "b": "Paramedic"
+  },
+  {
+    "id": "architect-engineer",
+    "a": "Architect",
+    "b": "Engineer"
+  },
+  {
+    "id": "librarian-bookseller",
+    "a": "Librarian",
+    "b": "Bookseller"
+  },
+  {
+    "id": "lifeguard-swimming-coach",
+    "a": "Lifeguard",
+    "b": "Swimming coach"
+  },
+  {
+    "id": "referee-coach",
+    "a": "Referee",
+    "b": "Coach"
+  },
+  {
+    "id": "manager-secretary",
+    "a": "Manager",
+    "b": "Secretary"
+  },
+  {
+    "id": "tour-guide-travel-agent",
+    "a": "Tour guide",
+    "b": "Travel agent"
+  },
+  {
+    "id": "bartender-barista",
+    "a": "Bartender",
+    "b": "Barista"
+  },
+  {
+    "id": "model-fashion-designer",
+    "a": "Model",
+    "b": "Fashion designer"
+  },
+  {
+    "id": "cameraman-director",
+    "a": "Cameraman",
+    "b": "Director"
+  },
+  {
+    "id": "florist-gardener",
+    "a": "Florist",
+    "b": "Gardener"
+  },
+  {
+    "id": "orthodontist-podiatrist",
+    "a": "Orthodontist",
+    "b": "Podiatrist"
+  },
+  {
+    "id": "caterer-food-critic",
+    "a": "Caterer",
+    "b": "Food critic"
+  },
+  {
+    "id": "sommelier-host",
+    "a": "Sommelier",
+    "b": "Host"
+  }
+]

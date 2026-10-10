@@ -1,0 +1,67 @@
+[
+  {
+    "id": "vitamin-painkiller",
+    "a": "Vitamin",
+    "b": "Painkiller"
+  },
+  {
+    "id": "yoga-pilates",
+    "a": "Yoga",
+    "b": "Pilates"
+  },
+  {
+    "id": "flu-cold",
+    "a": "Flu",
+    "b": "Cold"
+  },
+  {
+    "id": "push-up-sit-up",
+    "a": "Push-up",
+    "b": "Sit-up"
+  },
+  {
+    "id": "squat-lunge",
+    "a": "Squat",
+    "b": "Lunge"
+  },
+  {
+    "id": "floss-toothpick",
+    "a": "Floss",
+    "b": "Toothpick"
+  },
+  {
+    "id": "vaccine-antibiotic",
+    "a": "Vaccine",
+    "b": "Antibiotic"
+  },
+  {
+    "id": "ointment-lotion",
+    "a": "Ointment",
+    "b": "Lotion"
+  },
+  {
+    "id": "sprain-fracture",
+    "a": "Sprain",
+    "b": "Fracture"
+  },
+  {
+    "id": "cotton-swab-cotton-pad",
+    "a": "Cotton swab",
+    "b": "Cotton pad"
+  },
+  {
+    "id": "urgent-care-emergency-room",
+    "a": "Urgent care",
+    "b": "Emergency room"
+  },
+  {
+    "id": "joint-tendon",
+    "a": "Joint",
+    "b": "Tendon"
+  },
+  {
+    "id": "hand-cream-lip-balm",
+    "a": "Hand cream",
+    "b": "Lip balm"
+  }
+]

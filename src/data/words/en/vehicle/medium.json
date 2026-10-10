@@ -1,0 +1,137 @@
+[
+  {
+    "id": "train-tram",
+    "a": "Train",
+    "b": "Tram"
+  },
+  {
+    "id": "subway-monorail",
+    "a": "Subway",
+    "b": "Monorail"
+  },
+  {
+    "id": "canoe-kayak",
+    "a": "Canoe",
+    "b": "Kayak"
+  },
+  {
+    "id": "ferry-cruise-ship",
+    "a": "Ferry",
+    "b": "Cruise ship"
+  },
+  {
+    "id": "hot-air-balloon-blimp",
+    "a": "Hot air balloon",
+    "b": "Blimp"
+  },
+  {
+    "id": "police-car-taxi",
+    "a": "Police car",
+    "b": "Taxi"
+  },
+  {
+    "id": "jet-ski-rowboat",
+    "a": "Jet ski",
+    "b": "Rowboat"
+  },
+  {
+    "id": "glider-parachute",
+    "a": "Glider",
+    "b": "Parachute"
+  },
+  {
+    "id": "carriage-cart",
+    "a": "Carriage",
+    "b": "Cart"
+  },
+  {
+    "id": "moped-mountain-bike",
+    "a": "Moped",
+    "b": "Mountain bike"
+  },
+  {
+    "id": "minibus-school-bus",
+    "a": "Minibus",
+    "b": "School bus"
+  },
+  {
+    "id": "raft-lifeboat",
+    "a": "Raft",
+    "b": "Lifeboat"
+  },
+  {
+    "id": "airliner-cargo-plane",
+    "a": "Airliner",
+    "b": "Cargo plane"
+  },
+  {
+    "id": "racing-car-go-kart",
+    "a": "Racing car",
+    "b": "Go-kart"
+  },
+  {
+    "id": "excavator-crane",
+    "a": "Excavator",
+    "b": "Crane"
+  },
+  {
+    "id": "electric-scooter-hoverboard",
+    "a": "Electric scooter",
+    "b": "Hoverboard"
+  },
+  {
+    "id": "pedal-boat-paddleboard",
+    "a": "Pedal boat",
+    "b": "Paddleboard"
+  },
+  {
+    "id": "golf-cart-rickshaw",
+    "a": "Golf cart",
+    "b": "Rickshaw"
+  },
+  {
+    "id": "pickup-truck-minivan",
+    "a": "Pickup truck",
+    "b": "Minivan"
+  },
+  {
+    "id": "garbage-truck-tow-truck",
+    "a": "Garbage truck",
+    "b": "Tow truck"
+  },
+  {
+    "id": "cargo-ship-fishing-boat",
+    "a": "Cargo ship",
+    "b": "Fishing boat"
+  },
+  {
+    "id": "dump-truck-cement-mixer",
+    "a": "Dump truck",
+    "b": "Cement mixer"
+  },
+  {
+    "id": "streetcar-double-decker",
+    "a": "Streetcar",
+    "b": "Double-decker"
+  },
+  {
+    "id": "biplane-seaplane",
+    "a": "Biplane",
+    "b": "Seaplane"
+  },
+  {
+    "id": "snowplow-street-sweeper",
+    "a": "Snowplow",
+    "b": "Street sweeper"
+  },
+  {
+    "id": "quad-bike-dirt-bike",
+    "a": "Quad bike",
+    "b": "Dirt bike"
+  },
+  {
+    "id": "houseboat-yacht",
+    "a": "Houseboat",
+    "b": "Yacht"
+  }
+]

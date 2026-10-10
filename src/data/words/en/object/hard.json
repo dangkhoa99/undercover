@@ -1,0 +1,42 @@
+[
+  {
+    "id": "kettle-teapot",
+    "a": "Kettle",
+    "b": "Teapot"
+  },
+  {
+    "id": "frying-pan-saucepan",
+    "a": "Frying pan",
+    "b": "Saucepan"
+  },
+  {
+    "id": "marker-highlighter",
+    "a": "Marker",
+    "b": "Highlighter"
+  },
+  {
+    "id": "yarn-string",
+    "a": "Yarn",
+    "b": "String"
+  },
+  {
+    "id": "crowbar-wrench",
+    "a": "Crowbar",
+    "b": "Wrench"
+  },
+  {
+    "id": "wok-pan",
+    "a": "Wok",
+    "b": "Pan"
+  },
+  {
+    "id": "decanter-pitcher",
+    "a": "Decanter",
+    "b": "Pitcher"
+  },
+  {
+    "id": "lock-latch",
+    "a": "Lock",
+    "b": "Latch"
+  }
+]

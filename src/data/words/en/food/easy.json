@@ -1,0 +1,102 @@
+[
+  {
+    "id": "pizza-burger",
+    "a": "Pizza",
+    "b": "Burger"
+  },
+  {
+    "id": "jam-honey",
+    "a": "Jam",
+    "b": "Honey"
+  },
+  {
+    "id": "strawberry-cherry",
+    "a": "Strawberry",
+    "b": "Cherry"
+  },
+  {
+    "id": "banana-mango",
+    "a": "Banana",
+    "b": "Mango"
+  },
+  {
+    "id": "potato-carrot",
+    "a": "Potato",
+    "b": "Carrot"
+  },
+  {
+    "id": "onion-garlic",
+    "a": "Onion",
+    "b": "Garlic"
+  },
+  {
+    "id": "spinach-broccoli",
+    "a": "Spinach",
+    "b": "Broccoli"
+  },
+  {
+    "id": "rice-noodles",
+    "a": "Rice",
+    "b": "Noodles"
+  },
+  {
+    "id": "spaghetti-lasagna",
+    "a": "Spaghetti",
+    "b": "Lasagna"
+  },
+  {
+    "id": "steak-ribs",
+    "a": "Steak",
+    "b": "Ribs"
+  },
+  {
+    "id": "shrimp-crab",
+    "a": "Shrimp",
+    "b": "Crab"
+  },
+  {
+    "id": "salmon-tuna",
+    "a": "Salmon",
+    "b": "Tuna"
+  },
+  {
+    "id": "sushi-dumpling",
+    "a": "Sushi",
+    "b": "Dumpling"
+  },
+  {
+    "id": "popcorn-chips",
+    "a": "Popcorn",
+    "b": "Chips"
+  },
+  {
+    "id": "peanut-almond",
+    "a": "Peanut",
+    "b": "Almond"
+  },
+  {
+    "id": "yogurt-cheese",
+    "a": "Yogurt",
+    "b": "Cheese"
+  },
+  {
+    "id": "ketchup-mustard",
+    "a": "Ketchup",
+    "b": "Mustard"
+  },
+  {
+    "id": "salt-sugar",
+    "a": "Salt",
+    "b": "Sugar"
+  },
+  {
+    "id": "watermelon-pineapple",
+    "a": "Watermelon",
+    "b": "Pineapple"
+  },
+  {
+    "id": "pickle-olive",
+    "a": "Pickle",
+    "b": "Olive"
+  }
+]

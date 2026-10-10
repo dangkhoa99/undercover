@@ -1,0 +1,87 @@
+[
+  {
+    "id": "nha-si-bac-si-thu-y",
+    "a": "Nha sĩ",
+    "b": "Bác sĩ thú y"
+  },
+  {
+    "id": "cong-an-bo-doi",
+    "a": "Công an",
+    "b": "Bộ đội"
+  },
+  {
+    "id": "canh-sat-giao-thong-linh-cuu-hoa",
+    "a": "Cảnh sát giao thông",
+    "b": "Lính cứu hỏa"
+  },
+  {
+    "id": "tho-may-tho-cat-toc",
+    "a": "Thợ may",
+    "b": "Thợ cắt tóc"
+  },
+  {
+    "id": "tho-cat-toc-tho-lam-mong",
+    "a": "Thợ cắt tóc",
+    "b": "Thợ làm móng"
+  },
+  {
+    "id": "hoa-si-nhiep-anh-gia",
+    "a": "Họa sĩ",
+    "b": "Nhiếp ảnh gia"
+  },
+  {
+    "id": "hoa-si-nha-van",
+    "a": "Họa sĩ",
+    "b": "Nhà văn"
+  },
+  {
+    "id": "nong-dan-ngu-dan",
+    "a": "Nông dân",
+    "b": "Ngư dân"
+  },
+  {
+    "id": "phi-cong-tiep-vien-hang-khong",
+    "a": "Phi công",
+    "b": "Tiếp viên hàng không"
+  },
+  {
+    "id": "shipper-buu-ta",
+    "a": "Shipper",
+    "b": "Bưu tá"
+  },
+  {
+    "id": "lap-trinh-vien-thiet-ke-do-hoa",
+    "a": "Lập trình viên",
+    "b": "Thiết kế đồ họa"
+  },
+  {
+    "id": "luat-su-tham-phan",
+    "a": "Luật sư",
+    "b": "Thẩm phán"
+  },
+  {
+    "id": "tho-dien-tho-moc",
+    "a": "Thợ điện",
+    "b": "Thợ mộc"
+  },
+  {
+    "id": "cau-thu-trong-tai",
+    "a": "Cầu thủ",
+    "b": "Trọng tài"
+  },
+  {
+    "id": "ban-hang-rong-chu-tiem-tap-hoa",
+    "a": "Bán hàng rong",
+    "b": "Chủ tiệm tạp hóa"
+  },
+  {
+    "id": "tho-gom-tho-ren",
+    "a": "Thợ gốm",
+    "b": "Thợ rèn"
+  },
+  {
+    "id": "tho-lan-thuy-thu",
+    "a": "Thợ lặn",
+    "b": "Thủy thủ"
+  }
+]

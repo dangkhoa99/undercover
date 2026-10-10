@@ -1,0 +1,77 @@
+[
+  {
+    "id": "cau-ca-cam-trai",
+    "a": "Câu cá",
+    "b": "Cắm trại"
+  },
+  {
+    "id": "chup-anh-quay-phim",
+    "a": "Chụp ảnh",
+    "b": "Quay phim"
+  },
+  {
+    "id": "nuoi-ca-canh-nuoi-chim",
+    "a": "Nuôi cá cảnh",
+    "b": "Nuôi chim"
+  },
+  {
+    "id": "hat-karaoke-choi-dan",
+    "a": "Hát karaoke",
+    "b": "Chơi đàn"
+  },
+  {
+    "id": "choi-game-xem-phim",
+    "a": "Chơi game",
+    "b": "Xem phim"
+  },
+  {
+    "id": "da-cau-cau-long",
+    "a": "Đá cầu",
+    "b": "Cầu lông"
+  },
+  {
+    "id": "danh-bai-danh-co",
+    "a": "Đánh bài",
+    "b": "Đánh cờ"
+  },
+  {
+    "id": "nhay-day-choi-chuyen",
+    "a": "Nhảy dây",
+    "b": "Chơi chuyền"
+  },
+  {
+    "id": "xem-bong-da-xem-ca-nhac",
+    "a": "Xem bóng đá",
+    "b": "Xem ca nhạc"
+  },
+  {
+    "id": "di-bao-tang-di-thu-vien",
+    "a": "Đi bảo tàng",
+    "b": "Đi thư viện"
+  },
+  {
+    "id": "dat-cho-di-dao-cham-meo",
+    "a": "Dắt chó đi dạo",
+    "b": "Chăm mèo"
+  },
+  {
+    "id": "pha-tra-pha-ca-phe",
+    "a": "Pha trà",
+    "b": "Pha cà phê"
+  },
+  {
+    "id": "choi-bida-choi-bowling",
+    "a": "Chơi bida",
+    "b": "Chơi bowling"
+  },
+  {
+    "id": "choi-sao-choi-trong",
+    "a": "Chơi sáo",
+    "b": "Chơi trống"
+  },
+  {
+    "id": "ngam-sao-ngam-hoa",
+    "a": "Ngắm sao",
+    "b": "Ngắm hoa"
+  }
+]

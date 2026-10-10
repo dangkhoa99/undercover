@@ -1,0 +1,82 @@
+[
+  {
+    "id": "ho-ao",
+    "a": "Hồ",
+    "b": "Ao"
+  },
+  {
+    "id": "cay-dua-cay-cau",
+    "a": "Cây dừa",
+    "b": "Cây cau"
+  },
+  {
+    "id": "tre-truc",
+    "a": "Tre",
+    "b": "Trúc"
+  },
+  {
+    "id": "suong-mu-may",
+    "a": "Sương mù",
+    "b": "Mây"
+  },
+  {
+    "id": "mua-rao-mua-phun",
+    "a": "Mưa rào",
+    "b": "Mưa phùn"
+  },
+  {
+    "id": "canh-dong-dong-co",
+    "a": "Cánh đồng",
+    "b": "Đồng cỏ"
+  },
+  {
+    "id": "song-kenh",
+    "a": "Sông",
+    "b": "Kênh"
+  },
+  {
+    "id": "ruong-lua-dam-lay",
+    "a": "Ruộng lúa",
+    "b": "Đầm lầy"
+  },
+  {
+    "id": "hoa-sen-hoa-sung",
+    "a": "Hoa sen",
+    "b": "Hoa súng"
+  },
+  {
+    "id": "cay-bang-cay-phuong",
+    "a": "Cây bàng",
+    "b": "Cây phượng"
+  },
+  {
+    "id": "cay-xoai-cay-oi",
+    "a": "Cây xoài",
+    "b": "Cây ổi"
+  },
+  {
+    "id": "mua-da-tuyet",
+    "a": "Mưa đá",
+    "b": "Tuyết"
+  },
+  {
+    "id": "suong-mua-phun",
+    "a": "Sương",
+    "b": "Mưa phùn"
+  },
+  {
+    "id": "ngo-lua",
+    "a": "Ngô",
+    "b": "Lúa"
+  },
+  {
+    "id": "rung-ngap-man-dam-lay",
+    "a": "Rừng ngập mặn",
+    "b": "Đầm lầy"
+  },
+  {
+    "id": "gieng-ao",
+    "a": "Giếng",
+    "b": "Ao"
+  }
+]

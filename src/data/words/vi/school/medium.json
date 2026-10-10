@@ -1,0 +1,122 @@
+[
+  {
+    "id": "sach-giao-khoa-vo",
+    "a": "Sách giáo khoa",
+    "b": "Vở"
+  },
+  {
+    "id": "lop-hoc-giang-duong",
+    "a": "Lớp học",
+    "b": "Giảng đường"
+  },
+  {
+    "id": "cang-tin-quan-com",
+    "a": "Căng tin",
+    "b": "Quán cơm"
+  },
+  {
+    "id": "bai-tap-bai-kiem-tra",
+    "a": "Bài tập",
+    "b": "Bài kiểm tra"
+  },
+  {
+    "id": "hoa-hoc-sinh-hoc",
+    "a": "Hóa học",
+    "b": "Sinh học"
+  },
+  {
+    "id": "lop-truong-to-truong",
+    "a": "Lớp trưởng",
+    "b": "Tổ trưởng"
+  },
+  {
+    "id": "gio-ra-choi-gio-tan-hoc",
+    "a": "Giờ ra chơi",
+    "b": "Giờ tan học"
+  },
+  {
+    "id": "hoc-them-hoc-nhom",
+    "a": "Học thêm",
+    "b": "Học nhóm"
+  },
+  {
+    "id": "mau-giao-nha-tre",
+    "a": "Mẫu giáo",
+    "b": "Nhà trẻ"
+  },
+  {
+    "id": "tieu-hoc-trung-hoc",
+    "a": "Tiểu học",
+    "b": "Trung học"
+  },
+  {
+    "id": "thuc-tap-lam-them",
+    "a": "Thực tập",
+    "b": "Làm thêm"
+  },
+  {
+    "id": "noi-quy-thoi-khoa-bieu",
+    "a": "Nội quy",
+    "b": "Thời khóa biểu"
+  },
+  {
+    "id": "phong-giao-vien-phong-y-te",
+    "a": "Phòng giáo viên",
+    "b": "Phòng y tế"
+  },
+  {
+    "id": "sach-tham-khao-tu-dien",
+    "a": "Sách tham khảo",
+    "b": "Từ điển"
+  },
+  {
+    "id": "ban-tinh-may-tinh-bo-tui",
+    "a": "Bàn tính",
+    "b": "Máy tính bỏ túi"
+  },
+  {
+    "id": "giay-khen-bang-tot-nghiep",
+    "a": "Giấy khen",
+    "b": "Bằng tốt nghiệp"
+  },
+  {
+    "id": "chinh-ta-tap-lam-van",
+    "a": "Chính tả",
+    "b": "Tập làm văn"
+  },
+  {
+    "id": "da-ngoai-hoc-ngoai-khoa",
+    "a": "Dã ngoại",
+    "b": "Học ngoại khóa"
+  },
+  {
+    "id": "van-nghe-hoi-thao",
+    "a": "Văn nghệ",
+    "b": "Hội thao"
+  },
+  {
+    "id": "tin-hoc-cong-nghe",
+    "a": "Tin học",
+    "b": "Công nghệ"
+  },
+  {
+    "id": "thuoc-day-thuoc-thang",
+    "a": "Thước dây",
+    "b": "Thước thẳng"
+  },
+  {
+    "id": "dong-phuc-ao-the-duc",
+    "a": "Đồng phục",
+    "b": "Áo thể dục"
+  },
+  {
+    "id": "lop-chuyen-lop-thuong",
+    "a": "Lớp chuyên",
+    "b": "Lớp thường"
+  },
+  {
+    "id": "so-do-bieu-do",
+    "a": "Sơ đồ",
+    "b": "Biểu đồ"
+  }
+]

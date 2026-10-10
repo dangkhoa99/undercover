@@ -1,0 +1,82 @@
+[
+  {
+    "id": "passport-visa",
+    "a": "Passport",
+    "b": "Visa"
+  },
+  {
+    "id": "map-compass",
+    "a": "Map",
+    "b": "Compass"
+  },
+  {
+    "id": "taxi-subway",
+    "a": "Taxi",
+    "b": "Subway"
+  },
+  {
+    "id": "sunscreen-insect-repellent",
+    "a": "Sunscreen",
+    "b": "Insect repellent"
+  },
+  {
+    "id": "jet-lag-seasickness",
+    "a": "Jet lag",
+    "b": "Seasickness"
+  },
+  {
+    "id": "platform-runway",
+    "a": "Platform",
+    "b": "Runway"
+  },
+  {
+    "id": "mountain-volcano",
+    "a": "Mountain",
+    "b": "Volcano"
+  },
+  {
+    "id": "hammock-deckchair",
+    "a": "Hammock",
+    "b": "Deckchair"
+  },
+  {
+    "id": "snorkeling-scuba-diving",
+    "a": "Snorkeling",
+    "b": "Scuba diving"
+  },
+  {
+    "id": "life-jacket-swim-ring",
+    "a": "Life jacket",
+    "b": "Swim ring"
+  },
+  {
+    "id": "hiking-boots-sandals",
+    "a": "Hiking boots",
+    "b": "Sandals"
+  },
+  {
+    "id": "roller-coaster-ferris-wheel",
+    "a": "Roller coaster",
+    "b": "Ferris wheel"
+  },
+  {
+    "id": "postcard-stamp",
+    "a": "Postcard",
+    "b": "Stamp"
+  },
+  {
+    "id": "street-map-globe",
+    "a": "Street map",
+    "b": "Globe"
+  },
+  {
+    "id": "seat-belt-airbag",
+    "a": "Seat belt",
+    "b": "Airbag"
+  },
+  {
+    "id": "cooler-bag-picnic-basket",
+    "a": "Cooler bag",
+    "b": "Picnic basket"
+  }
+]

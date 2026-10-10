@@ -1,0 +1,122 @@
+[
+  {
+    "id": "sneakers-boots",
+    "a": "Sneakers",
+    "b": "Boots"
+  },
+  {
+    "id": "skirt-dress",
+    "a": "Skirt",
+    "b": "Dress"
+  },
+  {
+    "id": "hat-cap",
+    "a": "Hat",
+    "b": "Cap"
+  },
+  {
+    "id": "t-shirt-tank-top",
+    "a": "T-shirt",
+    "b": "Tank top"
+  },
+  {
+    "id": "shorts-trousers",
+    "a": "Shorts",
+    "b": "Trousers"
+  },
+  {
+    "id": "belt-suspenders",
+    "a": "Belt",
+    "b": "Suspenders"
+  },
+  {
+    "id": "watch-bracelet",
+    "a": "Watch",
+    "b": "Bracelet"
+  },
+  {
+    "id": "necklace-earrings",
+    "a": "Necklace",
+    "b": "Earrings"
+  },
+  {
+    "id": "backpack-handbag",
+    "a": "Backpack",
+    "b": "Handbag"
+  },
+  {
+    "id": "umbrella-raincoat",
+    "a": "Umbrella",
+    "b": "Raincoat"
+  },
+  {
+    "id": "pajamas-robe",
+    "a": "Pajamas",
+    "b": "Robe"
+  },
+  {
+    "id": "helmet-beanie",
+    "a": "Helmet",
+    "b": "Beanie"
+  },
+  {
+    "id": "heels-flats",
+    "a": "Heels",
+    "b": "Flats"
+  },
+  {
+    "id": "earmuffs-headphones",
+    "a": "Earmuffs",
+    "b": "Headphones"
+  },
+  {
+    "id": "goggles-sunglasses",
+    "a": "Goggles",
+    "b": "Sunglasses"
+  },
+  {
+    "id": "button-zipper",
+    "a": "Button",
+    "b": "Zipper"
+  },
+  {
+    "id": "suitcase-duffel-bag",
+    "a": "Suitcase",
+    "b": "Duffel bag"
+  },
+  {
+    "id": "lipstick-nail-polish",
+    "a": "Lipstick",
+    "b": "Nail polish"
+  },
+  {
+    "id": "perfume-deodorant",
+    "a": "Perfume",
+    "b": "Deodorant"
+  },
+  {
+    "id": "comb-hairbrush",
+    "a": "Comb",
+    "b": "Hairbrush"
+  },
+  {
+    "id": "tracksuit-jeans",
+    "a": "Tracksuit",
+    "b": "Jeans"
+  },
+  {
+    "id": "bikini-wetsuit",
+    "a": "Bikini",
+    "b": "Wetsuit"
+  },
+  {
+    "id": "sarong-kilt",
+    "a": "Sarong",
+    "b": "Kilt"
+  },
+  {
+    "id": "kimono-sari",
+    "a": "Kimono",
+    "b": "Sari"
+  }
+]

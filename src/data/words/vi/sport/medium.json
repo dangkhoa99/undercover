@@ -1,0 +1,97 @@
+[
+  {
+    "id": "cau-long-quan-vot",
+    "a": "Cầu lông",
+    "b": "Quần vợt"
+  },
+  {
+    "id": "yoga-gym",
+    "a": "Yoga",
+    "b": "Gym"
+  },
+  {
+    "id": "bong-chuyen-bong-nem",
+    "a": "Bóng chuyền",
+    "b": "Bóng ném"
+  },
+  {
+    "id": "quyen-anh-dau-vat",
+    "a": "Quyền anh",
+    "b": "Đấu vật"
+  },
+  {
+    "id": "truot-tuyet-truot-van",
+    "a": "Trượt tuyết",
+    "b": "Trượt ván"
+  },
+  {
+    "id": "may-chay-bo-xe-dap-tap",
+    "a": "Máy chạy bộ",
+    "b": "Xe đạp tập"
+  },
+  {
+    "id": "marathon-chay-vuot-rao",
+    "a": "Marathon",
+    "b": "Chạy vượt rào"
+  },
+  {
+    "id": "nhay-xa-nhay-cao",
+    "a": "Nhảy xa",
+    "b": "Nhảy cao"
+  },
+  {
+    "id": "nem-dia-nem-lao",
+    "a": "Ném đĩa",
+    "b": "Ném lao"
+  },
+  {
+    "id": "the-duc-dung-cu-aerobic",
+    "a": "Thể dục dụng cụ",
+    "b": "Aerobic"
+  },
+  {
+    "id": "truot-bang-truot-tuyet",
+    "a": "Trượt băng",
+    "b": "Trượt tuyết"
+  },
+  {
+    "id": "sea-games-world-cup",
+    "a": "SEA Games",
+    "b": "World Cup"
+  },
+  {
+    "id": "nhay-du-du-luon",
+    "a": "Nhảy dù",
+    "b": "Dù lượn"
+  },
+  {
+    "id": "dua-xe-may-dua-xe-dap",
+    "a": "Đua xe máy",
+    "b": "Đua xe đạp"
+  },
+  {
+    "id": "phat-den-phat-goc",
+    "a": "Phạt đền",
+    "b": "Phạt góc"
+  },
+  {
+    "id": "bong-ban-quan-vot",
+    "a": "Bóng bàn",
+    "b": "Quần vợt"
+  },
+  {
+    "id": "bong-nem-bong-nuoc",
+    "a": "Bóng ném",
+    "b": "Bóng nước"
+  },
+  {
+    "id": "chay-dia-hinh-di-bo-nhanh",
+    "a": "Chạy địa hình",
+    "b": "Đi bộ nhanh"
+  },
+  {
+    "id": "duong-sinh-thai-cuc-quyen",
+    "a": "Dưỡng sinh",
+    "b": "Thái cực quyền"
+  }
+]

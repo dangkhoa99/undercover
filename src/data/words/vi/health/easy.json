@@ -1,0 +1,77 @@
+[
+  {
+    "id": "nhiet-ke-may-do-huyet-ap",
+    "a": "Nhiệt kế",
+    "b": "Máy đo huyết áp"
+  },
+  {
+    "id": "ban-chai-danh-rang-chi-nha-khoa",
+    "a": "Bàn chải đánh răng",
+    "b": "Chỉ nha khoa"
+  },
+  {
+    "id": "sua-rua-mat-kem-chong-nang",
+    "a": "Sữa rửa mặt",
+    "b": "Kem chống nắng"
+  },
+  {
+    "id": "dau-dau-dau-bung",
+    "a": "Đau đầu",
+    "b": "Đau bụng"
+  },
+  {
+    "id": "ta-tay-xa-don",
+    "a": "Tạ tay",
+    "b": "Xà đơn"
+  },
+  {
+    "id": "giac-hoi-cham-cuu",
+    "a": "Giác hơi",
+    "b": "Châm cứu"
+  },
+  {
+    "id": "kinh-can-kinh-ram",
+    "a": "Kính cận",
+    "b": "Kính râm"
+  },
+  {
+    "id": "xuong-co-bap",
+    "a": "Xương",
+    "b": "Cơ bắp"
+  },
+  {
+    "id": "tim-phoi",
+    "a": "Tim",
+    "b": "Phổi"
+  },
+  {
+    "id": "tai-mui",
+    "a": "Tai",
+    "b": "Mũi"
+  },
+  {
+    "id": "rau-xanh-trai-cay",
+    "a": "Rau xanh",
+    "b": "Trái cây"
+  },
+  {
+    "id": "xe-lan-nang",
+    "a": "Xe lăn",
+    "b": "Nạng"
+  },
+  {
+    "id": "dau-goi-mat-ca",
+    "a": "Đầu gối",
+    "b": "Mắt cá"
+  },
+  {
+    "id": "chuom-nong-chuom-da",
+    "a": "Chườm nóng",
+    "b": "Chườm đá"
+  },
+  {
+    "id": "thuoc-vien-thuoc-nuoc",
+    "a": "Thuốc viên",
+    "b": "Thuốc nước"
+  }
+]

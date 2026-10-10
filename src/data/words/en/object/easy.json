@@ -1,0 +1,67 @@
+[
+  {
+    "id": "backpack-suitcase",
+    "a": "Backpack",
+    "b": "Suitcase"
+  },
+  {
+    "id": "mug-glass",
+    "a": "Mug",
+    "b": "Glass"
+  },
+  {
+    "id": "hammer-screwdriver",
+    "a": "Hammer",
+    "b": "Screwdriver"
+  },
+  {
+    "id": "toothbrush-razor",
+    "a": "Toothbrush",
+    "b": "Razor"
+  },
+  {
+    "id": "envelope-parcel",
+    "a": "Envelope",
+    "b": "Parcel"
+  },
+  {
+    "id": "fan-heater",
+    "a": "Fan",
+    "b": "Heater"
+  },
+  {
+    "id": "remote-calculator",
+    "a": "Remote",
+    "b": "Calculator"
+  },
+  {
+    "id": "eraser-sharpener",
+    "a": "Eraser",
+    "b": "Sharpener"
+  },
+  {
+    "id": "needle-pin",
+    "a": "Needle",
+    "b": "Pin"
+  },
+  {
+    "id": "ring-necklace",
+    "a": "Ring",
+    "b": "Necklace"
+  },
+  {
+    "id": "easel-palette",
+    "a": "Easel",
+    "b": "Palette"
+  },
+  {
+    "id": "chisel-mallet",
+    "a": "Chisel",
+    "b": "Mallet"
+  },
+  {
+    "id": "rolling-pin-cutting-board",
+    "a": "Rolling pin",
+    "b": "Cutting board"
+  }
+]

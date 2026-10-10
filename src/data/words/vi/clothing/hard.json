@@ -1,0 +1,72 @@
+[
+  {
+    "id": "ca-vat-no-co",
+    "a": "Cà vạt",
+    "b": "Nơ cổ"
+  },
+  {
+    "id": "ao-khoac-ao-len",
+    "a": "Áo khoác",
+    "b": "Áo len"
+  },
+  {
+    "id": "ao-vest-ao-gile",
+    "a": "Áo vest",
+    "b": "Áo gile"
+  },
+  {
+    "id": "ao-hoodie-ao-len",
+    "a": "Áo hoodie",
+    "b": "Áo len"
+  },
+  {
+    "id": "ao-hoodie-ao-gio",
+    "a": "Áo hoodie",
+    "b": "Áo gió"
+  },
+  {
+    "id": "giay-sandal-dep-le",
+    "a": "Giày sandal",
+    "b": "Dép lê"
+  },
+  {
+    "id": "vay-cuoi-dam-da-hoi",
+    "a": "Váy cưới",
+    "b": "Đầm dạ hội"
+  },
+  {
+    "id": "giay-cao-co-giay-thap-co",
+    "a": "Giày cao cổ",
+    "b": "Giày thấp cổ"
+  },
+  {
+    "id": "do-tap-yoga-do-chay-bo",
+    "a": "Đồ tập yoga",
+    "b": "Đồ chạy bộ"
+  },
+  {
+    "id": "vay-yem-quan-yem",
+    "a": "Váy yếm",
+    "b": "Quần yếm"
+  },
+  {
+    "id": "mu-be-re-mu-phot",
+    "a": "Mũ bê rê",
+    "b": "Mũ phớt"
+  },
+  {
+    "id": "quan-ong-loe-quan-ong-suong",
+    "a": "Quần ống loe",
+    "b": "Quần ống suông"
+  },
+  {
+    "id": "giay-moi-giay-oxford",
+    "a": "Giày mọi",
+    "b": "Giày oxford"
+  },
+  {
+    "id": "khan-choang-khan-voan",
+    "a": "Khăn choàng",
+    "b": "Khăn voan"
+  }
+]

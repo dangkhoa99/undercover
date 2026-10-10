@@ -1,0 +1,122 @@
+[
+  {
+    "id": "trolley-basket",
+    "a": "Trolley",
+    "b": "Basket"
+  },
+  {
+    "id": "coupon-gift-card",
+    "a": "Coupon",
+    "b": "Gift card"
+  },
+  {
+    "id": "cashier-salesperson",
+    "a": "Cashier",
+    "b": "Salesperson"
+  },
+  {
+    "id": "price-tag-barcode",
+    "a": "Price tag",
+    "b": "Barcode"
+  },
+  {
+    "id": "coin-banknote",
+    "a": "Coin",
+    "b": "Banknote"
+  },
+  {
+    "id": "warehouse-showroom",
+    "a": "Warehouse",
+    "b": "Showroom"
+  },
+  {
+    "id": "delivery-pickup",
+    "a": "Delivery",
+    "b": "Pickup"
+  },
+  {
+    "id": "laundromat-dry-cleaner",
+    "a": "Laundromat",
+    "b": "Dry cleaner"
+  },
+  {
+    "id": "window-shopping-online-shopping",
+    "a": "Window shopping",
+    "b": "Online shopping"
+  },
+  {
+    "id": "mobile-payment-credit-card",
+    "a": "Mobile payment",
+    "b": "Credit card"
+  },
+  {
+    "id": "loyalty-points-discount",
+    "a": "Loyalty points",
+    "b": "Discount"
+  },
+  {
+    "id": "stall-kiosk",
+    "a": "Stall",
+    "b": "Kiosk"
+  },
+  {
+    "id": "barcode-scanner-cash-register",
+    "a": "Barcode scanner",
+    "b": "Cash register"
+  },
+  {
+    "id": "wholesale-retail",
+    "a": "Wholesale",
+    "b": "Retail"
+  },
+  {
+    "id": "brand-logo",
+    "a": "Brand",
+    "b": "Logo"
+  },
+  {
+    "id": "flyer-poster",
+    "a": "Flyer",
+    "b": "Poster"
+  },
+  {
+    "id": "toy-shop-candy-store",
+    "a": "Toy shop",
+    "b": "Candy store"
+  },
+  {
+    "id": "shopping-bag-gift-bag",
+    "a": "Shopping bag",
+    "b": "Gift bag"
+  },
+  {
+    "id": "antique-souvenir",
+    "a": "Antique",
+    "b": "Souvenir"
+  },
+  {
+    "id": "cosmetics-toiletries",
+    "a": "Cosmetics",
+    "b": "Toiletries"
+  },
+  {
+    "id": "fishmonger-deli",
+    "a": "Fishmonger",
+    "b": "Deli"
+  },
+  {
+    "id": "gift-voucher-bank-card",
+    "a": "Gift voucher",
+    "b": "Bank card"
+  },
+  {
+    "id": "stationery-shop-craft-shop",
+    "a": "Stationery shop",
+    "b": "Craft shop"
+  },
+  {
+    "id": "gift-wrap-greeting-card",
+    "a": "Gift wrap",
+    "b": "Greeting card"
+  }
+]

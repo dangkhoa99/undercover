@@ -1,0 +1,57 @@
+[
+  {
+    "id": "cho-sieu-thi",
+    "a": "Chợ",
+    "b": "Siêu thị"
+  },
+  {
+    "id": "quan-ca-phe-quan-tra-sua",
+    "a": "Quán cà phê",
+    "b": "Quán trà sữa"
+  },
+  {
+    "id": "nha-hang-quan-via-he",
+    "a": "Nhà hàng",
+    "b": "Quán vỉa hè"
+  },
+  {
+    "id": "khach-san-nha-nghi",
+    "a": "Khách sạn",
+    "b": "Nhà nghỉ"
+  },
+  {
+    "id": "pho-co-pho-di-bo",
+    "a": "Phố cổ",
+    "b": "Phố đi bộ"
+  },
+  {
+    "id": "cho-dem-pho-am-thuc",
+    "a": "Chợ đêm",
+    "b": "Phố ẩm thực"
+  },
+  {
+    "id": "dai-hoc-cao-dang",
+    "a": "Đại học",
+    "b": "Cao đẳng"
+  },
+  {
+    "id": "quan-com-quan-pho",
+    "a": "Quán cơm",
+    "b": "Quán phở"
+  },
+  {
+    "id": "vuon-rau-vuon-hoa",
+    "a": "Vườn rau",
+    "b": "Vườn hoa"
+  },
+  {
+    "id": "quan-nhau-quan-bia-hoi",
+    "a": "Quán nhậu",
+    "b": "Quán bia hơi"
+  },
+  {
+    "id": "den-mieu",
+    "a": "Đền",
+    "b": "Miếu"
+  }
+]

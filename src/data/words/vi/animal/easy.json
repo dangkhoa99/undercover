@@ -1,0 +1,72 @@
+[
+  {
+    "id": "cho-meo",
+    "a": "Chó",
+    "b": "Mèo"
+  },
+  {
+    "id": "voi-te-giac",
+    "a": "Voi",
+    "b": "Tê giác"
+  },
+  {
+    "id": "tho-chuot",
+    "a": "Thỏ",
+    "b": "Chuột"
+  },
+  {
+    "id": "muoi-kien",
+    "a": "Muỗi",
+    "b": "Kiến"
+  },
+  {
+    "id": "rua-oc-sen",
+    "a": "Rùa",
+    "b": "Ốc sên"
+  },
+  {
+    "id": "ca-heo-ca-map",
+    "a": "Cá heo",
+    "b": "Cá mập"
+  },
+  {
+    "id": "cu-meo-doi",
+    "a": "Cú mèo",
+    "b": "Dơi"
+  },
+  {
+    "id": "gau-soi",
+    "a": "Gấu",
+    "b": "Sói"
+  },
+  {
+    "id": "luon-ran",
+    "a": "Lươn",
+    "b": "Rắn"
+  },
+  {
+    "id": "tom-cua",
+    "a": "Tôm",
+    "b": "Cua"
+  },
+  {
+    "id": "huou-cao-co-ngua-van",
+    "a": "Hươu cao cổ",
+    "b": "Ngựa vằn"
+  },
+  {
+    "id": "cong-da-dieu",
+    "a": "Công",
+    "b": "Đà điểu"
+  },
+  {
+    "id": "gian-kien",
+    "a": "Gián",
+    "b": "Kiến"
+  },
+  {
+    "id": "chim-canh-cut-hai-au",
+    "a": "Chim cánh cụt",
+    "b": "Hải âu"
+  }
+]

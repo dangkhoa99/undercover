@@ -1,0 +1,132 @@
+[
+  {
+    "id": "green-tea-black-tea",
+    "a": "Green tea",
+    "b": "Black tea"
+  },
+  {
+    "id": "cocktail-mocktail",
+    "a": "Cocktail",
+    "b": "Mocktail"
+  },
+  {
+    "id": "lemonade-iced-tea",
+    "a": "Lemonade",
+    "b": "Iced tea"
+  },
+  {
+    "id": "bubble-tea-smoothie",
+    "a": "Bubble tea",
+    "b": "Smoothie"
+  },
+  {
+    "id": "eggnog-milkshake",
+    "a": "Eggnog",
+    "b": "Milkshake"
+  },
+  {
+    "id": "root-beer-cola",
+    "a": "Root beer",
+    "b": "Cola"
+  },
+  {
+    "id": "tonic-water-soda-water",
+    "a": "Tonic water",
+    "b": "Soda water"
+  },
+  {
+    "id": "gin-tonic-water",
+    "a": "Gin",
+    "b": "Tonic water"
+  },
+  {
+    "id": "margarita-mojito",
+    "a": "Margarita",
+    "b": "Mojito"
+  },
+  {
+    "id": "stout-lager",
+    "a": "Stout",
+    "b": "Lager"
+  },
+  {
+    "id": "sugarcane-juice-coconut-water",
+    "a": "Sugarcane juice",
+    "b": "Coconut water"
+  },
+  {
+    "id": "punch-cocktail",
+    "a": "Punch",
+    "b": "Cocktail"
+  },
+  {
+    "id": "almond-milk-soy-milk",
+    "a": "Almond milk",
+    "b": "Soy milk"
+  },
+  {
+    "id": "ginger-beer-lemon-soda",
+    "a": "Ginger beer",
+    "b": "Lemon soda"
+  },
+  {
+    "id": "lassi-buttermilk",
+    "a": "Lassi",
+    "b": "Buttermilk"
+  },
+  {
+    "id": "oolong-jasmine-tea",
+    "a": "Oolong",
+    "b": "Jasmine tea"
+  },
+  {
+    "id": "rooibos-chamomile",
+    "a": "Rooibos",
+    "b": "Chamomile"
+  },
+  {
+    "id": "mocha-macchiato",
+    "a": "Mocha",
+    "b": "Macchiato"
+  },
+  {
+    "id": "cold-brew-drip-coffee",
+    "a": "Cold brew",
+    "b": "Drip coffee"
+  },
+  {
+    "id": "decaf-instant-coffee",
+    "a": "Decaf",
+    "b": "Instant coffee"
+  },
+  {
+    "id": "cranberry-juice-pomegranate-juice",
+    "a": "Cranberry juice",
+    "b": "Pomegranate juice"
+  },
+  {
+    "id": "kombucha-kefir",
+    "a": "Kombucha",
+    "b": "Kefir"
+  },
+  {
+    "id": "sangria-mead",
+    "a": "Sangria",
+    "b": "Mead"
+  },
+  {
+    "id": "hot-toddy-hot-cider",
+    "a": "Hot toddy",
+    "b": "Hot cider"
+  },
+  {
+    "id": "slush-frappe",
+    "a": "Slush",
+    "b": "Frappe"
+  },
+  {
+    "id": "peach-tea-lemon-tea",
+    "a": "Peach tea",
+    "b": "Lemon tea"
+  }
+]

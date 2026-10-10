@@ -1,0 +1,117 @@
+[
+  {
+    "id": "tau-hoa-tau-dien-ngam",
+    "a": "Tàu hỏa",
+    "b": "Tàu điện ngầm"
+  },
+  {
+    "id": "taxi-xe-om",
+    "a": "Taxi",
+    "b": "Xe ôm"
+  },
+  {
+    "id": "thuyen-tau-thuy",
+    "a": "Thuyền",
+    "b": "Tàu thủy"
+  },
+  {
+    "id": "ca-no-thuyen-buom",
+    "a": "Ca nô",
+    "b": "Thuyền buồm"
+  },
+  {
+    "id": "xe-dap-dien-xe-may-dien",
+    "a": "Xe đạp điện",
+    "b": "Xe máy điện"
+  },
+  {
+    "id": "van-truot-giay-truot",
+    "a": "Ván trượt",
+    "b": "Giày trượt"
+  },
+  {
+    "id": "xe-ngua-xe-bo",
+    "a": "Xe ngựa",
+    "b": "Xe bò"
+  },
+  {
+    "id": "pha-do",
+    "a": "Phà",
+    "b": "Đò"
+  },
+  {
+    "id": "xe-cut-kit-xe-rua",
+    "a": "Xe cút kít",
+    "b": "Xe rùa"
+  },
+  {
+    "id": "xe-ui-xe-muc",
+    "a": "Xe ủi",
+    "b": "Xe múc"
+  },
+  {
+    "id": "thuyen-thung-be",
+    "a": "Thuyền thúng",
+    "b": "Bè"
+  },
+  {
+    "id": "tau-cho-khach-tau-cho-hang",
+    "a": "Tàu chở khách",
+    "b": "Tàu chở hàng"
+  },
+  {
+    "id": "sieu-xe-xe-dua",
+    "a": "Siêu xe",
+    "b": "Xe đua"
+  },
+  {
+    "id": "xe-dap-doi-xe-ba-banh",
+    "a": "Xe đạp đôi",
+    "b": "Xe ba bánh"
+  },
+  {
+    "id": "xe-dien-xe-xang",
+    "a": "Xe điện",
+    "b": "Xe xăng"
+  },
+  {
+    "id": "xe-dau-keo-xe-container",
+    "a": "Xe đầu kéo",
+    "b": "Xe container"
+  },
+  {
+    "id": "xe-buyt-hai-tang-xe-buyt-nhanh",
+    "a": "Xe buýt hai tầng",
+    "b": "Xe buýt nhanh"
+  },
+  {
+    "id": "xe-golf-xe-dien-du-lich",
+    "a": "Xe golf",
+    "b": "Xe điện du lịch"
+  },
+  {
+    "id": "xe-dap-gap-xe-dap-cu",
+    "a": "Xe đạp gấp",
+    "b": "Xe đạp cũ"
+  },
+  {
+    "id": "tau-cao-toc-tau-cho",
+    "a": "Tàu cao tốc",
+    "b": "Tàu chợ"
+  },
+  {
+    "id": "tau-luon-tau-canh-ngam",
+    "a": "Tàu lượn",
+    "b": "Tàu cánh ngầm"
+  },
+  {
+    "id": "xe-tai-lon-xe-ba-banh-cho-hang",
+    "a": "Xe tải lớn",
+    "b": "Xe ba bánh chở hàng"
+  },
+  {
+    "id": "xe-tay-con-xe-cao-cao",
+    "a": "Xe tay côn",
+    "b": "Xe cào cào"
+  }
+]

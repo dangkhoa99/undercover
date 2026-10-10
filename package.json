@@ -1,0 +1,68 @@
+{
+  "name": "undercover",
+  "description": "Undercover: a social deduction word party game for 3-20 players (EN/VI), playable in the browser and installable as a PWA.",
+  "author": {
+    "name": "Khoa Nguyen",
+    "email": "khoa.nmd.99@gmail.com"
+  },
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dangkhoa99/undercover.git"
+  },
+  "engines": {
+    "bun": ">=1.4.0"
+  },
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "oxlint",
+    "preview": "vite preview",
+    "test": "vitest run --passWithNoTests",
+    "typecheck": "tsc -b",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "pwa:icons": "pwa-assets-generator"
+  },
+  "dependencies": {
+    "@base-ui/react": "^1.9.0",
+    "@dnd-kit/core": "^6.3.1",
+    "@dnd-kit/modifiers": "^9.0.0",
+    "@dnd-kit/sortable": "^10.0.0",
+    "@dnd-kit/utilities": "^3.2.2",
+    "@fontsource-variable/geist": "^5.3.0",
+    "class-variance-authority": "^0.7.1",
+    "cn": "^0.4.0",
+    "i18next": "^26.4.2",
+    "i18next-browser-languagedetector": "^8.2.1",
+    "idb-keyval": "^6.3.0",
+    "lucide-react": "^1.54.0",
+    "motion": "^14.1.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-i18next": "^17.0.16",
+    "react-router-dom": "^7.18.4",
+    "shadcn": "^4.21.4",
+    "tw-animate-css": "^1.4.0",
+    "zustand": "^5.0.15"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/node": "^24.13.3",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.7",
+    "@vite-pwa/assets-generator": "^2.0.0",
+    "@vitejs/plugin-react": "^6.1.1",
+    "oxlint": "^1.81.0",
+    "prettier": "^3.9.9",
+    "prettier-plugin-tailwindcss": "^0.8.1",
+    "tailwindcss": "^4.3.3",
+    "typescript": "~6.0.2",
+    "vite": "^8.3.0",
+    "vite-plugin-pwa": "^2.0.0",
+    "vitest": "^5.0.3"
+  }
+}

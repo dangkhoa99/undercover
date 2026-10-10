@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ice-hockey-field-hockey",
+    "a": "Ice hockey",
+    "b": "Field hockey"
+  },
+  {
+    "id": "rowing-canoeing",
+    "a": "Rowing",
+    "b": "Canoeing"
+  },
+  {
+    "id": "penalty-free-kick",
+    "a": "Penalty",
+    "b": "Free kick"
+  },
+  {
+    "id": "snooker-pool",
+    "a": "Snooker",
+    "b": "Pool"
+  },
+  {
+    "id": "cricket-softball",
+    "a": "Cricket",
+    "b": "Softball"
+  },
+  {
+    "id": "goalkeeper-defender",
+    "a": "Goalkeeper",
+    "b": "Defender"
+  },
+  {
+    "id": "handball-netball",
+    "a": "Handball",
+    "b": "Netball"
+  },
+  {
+    "id": "umpire-linesman",
+    "a": "Umpire",
+    "b": "Linesman"
+  }
+]

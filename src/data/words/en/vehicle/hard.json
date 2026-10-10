@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sailboat-speedboat",
+    "a": "Sailboat",
+    "b": "Speedboat"
+  },
+  {
+    "id": "gondola-canoe",
+    "a": "Gondola",
+    "b": "Canoe"
+  },
+  {
+    "id": "camper-van-caravan",
+    "a": "Camper van",
+    "b": "Caravan"
+  },
+  {
+    "id": "convertible-sedan",
+    "a": "Convertible",
+    "b": "Sedan"
+  },
+  {
+    "id": "bullet-train-airliner",
+    "a": "Bullet train",
+    "b": "Airliner"
+  },
+  {
+    "id": "pedicab-tuk-tuk",
+    "a": "Pedicab",
+    "b": "Tuk-tuk"
+  },
+  {
+    "id": "sleigh-toboggan",
+    "a": "Sleigh",
+    "b": "Toboggan"
+  },
+  {
+    "id": "hatchback-station-wagon",
+    "a": "Hatchback",
+    "b": "Station wagon"
+  }
+]

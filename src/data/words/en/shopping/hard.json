@@ -1,0 +1,42 @@
+[
+  {
+    "id": "receipt-invoice",
+    "a": "Receipt",
+    "b": "Invoice"
+  },
+  {
+    "id": "market-mall",
+    "a": "Market",
+    "b": "Mall"
+  },
+  {
+    "id": "clearance-sale-flea-market",
+    "a": "Clearance sale",
+    "b": "Flea market"
+  },
+  {
+    "id": "thrift-shop-pawn-shop",
+    "a": "Thrift shop",
+    "b": "Pawn shop"
+  },
+  {
+    "id": "corner-shop-department-store",
+    "a": "Corner shop",
+    "b": "Department store"
+  },
+  {
+    "id": "boutique-convenience-store",
+    "a": "Boutique",
+    "b": "Convenience store"
+  },
+  {
+    "id": "bargain-giveaway",
+    "a": "Bargain",
+    "b": "Giveaway"
+  },
+  {
+    "id": "perfume-shop-drugstore",
+    "a": "Perfume shop",
+    "b": "Drugstore"
+  }
+]

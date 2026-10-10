@@ -1,0 +1,112 @@
+[
+  {
+    "id": "cartoon-comic-book",
+    "a": "Cartoon",
+    "b": "Comic book"
+  },
+  {
+    "id": "poker-bingo",
+    "a": "Poker",
+    "b": "Bingo"
+  },
+  {
+    "id": "television-radio",
+    "a": "Television",
+    "b": "Radio"
+  },
+  {
+    "id": "orchestra-choir",
+    "a": "Orchestra",
+    "b": "Choir"
+  },
+  {
+    "id": "thriller-horror",
+    "a": "Thriller",
+    "b": "Horror"
+  },
+  {
+    "id": "guitar-ukulele",
+    "a": "Guitar",
+    "b": "Ukulele"
+  },
+  {
+    "id": "carnival-fair",
+    "a": "Carnival",
+    "b": "Fair"
+  },
+  {
+    "id": "cartoon-anime",
+    "a": "Cartoon",
+    "b": "Anime"
+  },
+  {
+    "id": "trumpet-trombone",
+    "a": "Trumpet",
+    "b": "Trombone"
+  },
+  {
+    "id": "puppet-show-marionette",
+    "a": "Puppet show",
+    "b": "Marionette"
+  },
+  {
+    "id": "talk-show-reality-show",
+    "a": "Talk show",
+    "b": "Reality show"
+  },
+  {
+    "id": "escape-room-haunted-house",
+    "a": "Escape room",
+    "b": "Haunted house"
+  },
+  {
+    "id": "soap-opera-telenovela",
+    "a": "Soap opera",
+    "b": "Telenovela"
+  },
+  {
+    "id": "opera-house-concert-hall",
+    "a": "Opera house",
+    "b": "Concert hall"
+  },
+  {
+    "id": "ventriloquist-puppeteer",
+    "a": "Ventriloquist",
+    "b": "Puppeteer"
+  },
+  {
+    "id": "juggler-unicyclist",
+    "a": "Juggler",
+    "b": "Unicyclist"
+  },
+  {
+    "id": "word-search-anagram",
+    "a": "Word search",
+    "b": "Anagram"
+  },
+  {
+    "id": "magic-show-circus-act",
+    "a": "Magic show",
+    "b": "Circus act"
+  },
+  {
+    "id": "trivia-night-quiz-show",
+    "a": "Trivia night",
+    "b": "Quiz show"
+  },
+  {
+    "id": "cabaret-variety-show",
+    "a": "Cabaret",
+    "b": "Variety show"
+  },
+  {
+    "id": "roller-rink-skate-park",
+    "a": "Roller rink",
+    "b": "Skate park"
+  },
+  {
+    "id": "tombola-lottery",
+    "a": "Tombola",
+    "b": "Lottery"
+  }
+]

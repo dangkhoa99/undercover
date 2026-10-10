@@ -1,0 +1,122 @@
+[
+  {
+    "id": "giao-vien-giang-vien",
+    "a": "Giáo viên",
+    "b": "Giảng viên"
+  },
+  {
+    "id": "giao-vien-gia-su",
+    "a": "Giáo viên",
+    "b": "Gia sư"
+  },
+  {
+    "id": "dau-bep-phuc-vu-ban",
+    "a": "Đầu bếp",
+    "b": "Phục vụ bàn"
+  },
+  {
+    "id": "dau-bep-tho-lam-banh",
+    "a": "Đầu bếp",
+    "b": "Thợ làm bánh"
+  },
+  {
+    "id": "pha-che-phuc-vu-ban",
+    "a": "Pha chế",
+    "b": "Phục vụ bàn"
+  },
+  {
+    "id": "mc-dien-vien",
+    "a": "MC",
+    "b": "Diễn viên"
+  },
+  {
+    "id": "nha-bao-nhiep-anh-gia",
+    "a": "Nhà báo",
+    "b": "Nhiếp ảnh gia"
+  },
+  {
+    "id": "nha-van-nha-bao",
+    "a": "Nhà văn",
+    "b": "Nhà báo"
+  },
+  {
+    "id": "giam-doc-thu-ky",
+    "a": "Giám đốc",
+    "b": "Thư ký"
+  },
+  {
+    "id": "nhan-vien-van-phong-cong-nhan",
+    "a": "Nhân viên văn phòng",
+    "b": "Công nhân"
+  },
+  {
+    "id": "tai-xe-taxi-xe-om",
+    "a": "Tài xế taxi",
+    "b": "Xe ôm"
+  },
+  {
+    "id": "kien-truc-su-ky-su",
+    "a": "Kiến trúc sư",
+    "b": "Kỹ sư"
+  },
+  {
+    "id": "tho-xay-tho-son",
+    "a": "Thợ xây",
+    "b": "Thợ sơn"
+  },
+  {
+    "id": "van-dong-vien-huan-luyen-vien",
+    "a": "Vận động viên",
+    "b": "Huấn luyện viên"
+  },
+  {
+    "id": "huong-dan-vien-phien-dich-vien",
+    "a": "Hướng dẫn viên",
+    "b": "Phiên dịch viên"
+  },
+  {
+    "id": "y-ta-duoc-si",
+    "a": "Y tá",
+    "b": "Dược sĩ"
+  },
+  {
+    "id": "tho-han-tho-sua-xe",
+    "a": "Thợ hàn",
+    "b": "Thợ sửa xe"
+  },
+  {
+    "id": "tho-khoa-tho-dong-ho",
+    "a": "Thợ khóa",
+    "b": "Thợ đồng hồ"
+  },
+  {
+    "id": "ky-su-xay-dung-tho-ho",
+    "a": "Kỹ sư xây dựng",
+    "b": "Thợ hồ"
+  },
+  {
+    "id": "tho-dien-lanh-tho-sua-ong-nuoc",
+    "a": "Thợ điện lạnh",
+    "b": "Thợ sửa ống nước"
+  },
+  {
+    "id": "canh-sat-tham-tu",
+    "a": "Cảnh sát",
+    "b": "Thám tử"
+  },
+  {
+    "id": "tiep-vien-nhan-vien-ban-ve",
+    "a": "Tiếp viên",
+    "b": "Nhân viên bán vé"
+  },
+  {
+    "id": "ban-ve-so-ban-bao",
+    "a": "Bán vé số",
+    "b": "Bán báo"
+  },
+  {
+    "id": "nha-su-hoc-nha-dia-ly",
+    "a": "Nhà sử học",
+    "b": "Nhà địa lý"
+  }
+]

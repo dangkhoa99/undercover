@@ -1,0 +1,112 @@
+[
+  {
+    "id": "baking-cooking",
+    "a": "Baking",
+    "b": "Cooking"
+  },
+  {
+    "id": "stamp-collecting-coin-collecting",
+    "a": "Stamp collecting",
+    "b": "Coin collecting"
+  },
+  {
+    "id": "bird-watching-stargazing",
+    "a": "Bird watching",
+    "b": "Stargazing"
+  },
+  {
+    "id": "skateboarding-roller-skating",
+    "a": "Skateboarding",
+    "b": "Roller skating"
+  },
+  {
+    "id": "diary-photo-album",
+    "a": "Diary",
+    "b": "Photo album"
+  },
+  {
+    "id": "magic-trick-juggling",
+    "a": "Magic trick",
+    "b": "Juggling"
+  },
+  {
+    "id": "building-blocks-model-kit",
+    "a": "Building blocks",
+    "b": "Model kit"
+  },
+  {
+    "id": "crayon-marker",
+    "a": "Crayon",
+    "b": "Marker"
+  },
+  {
+    "id": "trading-cards-stickers",
+    "a": "Trading cards",
+    "b": "Stickers"
+  },
+  {
+    "id": "model-train-toy-car",
+    "a": "Model train",
+    "b": "Toy car"
+  },
+  {
+    "id": "candle-making-soap-making",
+    "a": "Candle making",
+    "b": "Soap making"
+  },
+  {
+    "id": "bonsai-flower-arranging",
+    "a": "Bonsai",
+    "b": "Flower arranging"
+  },
+  {
+    "id": "yo-yo-spinning-top",
+    "a": "Yo-yo",
+    "b": "Spinning top"
+  },
+  {
+    "id": "jump-rope-hula-hoop",
+    "a": "Jump rope",
+    "b": "Hula hoop"
+  },
+  {
+    "id": "mahjong-dominoes",
+    "a": "Mahjong",
+    "b": "Dominoes"
+  },
+  {
+    "id": "flea-market-garage-sale",
+    "a": "Flea market",
+    "b": "Garage sale"
+  },
+  {
+    "id": "microscope-magnifier",
+    "a": "Microscope",
+    "b": "Magnifier"
+  },
+  {
+    "id": "easel-sketchbook",
+    "a": "Easel",
+    "b": "Sketchbook"
+  },
+  {
+    "id": "antiques-souvenirs",
+    "a": "Antiques",
+    "b": "Souvenirs"
+  },
+  {
+    "id": "hunting-foraging",
+    "a": "Hunting",
+    "b": "Foraging"
+  },
+  {
+    "id": "bird-feeder-birdhouse",
+    "a": "Bird feeder",
+    "b": "Birdhouse"
+  },
+  {
+    "id": "songwriting-poetry",
+    "a": "Songwriting",
+    "b": "Poetry"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "id": "gio-hang-xe-day",
+    "a": "Giỏ hàng",
+    "b": "Xe đẩy"
+  },
+  {
+    "id": "mac-ca-dau-gia",
+    "a": "Mặc cả",
+    "b": "Đấu giá"
+  },
+  {
+    "id": "tien-xu-tien-giay",
+    "a": "Tiền xu",
+    "b": "Tiền giấy"
+  },
+  {
+    "id": "tiem-banh-tiem-kem",
+    "a": "Tiệm bánh",
+    "b": "Tiệm kem"
+  },
+  {
+    "id": "tiem-hoa-tiem-qua-tang",
+    "a": "Tiệm hoa",
+    "b": "Tiệm quà tặng"
+  },
+  {
+    "id": "tiem-vang-ngan-hang",
+    "a": "Tiệm vàng",
+    "b": "Ngân hàng"
+  },
+  {
+    "id": "cua-hang-kho-hang",
+    "a": "Cửa hàng",
+    "b": "Kho hàng"
+  },
+  {
+    "id": "tien-le-tien-boa",
+    "a": "Tiền lẻ",
+    "b": "Tiền boa"
+  },
+  {
+    "id": "heo-dat-ket-sat",
+    "a": "Heo đất",
+    "b": "Két sắt"
+  },
+  {
+    "id": "bao-hanh-bao-hiem",
+    "a": "Bảo hành",
+    "b": "Bảo hiểm"
+  },
+  {
+    "id": "nhan-gia-han-su-dung",
+    "a": "Nhãn giá",
+    "b": "Hạn sử dụng"
+  },
+  {
+    "id": "quay-thu-ngan-quay-le-tan",
+    "a": "Quầy thu ngân",
+    "b": "Quầy lễ tân"
+  },
+  {
+    "id": "tiem-thuoc-tiem-tap-hoa",
+    "a": "Tiệm thuốc",
+    "b": "Tiệm tạp hóa"
+  },
+  {
+    "id": "tiem-sach-cu-tiem-do-co",
+    "a": "Tiệm sách cũ",
+    "b": "Tiệm đồ cổ"
+  },
+  {
+    "id": "phieu-boc-tham-ve-so",
+    "a": "Phiếu bốc thăm",
+    "b": "Vé số"
+  },
+  {
+    "id": "sap-bao-hieu-sach",
+    "a": "Sạp báo",
+    "b": "Hiệu sách"
+  },
+  {
+    "id": "tui-vai-gio-nhua",
+    "a": "Túi vải",
+    "b": "Giỏ nhựa"
+  }
+]

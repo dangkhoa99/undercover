@@ -1,0 +1,62 @@
+[
+  {
+    "id": "museum-art-gallery",
+    "a": "Museum",
+    "b": "Art gallery"
+  },
+  {
+    "id": "hotel-hostel",
+    "a": "Hotel",
+    "b": "Hostel"
+  },
+  {
+    "id": "castle-palace",
+    "a": "Castle",
+    "b": "Palace"
+  },
+  {
+    "id": "farm-ranch",
+    "a": "Farm",
+    "b": "Ranch"
+  },
+  {
+    "id": "harbor-marina",
+    "a": "Harbor",
+    "b": "Marina"
+  },
+  {
+    "id": "attic-cellar",
+    "a": "Attic",
+    "b": "Cellar"
+  },
+  {
+    "id": "skyscraper-tower",
+    "a": "Skyscraper",
+    "b": "Tower"
+  },
+  {
+    "id": "prairie-savanna",
+    "a": "Prairie",
+    "b": "Savanna"
+  },
+  {
+    "id": "crossroads-roundabout",
+    "a": "Crossroads",
+    "b": "Roundabout"
+  },
+  {
+    "id": "chapel-cathedral",
+    "a": "Chapel",
+    "b": "Cathedral"
+  },
+  {
+    "id": "nursery-daycare",
+    "a": "Nursery",
+    "b": "Daycare"
+  },
+  {
+    "id": "marketplace-bazaar",
+    "a": "Marketplace",
+    "b": "Bazaar"
+  }
+]

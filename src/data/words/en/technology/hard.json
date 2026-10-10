@@ -1,0 +1,52 @@
+[
+  {
+    "id": "smartphone-smartwatch",
+    "a": "Smartphone",
+    "b": "Smartwatch"
+  },
+  {
+    "id": "charger-power-bank",
+    "a": "Charger",
+    "b": "Power bank"
+  },
+  {
+    "id": "password-pin",
+    "a": "Password",
+    "b": "PIN"
+  },
+  {
+    "id": "hard-drive-usb-stick",
+    "a": "Hard drive",
+    "b": "USB stick"
+  },
+  {
+    "id": "router-modem",
+    "a": "Router",
+    "b": "Modem"
+  },
+  {
+    "id": "cloud-storage-hard-drive",
+    "a": "Cloud storage",
+    "b": "Hard drive"
+  },
+  {
+    "id": "smart-speaker-earphones",
+    "a": "Smart speaker",
+    "b": "Earphones"
+  },
+  {
+    "id": "debit-card-payment-app",
+    "a": "Debit card",
+    "b": "Payment app"
+  },
+  {
+    "id": "pager-cordless-phone",
+    "a": "Pager",
+    "b": "Cordless phone"
+  },
+  {
+    "id": "floppy-disk-flash-drive",
+    "a": "Floppy disk",
+    "b": "Flash drive"
+  }
+]

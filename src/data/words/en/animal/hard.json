@@ -1,0 +1,42 @@
+[
+  {
+    "id": "rabbit-hare",
+    "a": "Rabbit",
+    "b": "Hare"
+  },
+  {
+    "id": "frog-toad",
+    "a": "Frog",
+    "b": "Toad"
+  },
+  {
+    "id": "crocodile-alligator",
+    "a": "Crocodile",
+    "b": "Alligator"
+  },
+  {
+    "id": "bee-wasp",
+    "a": "Bee",
+    "b": "Wasp"
+  },
+  {
+    "id": "turtle-tortoise",
+    "a": "Turtle",
+    "b": "Tortoise"
+  },
+  {
+    "id": "snail-slug",
+    "a": "Snail",
+    "b": "Slug"
+  },
+  {
+    "id": "leopard-cheetah",
+    "a": "Leopard",
+    "b": "Cheetah"
+  },
+  {
+    "id": "raven-magpie",
+    "a": "Raven",
+    "b": "Magpie"
+  }
+]

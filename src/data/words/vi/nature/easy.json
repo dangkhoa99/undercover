@@ -1,0 +1,97 @@
+[
+  {
+    "id": "mua-tuyet",
+    "a": "Mưa",
+    "b": "Tuyết"
+  },
+  {
+    "id": "bien-song",
+    "a": "Biển",
+    "b": "Sông"
+  },
+  {
+    "id": "hoa-hong-hoa-sen",
+    "a": "Hoa hồng",
+    "b": "Hoa sen"
+  },
+  {
+    "id": "mat-troi-mat-trang",
+    "a": "Mặt trời",
+    "b": "Mặt trăng"
+  },
+  {
+    "id": "sam-chop",
+    "a": "Sấm",
+    "b": "Chớp"
+  },
+  {
+    "id": "rung-vuon",
+    "a": "Rừng",
+    "b": "Vườn"
+  },
+  {
+    "id": "sa-mac-bai-bien",
+    "a": "Sa mạc",
+    "b": "Bãi biển"
+  },
+  {
+    "id": "cay-dua-xuong-rong",
+    "a": "Cây dừa",
+    "b": "Xương rồng"
+  },
+  {
+    "id": "co-lua",
+    "a": "Cỏ",
+    "b": "Lúa"
+  },
+  {
+    "id": "hang-dong-thung-lung",
+    "a": "Hang động",
+    "b": "Thung lũng"
+  },
+  {
+    "id": "ngoi-sao-mat-trang",
+    "a": "Ngôi sao",
+    "b": "Mặt trăng"
+  },
+  {
+    "id": "mua-he-mua-dong",
+    "a": "Mùa hè",
+    "b": "Mùa đông"
+  },
+  {
+    "id": "binh-minh-hoang-hon",
+    "a": "Bình minh",
+    "b": "Hoàng hôn"
+  },
+  {
+    "id": "nui-lua-dong-dat",
+    "a": "Núi lửa",
+    "b": "Động đất"
+  },
+  {
+    "id": "cay-chuoi-cay-mia",
+    "a": "Cây chuối",
+    "b": "Cây mía"
+  },
+  {
+    "id": "da-soi",
+    "a": "Đá",
+    "b": "Sỏi"
+  },
+  {
+    "id": "vinh-dao",
+    "a": "Vịnh",
+    "b": "Đảo"
+  },
+  {
+    "id": "gio-bao",
+    "a": "Gió",
+    "b": "Bão"
+  },
+  {
+    "id": "nhat-thuc-nguyet-thuc",
+    "a": "Nhật thực",
+    "b": "Nguyệt thực"
+  }
+]

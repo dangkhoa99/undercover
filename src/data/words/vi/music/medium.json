@@ -1,0 +1,132 @@
+[
+  {
+    "id": "violin-cello",
+    "a": "Violin",
+    "b": "Cello"
+  },
+  {
+    "id": "harp-dan-tranh",
+    "a": "Harp",
+    "b": "Đàn tranh"
+  },
+  {
+    "id": "trumpet-trombone",
+    "a": "Trumpet",
+    "b": "Trombone"
+  },
+  {
+    "id": "harmonica-accordion",
+    "a": "Harmonica",
+    "b": "Accordion"
+  },
+  {
+    "id": "nhac-truong-nhac-cong",
+    "a": "Nhạc trưởng",
+    "b": "Nhạc công"
+  },
+  {
+    "id": "dia-than-bang-cassette",
+    "a": "Đĩa than",
+    "b": "Băng cassette"
+  },
+  {
+    "id": "cd-dia-than",
+    "a": "CD",
+    "b": "Đĩa than"
+  },
+  {
+    "id": "pop-rock",
+    "a": "Pop",
+    "b": "Rock"
+  },
+  {
+    "id": "dan-ca-cai-luong",
+    "a": "Dân ca",
+    "b": "Cải lương"
+  },
+  {
+    "id": "opera-kich-hat",
+    "a": "Opera",
+    "b": "Kịch hát"
+  },
+  {
+    "id": "giai-dieu-loi-bai-hat",
+    "a": "Giai điệu",
+    "b": "Lời bài hát"
+  },
+  {
+    "id": "khuong-nhac-ban-nhac",
+    "a": "Khuông nhạc",
+    "b": "Bản nhạc"
+  },
+  {
+    "id": "may-dem-nhip-may-len-day",
+    "a": "Máy đếm nhịp",
+    "b": "Máy lên dây"
+  },
+  {
+    "id": "album-dia-don",
+    "a": "Album",
+    "b": "Đĩa đơn"
+  },
+  {
+    "id": "hat-ru-dong-dao",
+    "a": "Hát ru",
+    "b": "Đồng dao"
+  },
+  {
+    "id": "song-ca-hop-ca",
+    "a": "Song ca",
+    "b": "Hợp ca"
+  },
+  {
+    "id": "hat-live-hat-nhep",
+    "a": "Hát live",
+    "b": "Hát nhép"
+  },
+  {
+    "id": "beatbox-hip-hop",
+    "a": "Beatbox",
+    "b": "Hip hop"
+  },
+  {
+    "id": "cong-chieng-trong-dong",
+    "a": "Cồng chiêng",
+    "b": "Trống đồng"
+  },
+  {
+    "id": "trong-com-trong-cai",
+    "a": "Trống cơm",
+    "b": "Trống cái"
+  },
+  {
+    "id": "dan-nhi-dan-ty-ba",
+    "a": "Đàn nhị",
+    "b": "Đàn tỳ bà"
+  },
+  {
+    "id": "sao-truc-ken-bau",
+    "a": "Sáo trúc",
+    "b": "Kèn bầu"
+  },
+  {
+    "id": "hat-be-hat-don",
+    "a": "Hát bè",
+    "b": "Hát đơn"
+  },
+  {
+    "id": "nhac-phim-nhac-game",
+    "a": "Nhạc phim",
+    "b": "Nhạc game"
+  },
+  {
+    "id": "ken-sao",
+    "a": "Kèn",
+    "b": "Sáo"
+  },
+  {
+    "id": "ban-thu-am-buoi-dien",
+    "a": "Bản thu âm",
+    "b": "Buổi diễn"
+  }
+]

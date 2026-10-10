@@ -1,0 +1,37 @@
+[
+  {
+    "id": "dau-goi-dau-xa",
+    "a": "Dầu gội",
+    "b": "Dầu xả"
+  },
+  {
+    "id": "cu-la-cao-dan",
+    "a": "Cù là",
+    "b": "Cao dán"
+  },
+  {
+    "id": "di-ung-cam-lanh",
+    "a": "Dị ứng",
+    "b": "Cảm lạnh"
+  },
+  {
+    "id": "viem-hong-viem-xoang",
+    "a": "Viêm họng",
+    "b": "Viêm xoang"
+  },
+  {
+    "id": "cam-nang-say-song",
+    "a": "Cảm nắng",
+    "b": "Say sóng"
+  },
+  {
+    "id": "vac-xin-thuoc-khang-sinh",
+    "a": "Vắc-xin",
+    "b": "Thuốc kháng sinh"
+  },
+  {
+    "id": "xuong-khop-cot-song",
+    "a": "Xương khớp",
+    "b": "Cột sống"
+  }
+]

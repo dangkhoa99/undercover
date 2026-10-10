@@ -1,0 +1,52 @@
+[
+  {
+    "id": "phim-dien-anh-phim-truyen-hinh",
+    "a": "Phim điện ảnh",
+    "b": "Phim truyền hình"
+  },
+  {
+    "id": "may-anh-may-quay-phim",
+    "a": "Máy ảnh",
+    "b": "Máy quay phim"
+  },
+  {
+    "id": "dan-bau-dan-tranh",
+    "a": "Đàn bầu",
+    "b": "Đàn tranh"
+  },
+  {
+    "id": "mua-ba-le-nhay-hien-dai",
+    "a": "Múa ba lê",
+    "b": "Nhảy hiện đại"
+  },
+  {
+    "id": "cai-luong-cheo",
+    "a": "Cải lương",
+    "b": "Chèo"
+  },
+  {
+    "id": "kich-noi-nhac-kich",
+    "a": "Kịch nói",
+    "b": "Nhạc kịch"
+  },
+  {
+    "id": "talkshow-game-show",
+    "a": "Talkshow",
+    "b": "Game show"
+  },
+  {
+    "id": "bien-dao-mua-bien-kich",
+    "a": "Biên đạo múa",
+    "b": "Biên kịch"
+  },
+  {
+    "id": "dien-gia-nguoi-dan",
+    "a": "Diễn giả",
+    "b": "Người dẫn"
+  },
+  {
+    "id": "cau-do-tro-u-tim",
+    "a": "Câu đố",
+    "b": "Trò ú tim"
+  }
+]

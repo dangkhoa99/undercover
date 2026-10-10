@@ -1,0 +1,77 @@
+[
+  {
+    "id": "car-bus",
+    "a": "Car",
+    "b": "Bus"
+  },
+  {
+    "id": "bicycle-motorcycle",
+    "a": "Bicycle",
+    "b": "Motorcycle"
+  },
+  {
+    "id": "airplane-helicopter",
+    "a": "Airplane",
+    "b": "Helicopter"
+  },
+  {
+    "id": "boat-ship",
+    "a": "Boat",
+    "b": "Ship"
+  },
+  {
+    "id": "truck-van",
+    "a": "Truck",
+    "b": "Van"
+  },
+  {
+    "id": "tractor-bulldozer",
+    "a": "Tractor",
+    "b": "Bulldozer"
+  },
+  {
+    "id": "rollerblades-skateboard",
+    "a": "Rollerblades",
+    "b": "Skateboard"
+  },
+  {
+    "id": "wheelchair-stroller",
+    "a": "Wheelchair",
+    "b": "Stroller"
+  },
+  {
+    "id": "submarine-spaceship",
+    "a": "Submarine",
+    "b": "Spaceship"
+  },
+  {
+    "id": "sled-skis",
+    "a": "Sled",
+    "b": "Skis"
+  },
+  {
+    "id": "forklift-wheelbarrow",
+    "a": "Forklift",
+    "b": "Wheelbarrow"
+  },
+  {
+    "id": "unicycle-tricycle",
+    "a": "Unicycle",
+    "b": "Tricycle"
+  },
+  {
+    "id": "space-shuttle-rocket",
+    "a": "Space shuttle",
+    "b": "Rocket"
+  },
+  {
+    "id": "ice-cream-truck-food-truck",
+    "a": "Ice cream truck",
+    "b": "Food truck"
+  },
+  {
+    "id": "satellite-space-station",
+    "a": "Satellite",
+    "b": "Space station"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ga-vit",
+    "a": "Gà",
+    "b": "Vịt"
+  },
+  {
+    "id": "bo-trau",
+    "a": "Bò",
+    "b": "Trâu"
+  },
+  {
+    "id": "ngua-lua",
+    "a": "Ngựa",
+    "b": "Lừa"
+  },
+  {
+    "id": "ho-su-tu",
+    "a": "Hổ",
+    "b": "Sư tử"
+  },
+  {
+    "id": "buom-chuon-chuon",
+    "a": "Bướm",
+    "b": "Chuồn chuồn"
+  },
+  {
+    "id": "ong-ruoi",
+    "a": "Ong",
+    "b": "Ruồi"
+  },
+  {
+    "id": "chim-se-bo-cau",
+    "a": "Chim sẻ",
+    "b": "Bồ câu"
+  },
+  {
+    "id": "dai-bang-dieu-hau",
+    "a": "Đại bàng",
+    "b": "Diều hâu"
+  },
+  {
+    "id": "khi-duoi-uoi",
+    "a": "Khỉ",
+    "b": "Đười ươi"
+  },
+  {
+    "id": "cuu-de",
+    "a": "Cừu",
+    "b": "Dê"
+  },
+  {
+    "id": "muc-bach-tuoc",
+    "a": "Mực",
+    "b": "Bạch tuộc"
+  },
+  {
+    "id": "qua-chim-sao",
+    "a": "Quạ",
+    "b": "Chim sáo"
+  },
+  {
+    "id": "vit-thien-nga",
+    "a": "Vịt",
+    "b": "Thiên nga"
+  },
+  {
+    "id": "co-hac",
+    "a": "Cò",
+    "b": "Hạc"
+  },
+  {
+    "id": "than-lan-tac-ke",
+    "a": "Thằn lằn",
+    "b": "Tắc kè"
+  },
+  {
+    "id": "soc-tho",
+    "a": "Sóc",
+    "b": "Thỏ"
+  },
+  {
+    "id": "bao-ho",
+    "a": "Báo",
+    "b": "Hổ"
+  },
+  {
+    "id": "lac-da-lua",
+    "a": "Lạc đà",
+    "b": "Lừa"
+  },
+  {
+    "id": "gau-truc-koala",
+    "a": "Gấu trúc",
+    "b": "Koala"
+  },
+  {
+    "id": "oc-so",
+    "a": "Ốc",
+    "b": "Sò"
+  },
+  {
+    "id": "ha-ma-te-giac",
+    "a": "Hà mã",
+    "b": "Tê giác"
+  },
+  {
+    "id": "ong-buom",
+    "a": "Ong",
+    "b": "Bướm"
+  },
+  {
+    "id": "ca-sau-ky-da",
+    "a": "Cá sấu",
+    "b": "Kỳ đà"
+  },
+  {
+    "id": "ca-voi-hai-cau",
+    "a": "Cá voi",
+    "b": "Hải cẩu"
+  }
+]

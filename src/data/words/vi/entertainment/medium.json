@@ -1,0 +1,132 @@
+[
+  {
+    "id": "ca-si-nhac-si",
+    "a": "Ca sĩ",
+    "b": "Nhạc sĩ"
+  },
+  {
+    "id": "co-vua-co-tuong",
+    "a": "Cờ vua",
+    "b": "Cờ tướng"
+  },
+  {
+    "id": "micro-loa",
+    "a": "Micro",
+    "b": "Loa"
+  },
+  {
+    "id": "truyen-tranh-tieu-thuyet",
+    "a": "Truyện tranh",
+    "b": "Tiểu thuyết"
+  },
+  {
+    "id": "cong-vien-nuoc-cong-vien-giai-tri",
+    "a": "Công viên nước",
+    "b": "Công viên giải trí"
+  },
+  {
+    "id": "thu-vien-hieu-sach",
+    "a": "Thư viện",
+    "b": "Hiệu sách"
+  },
+  {
+    "id": "tron-tim-bit-mat-bat-de",
+    "a": "Trốn tìm",
+    "b": "Bịt mắt bắt dê"
+  },
+  {
+    "id": "dien-vien-nguoi-mau",
+    "a": "Diễn viên",
+    "b": "Người mẫu"
+  },
+  {
+    "id": "phim-tai-lieu-tin-tuc",
+    "a": "Phim tài liệu",
+    "b": "Tin tức"
+  },
+  {
+    "id": "podcast-radio",
+    "a": "Podcast",
+    "b": "Radio"
+  },
+  {
+    "id": "karaoke-hoa-nhac",
+    "a": "Karaoke",
+    "b": "Hòa nhạc"
+  },
+  {
+    "id": "bao-tang-trien-lam-tranh",
+    "a": "Bảo tàng",
+    "b": "Triển lãm tranh"
+  },
+  {
+    "id": "tro-choi-dien-tu-tro-choi-dan-gian",
+    "a": "Trò chơi điện tử",
+    "b": "Trò chơi dân gian"
+  },
+  {
+    "id": "pop-bolero",
+    "a": "Pop",
+    "b": "Bolero"
+  },
+  {
+    "id": "thi-hat-thi-nhay",
+    "a": "Thi hát",
+    "b": "Thi nhảy"
+  },
+  {
+    "id": "tai-nghe-loa",
+    "a": "Tai nghe",
+    "b": "Loa"
+  },
+  {
+    "id": "livestream-video-quay-san",
+    "a": "Livestream",
+    "b": "Video quay sẵn"
+  },
+  {
+    "id": "song-ca-hop-xuong",
+    "a": "Song ca",
+    "b": "Hợp xướng"
+  },
+  {
+    "id": "co-tich-ngu-ngon",
+    "a": "Cổ tích",
+    "b": "Ngụ ngôn"
+  },
+  {
+    "id": "bao-giay-tap-chi",
+    "a": "Báo giấy",
+    "b": "Tạp chí"
+  },
+  {
+    "id": "xep-hinh-rubik",
+    "a": "Xếp hình",
+    "b": "Rubik"
+  },
+  {
+    "id": "con-quay-chong-chong",
+    "a": "Con quay",
+    "b": "Chong chóng"
+  },
+  {
+    "id": "phim-ngan-phim-dai-tap",
+    "a": "Phim ngắn",
+    "b": "Phim dài tập"
+  },
+  {
+    "id": "phim-bo-phim-le",
+    "a": "Phim bộ",
+    "b": "Phim lẻ"
+  },
+  {
+    "id": "thi-nhan-sac-thi-tai-nang",
+    "a": "Thi nhan sắc",
+    "b": "Thi tài năng"
+  },
+  {
+    "id": "ve-xem-phim-ve-hoa-nhac",
+    "a": "Vé xem phim",
+    "b": "Vé hòa nhạc"
+  }
+]

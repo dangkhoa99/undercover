@@ -1,0 +1,47 @@
+[
+  {
+    "id": "cuc-tay-but-xoa",
+    "a": "Cục tẩy",
+    "b": "Bút xóa"
+  },
+  {
+    "id": "kiem-tra-mieng-thi-hoc-ky",
+    "a": "Kiểm tra miệng",
+    "b": "Thi học kỳ"
+  },
+  {
+    "id": "hoc-ba-bang-diem",
+    "a": "Học bạ",
+    "b": "Bảng điểm"
+  },
+  {
+    "id": "kep-giay-kim-bam",
+    "a": "Kẹp giấy",
+    "b": "Kim bấm"
+  },
+  {
+    "id": "giay-a4-giay-nhap",
+    "a": "Giấy A4",
+    "b": "Giấy nháp"
+  },
+  {
+    "id": "so-tay-so-lien-lac",
+    "a": "Sổ tay",
+    "b": "Sổ liên lạc"
+  },
+  {
+    "id": "but-may-but-long",
+    "a": "Bút máy",
+    "b": "Bút lông"
+  },
+  {
+    "id": "thi-trac-nghiem-thi-tu-luan",
+    "a": "Thi trắc nghiệm",
+    "b": "Thi tự luận"
+  },
+  {
+    "id": "thi-cuoi-ky-thi-giua-ky",
+    "a": "Thi cuối kỳ",
+    "b": "Thi giữa kỳ"
+  }
+]

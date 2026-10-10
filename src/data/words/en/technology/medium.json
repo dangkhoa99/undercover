@@ -1,0 +1,132 @@
+[
+  {
+    "id": "laptop-tablet",
+    "a": "Laptop",
+    "b": "Tablet"
+  },
+  {
+    "id": "printer-scanner",
+    "a": "Printer",
+    "b": "Scanner"
+  },
+  {
+    "id": "email-text-message",
+    "a": "Email",
+    "b": "Text message"
+  },
+  {
+    "id": "television-monitor",
+    "a": "Television",
+    "b": "Monitor"
+  },
+  {
+    "id": "website-app",
+    "a": "Website",
+    "b": "App"
+  },
+  {
+    "id": "camera-camcorder",
+    "a": "Camera",
+    "b": "Camcorder"
+  },
+  {
+    "id": "remote-control-game-controller",
+    "a": "Remote control",
+    "b": "Game controller"
+  },
+  {
+    "id": "video-call-phone-call",
+    "a": "Video call",
+    "b": "Phone call"
+  },
+  {
+    "id": "social-media-forum",
+    "a": "Social media",
+    "b": "Forum"
+  },
+  {
+    "id": "vr-headset-smart-glasses",
+    "a": "VR headset",
+    "b": "Smart glasses"
+  },
+  {
+    "id": "smart-tv-projector",
+    "a": "Smart TV",
+    "b": "Projector"
+  },
+  {
+    "id": "screenshot-photo",
+    "a": "Screenshot",
+    "b": "Photo"
+  },
+  {
+    "id": "emoji-gif",
+    "a": "Emoji",
+    "b": "GIF"
+  },
+  {
+    "id": "antivirus-firewall",
+    "a": "Antivirus",
+    "b": "Firewall"
+  },
+  {
+    "id": "software-hardware",
+    "a": "Software",
+    "b": "Hardware"
+  },
+  {
+    "id": "map-app-compass",
+    "a": "Map app",
+    "b": "Compass"
+  },
+  {
+    "id": "fitness-tracker-stopwatch",
+    "a": "Fitness tracker",
+    "b": "Stopwatch"
+  },
+  {
+    "id": "cd-dvd",
+    "a": "CD",
+    "b": "DVD"
+  },
+  {
+    "id": "search-bar-address-bar",
+    "a": "Search bar",
+    "b": "Address bar"
+  },
+  {
+    "id": "chatbot-search-engine",
+    "a": "Chatbot",
+    "b": "Search engine"
+  },
+  {
+    "id": "blog-diary",
+    "a": "Blog",
+    "b": "Diary"
+  },
+  {
+    "id": "barcode-qr-code",
+    "a": "Barcode",
+    "b": "QR code"
+  },
+  {
+    "id": "touchscreen-trackpad",
+    "a": "Touchscreen",
+    "b": "Trackpad"
+  },
+  {
+    "id": "earbuds-hearing-aid",
+    "a": "Earbuds",
+    "b": "Hearing aid"
+  },
+  {
+    "id": "antenna-satellite-dish",
+    "a": "Antenna",
+    "b": "Satellite dish"
+  },
+  {
+    "id": "smart-bulb-nightlight",
+    "a": "Smart bulb",
+    "b": "Nightlight"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "jacket-coat",
+    "a": "Jacket",
+    "b": "Coat"
+  },
+  {
+    "id": "gloves-mittens",
+    "a": "Gloves",
+    "b": "Mittens"
+  },
+  {
+    "id": "jeans-leggings",
+    "a": "Jeans",
+    "b": "Leggings"
+  },
+  {
+    "id": "sandals-slippers",
+    "a": "Sandals",
+    "b": "Slippers"
+  },
+  {
+    "id": "sweater-hoodie",
+    "a": "Sweater",
+    "b": "Hoodie"
+  },
+  {
+    "id": "suit-tuxedo",
+    "a": "Suit",
+    "b": "Tuxedo"
+  },
+  {
+    "id": "apron-lab-coat",
+    "a": "Apron",
+    "b": "Lab coat"
+  },
+  {
+    "id": "vest-cardigan",
+    "a": "Vest",
+    "b": "Cardigan"
+  },
+  {
+    "id": "scarf-shawl",
+    "a": "Scarf",
+    "b": "Shawl"
+  },
+  {
+    "id": "headband-hairpin",
+    "a": "Headband",
+    "b": "Hairpin"
+  },
+  {
+    "id": "uniform-costume",
+    "a": "Uniform",
+    "b": "Costume"
+  },
+  {
+    "id": "overalls-jumpsuit",
+    "a": "Overalls",
+    "b": "Jumpsuit"
+  },
+  {
+    "id": "bow-tie-cravat",
+    "a": "Bow tie",
+    "b": "Cravat"
+  },
+  {
+    "id": "pendant-brooch",
+    "a": "Pendant",
+    "b": "Brooch"
+  },
+  {
+    "id": "clogs-wellies",
+    "a": "Clogs",
+    "b": "Wellies"
+  },
+  {
+    "id": "tights-pantyhose",
+    "a": "Tights",
+    "b": "Pantyhose"
+  },
+  {
+    "id": "bandana-headscarf",
+    "a": "Bandana",
+    "b": "Headscarf"
+  },
+  {
+    "id": "fedora-bowler-hat",
+    "a": "Fedora",
+    "b": "Bowler hat"
+  }
+]

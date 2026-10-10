@@ -1,0 +1,72 @@
+[
+  {
+    "id": "bandage-cast",
+    "a": "Bandage",
+    "b": "Cast"
+  },
+  {
+    "id": "gym-swimming-pool",
+    "a": "Gym",
+    "b": "Swimming pool"
+  },
+  {
+    "id": "sunscreen-moisturizer",
+    "a": "Sunscreen",
+    "b": "Moisturizer"
+  },
+  {
+    "id": "toothpaste-mouthwash",
+    "a": "Toothpaste",
+    "b": "Mouthwash"
+  },
+  {
+    "id": "glasses-contact-lenses",
+    "a": "Glasses",
+    "b": "Contact lenses"
+  },
+  {
+    "id": "x-ray-ultrasound",
+    "a": "X-ray",
+    "b": "Ultrasound"
+  },
+  {
+    "id": "massage-acupuncture",
+    "a": "Massage",
+    "b": "Acupuncture"
+  },
+  {
+    "id": "hand-sanitizer-wet-wipe",
+    "a": "Hand sanitizer",
+    "b": "Wet wipe"
+  },
+  {
+    "id": "earplugs-eye-mask",
+    "a": "Earplugs",
+    "b": "Eye mask"
+  },
+  {
+    "id": "blood-pressure-heart-rate",
+    "a": "Blood pressure",
+    "b": "Heart rate"
+  },
+  {
+    "id": "ice-pack-heating-pad",
+    "a": "Ice pack",
+    "b": "Heating pad"
+  },
+  {
+    "id": "cough-syrup-throat-lozenge",
+    "a": "Cough syrup",
+    "b": "Throat lozenge"
+  },
+  {
+    "id": "pill-organizer-first-aid-kit",
+    "a": "Pill organizer",
+    "b": "First aid kit"
+  },
+  {
+    "id": "sleeping-pill-warm-milk",
+    "a": "Sleeping pill",
+    "b": "Warm milk"
+  }
+]
