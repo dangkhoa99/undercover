@@ -1,0 +1,27 @@
+[
+  {
+    "id": "talent-show-game-show",
+    "a": "Talent show",
+    "b": "Game show"
+  },
+  {
+    "id": "sitcom-drama-series",
+    "a": "Sitcom",
+    "b": "Drama series"
+  },
+  {
+    "id": "theater-cinema",
+    "a": "Theater",
+    "b": "Cinema"
+  },
+  {
+    "id": "improv-stand-up",
+    "a": "Improv",
+    "b": "Stand-up"
+  },
+  {
+    "id": "rap-battle-poetry-slam",
+    "a": "Rap battle",
+    "b": "Poetry slam"
+  }
+]

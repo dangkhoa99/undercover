@@ -1,0 +1,77 @@
+[
+  {
+    "id": "nui-doi",
+    "a": "Núi",
+    "b": "Đồi"
+  },
+  {
+    "id": "bao-lu",
+    "a": "Bão",
+    "b": "Lũ"
+  },
+  {
+    "id": "cau-vong-may",
+    "a": "Cầu vồng",
+    "b": "Mây"
+  },
+  {
+    "id": "thac-nuoc-suoi",
+    "a": "Thác nước",
+    "b": "Suối"
+  },
+  {
+    "id": "song-thuy-trieu",
+    "a": "Sóng",
+    "b": "Thủy triều"
+  },
+  {
+    "id": "hoa-cuc-hoa-huong-duong",
+    "a": "Hoa cúc",
+    "b": "Hoa hướng dương"
+  },
+  {
+    "id": "trang-tron-trang-khuyet",
+    "a": "Trăng tròn",
+    "b": "Trăng khuyết"
+  },
+  {
+    "id": "thung-lung-dong-bang",
+    "a": "Thung lũng",
+    "b": "Đồng bằng"
+  },
+  {
+    "id": "cay-thong-cay-lieu",
+    "a": "Cây thông",
+    "b": "Cây liễu"
+  },
+  {
+    "id": "thien-thach-sao-choi",
+    "a": "Thiên thạch",
+    "b": "Sao chổi"
+  },
+  {
+    "id": "lu-quet-sat-lo",
+    "a": "Lũ quét",
+    "b": "Sạt lở"
+  },
+  {
+    "id": "doi-cat-bai-cat",
+    "a": "Đồi cát",
+    "b": "Bãi cát"
+  },
+  {
+    "id": "ran-san-ho-bai-da-ngam",
+    "a": "Rạn san hô",
+    "b": "Bãi đá ngầm"
+  },
+  {
+    "id": "suon-nui-dinh-nui",
+    "a": "Sườn núi",
+    "b": "Đỉnh núi"
+  },
+  {
+    "id": "canh-rung-thao-nguyen",
+    "a": "Cánh rừng",
+    "b": "Thảo nguyên"
+  }
+]

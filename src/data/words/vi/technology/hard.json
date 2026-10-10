@@ -1,0 +1,52 @@
+[
+  {
+    "id": "webcam-camera-an-ninh",
+    "a": "Webcam",
+    "b": "Camera an ninh"
+  },
+  {
+    "id": "phan-mem-ung-dung",
+    "a": "Phần mềm",
+    "b": "Ứng dụng"
+  },
+  {
+    "id": "wifi-4g",
+    "a": "Wifi",
+    "b": "4G"
+  },
+  {
+    "id": "dieu-khien-tivi-dieu-khien-dieu-hoa",
+    "a": "Điều khiển tivi",
+    "b": "Điều khiển điều hòa"
+  },
+  {
+    "id": "trinh-duyet-cong-cu-tim-kiem",
+    "a": "Trình duyệt",
+    "b": "Công cụ tìm kiếm"
+  },
+  {
+    "id": "emoji-sticker",
+    "a": "Emoji",
+    "b": "Sticker"
+  },
+  {
+    "id": "trang-web-ung-dung",
+    "a": "Trang web",
+    "b": "Ứng dụng"
+  },
+  {
+    "id": "usb-the-nho",
+    "a": "USB",
+    "b": "Thẻ nhớ"
+  },
+  {
+    "id": "mang-xa-hoi-dien-dan",
+    "a": "Mạng xã hội",
+    "b": "Diễn đàn"
+  },
+  {
+    "id": "ma-otp-ma-pin",
+    "a": "Mã OTP",
+    "b": "Mã PIN"
+  }
+]

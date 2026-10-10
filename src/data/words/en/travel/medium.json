@@ -1,0 +1,132 @@
+[
+  {
+    "id": "tent-cabin",
+    "a": "Tent",
+    "b": "Cabin"
+  },
+  {
+    "id": "cruise-ferry",
+    "a": "Cruise",
+    "b": "Ferry"
+  },
+  {
+    "id": "check-in-check-out",
+    "a": "Check-in",
+    "b": "Check-out"
+  },
+  {
+    "id": "sleeping-bag-blanket",
+    "a": "Sleeping bag",
+    "b": "Blanket"
+  },
+  {
+    "id": "window-seat-aisle-seat",
+    "a": "Window seat",
+    "b": "Aisle seat"
+  },
+  {
+    "id": "business-class-economy-class",
+    "a": "Business class",
+    "b": "Economy class"
+  },
+  {
+    "id": "customs-immigration",
+    "a": "Customs",
+    "b": "Immigration"
+  },
+  {
+    "id": "guidebook-phrasebook",
+    "a": "Guidebook",
+    "b": "Phrasebook"
+  },
+  {
+    "id": "road-trip-day-trip",
+    "a": "Road trip",
+    "b": "Day trip"
+  },
+  {
+    "id": "rental-car-motorhome",
+    "a": "Rental car",
+    "b": "Motorhome"
+  },
+  {
+    "id": "cable-car-chairlift",
+    "a": "Cable car",
+    "b": "Chairlift"
+  },
+  {
+    "id": "duty-free-shop-gift-shop",
+    "a": "Duty-free shop",
+    "b": "Gift shop"
+  },
+  {
+    "id": "pier-harbor",
+    "a": "Pier",
+    "b": "Harbor"
+  },
+  {
+    "id": "carry-on-checked-bag",
+    "a": "Carry-on",
+    "b": "Checked bag"
+  },
+  {
+    "id": "itinerary-timetable",
+    "a": "Itinerary",
+    "b": "Timetable"
+  },
+  {
+    "id": "room-service-housekeeping",
+    "a": "Room service",
+    "b": "Housekeeping"
+  },
+  {
+    "id": "journal-photo-album",
+    "a": "Journal",
+    "b": "Photo album"
+  },
+  {
+    "id": "highway-toll-road",
+    "a": "Highway",
+    "b": "Toll road"
+  },
+  {
+    "id": "ski-resort-water-park",
+    "a": "Ski resort",
+    "b": "Water park"
+  },
+  {
+    "id": "gas-station-rest-stop",
+    "a": "Gas station",
+    "b": "Rest stop"
+  },
+  {
+    "id": "neck-pillow-eye-mask",
+    "a": "Neck pillow",
+    "b": "Eye mask"
+  },
+  {
+    "id": "round-trip-one-way-ticket",
+    "a": "Round trip",
+    "b": "One-way ticket"
+  },
+  {
+    "id": "lifeguard-ski-patrol",
+    "a": "Lifeguard",
+    "b": "Ski patrol"
+  },
+  {
+    "id": "luggage-tag-passport-cover",
+    "a": "Luggage tag",
+    "b": "Passport cover"
+  },
+  {
+    "id": "souvenir-stall-tourist-office",
+    "a": "Souvenir stall",
+    "b": "Tourist office"
+  },
+  {
+    "id": "airport-lounge-terminal",
+    "a": "Airport lounge",
+    "b": "Terminal"
+  }
+]

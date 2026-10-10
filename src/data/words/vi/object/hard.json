@@ -1,0 +1,47 @@
+[
+  {
+    "id": "keo-dao-roc-giay",
+    "a": "Kéo",
+    "b": "Dao rọc giấy"
+  },
+  {
+    "id": "guong-kinh-lup",
+    "a": "Gương",
+    "b": "Kính lúp"
+  },
+  {
+    "id": "sac-du-phong-cu-sac",
+    "a": "Sạc dự phòng",
+    "b": "Củ sạc"
+  },
+  {
+    "id": "hop-com-cap-long",
+    "a": "Hộp cơm",
+    "b": "Cặp lồng"
+  },
+  {
+    "id": "phich-nuoc-am-dun-nuoc",
+    "a": "Phích nước",
+    "b": "Ấm đun nước"
+  },
+  {
+    "id": "kim-khau-kim-bang",
+    "a": "Kim khâu",
+    "b": "Kim băng"
+  },
+  {
+    "id": "o-khoa-day-xich",
+    "a": "Ổ khóa",
+    "b": "Dây xích"
+  },
+  {
+    "id": "mam-khay",
+    "a": "Mâm",
+    "b": "Khay"
+  },
+  {
+    "id": "thung-rac-gio-rac",
+    "a": "Thùng rác",
+    "b": "Giỏ rác"
+  }
+]

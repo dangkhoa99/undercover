@@ -1,0 +1,127 @@
+[
+  {
+    "id": "ruler-protractor",
+    "a": "Ruler",
+    "b": "Protractor"
+  },
+  {
+    "id": "homework-exam",
+    "a": "Homework",
+    "b": "Exam"
+  },
+  {
+    "id": "math-physics",
+    "a": "Math",
+    "b": "Physics"
+  },
+  {
+    "id": "biology-chemistry",
+    "a": "Biology",
+    "b": "Chemistry"
+  },
+  {
+    "id": "calculator-abacus",
+    "a": "Calculator",
+    "b": "Abacus"
+  },
+  {
+    "id": "student-tutor",
+    "a": "Student",
+    "b": "Tutor"
+  },
+  {
+    "id": "lecture-workshop",
+    "a": "Lecture",
+    "b": "Workshop"
+  },
+  {
+    "id": "recess-vacation",
+    "a": "Recess",
+    "b": "Vacation"
+  },
+  {
+    "id": "kindergarten-primary-school",
+    "a": "Kindergarten",
+    "b": "Primary school"
+  },
+  {
+    "id": "crayon-watercolor",
+    "a": "Crayon",
+    "b": "Watercolor"
+  },
+  {
+    "id": "sticky-note-bookmark",
+    "a": "Sticky note",
+    "b": "Bookmark"
+  },
+  {
+    "id": "flashcard-worksheet",
+    "a": "Flashcard",
+    "b": "Worksheet"
+  },
+  {
+    "id": "lesson-course",
+    "a": "Lesson",
+    "b": "Course"
+  },
+  {
+    "id": "spelling-grammar",
+    "a": "Spelling",
+    "b": "Grammar"
+  },
+  {
+    "id": "graduation-enrollment",
+    "a": "Graduation",
+    "b": "Enrollment"
+  },
+  {
+    "id": "timetable-calendar",
+    "a": "Timetable",
+    "b": "Calendar"
+  },
+  {
+    "id": "homework-essay",
+    "a": "Homework",
+    "b": "Essay"
+  },
+  {
+    "id": "highlighter-pencil",
+    "a": "Highlighter",
+    "b": "Pencil"
+  },
+  {
+    "id": "campus-courtyard",
+    "a": "Campus",
+    "b": "Courtyard"
+  },
+  {
+    "id": "recess-assembly",
+    "a": "Recess",
+    "b": "Assembly"
+  },
+  {
+    "id": "textbook-dictionary",
+    "a": "Textbook",
+    "b": "Dictionary"
+  },
+  {
+    "id": "student-intern",
+    "a": "Student",
+    "b": "Intern"
+  },
+  {
+    "id": "tutor-coach",
+    "a": "Tutor",
+    "b": "Coach"
+  },
+  {
+    "id": "roommate-classmate",
+    "a": "Roommate",
+    "b": "Classmate"
+  },
+  {
+    "id": "spelling-bee-quiz-show",
+    "a": "Spelling bee",
+    "b": "Quiz show"
+  }
+]

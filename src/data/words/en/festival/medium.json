@@ -1,0 +1,122 @@
+[
+  {
+    "id": "birthday-anniversary",
+    "a": "Birthday",
+    "b": "Anniversary"
+  },
+  {
+    "id": "banquet-buffet",
+    "a": "Banquet",
+    "b": "Buffet"
+  },
+  {
+    "id": "streamer-banner",
+    "a": "Streamer",
+    "b": "Banner"
+  },
+  {
+    "id": "bonfire-campfire",
+    "a": "Bonfire",
+    "b": "Campfire"
+  },
+  {
+    "id": "resolution-wish",
+    "a": "Resolution",
+    "b": "Wish"
+  },
+  {
+    "id": "valentine-s-day-mother-s-day",
+    "a": "Valentine's Day",
+    "b": "Mother's Day"
+  },
+  {
+    "id": "bouquet-wreath",
+    "a": "Bouquet",
+    "b": "Wreath"
+  },
+  {
+    "id": "souvenir-postcard",
+    "a": "Souvenir",
+    "b": "Postcard"
+  },
+  {
+    "id": "graduation-prom",
+    "a": "Graduation",
+    "b": "Prom"
+  },
+  {
+    "id": "gingerbread-fruitcake",
+    "a": "Gingerbread",
+    "b": "Fruitcake"
+  },
+  {
+    "id": "easter-egg-chocolate-bunny",
+    "a": "Easter egg",
+    "b": "Chocolate bunny"
+  },
+  {
+    "id": "lunar-new-year-christmas",
+    "a": "Lunar New Year",
+    "b": "Christmas"
+  },
+  {
+    "id": "thanksgiving-harvest",
+    "a": "Thanksgiving",
+    "b": "Harvest"
+  },
+  {
+    "id": "advent-calendar-christmas-tree",
+    "a": "Advent calendar",
+    "b": "Christmas tree"
+  },
+  {
+    "id": "trick-or-treat-caroling",
+    "a": "Trick or treat",
+    "b": "Caroling"
+  },
+  {
+    "id": "wedding-ring-engagement-ring",
+    "a": "Wedding ring",
+    "b": "Engagement ring"
+  },
+  {
+    "id": "party-popper-noisemaker",
+    "a": "Party popper",
+    "b": "Noisemaker"
+  },
+  {
+    "id": "cake-topper-party-favor",
+    "a": "Cake topper",
+    "b": "Party favor"
+  },
+  {
+    "id": "reunion-housewarming",
+    "a": "Reunion",
+    "b": "Housewarming"
+  },
+  {
+    "id": "name-tag-goodie-bag",
+    "a": "Name tag",
+    "b": "Goodie bag"
+  },
+  {
+    "id": "carol-hymn",
+    "a": "Carol",
+    "b": "Hymn"
+  },
+  {
+    "id": "hanukkah-diwali",
+    "a": "Hanukkah",
+    "b": "Diwali"
+  },
+  {
+    "id": "fireworks-show-light-show",
+    "a": "Fireworks show",
+    "b": "Light show"
+  },
+  {
+    "id": "bouquet-toss-cake-cutting",
+    "a": "Bouquet toss",
+    "b": "Cake cutting"
+  }
+]

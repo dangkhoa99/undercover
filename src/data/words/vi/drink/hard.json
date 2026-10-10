@@ -1,0 +1,62 @@
+[
+  {
+    "id": "tra-dao-tra-vai",
+    "a": "Trà đào",
+    "b": "Trà vải"
+  },
+  {
+    "id": "cappuccino-latte",
+    "a": "Cappuccino",
+    "b": "Latte"
+  },
+  {
+    "id": "whisky-vodka",
+    "a": "Whisky",
+    "b": "Vodka"
+  },
+  {
+    "id": "chanh-da-soda-chanh",
+    "a": "Chanh đá",
+    "b": "Soda chanh"
+  },
+  {
+    "id": "nuoc-khoang-soda",
+    "a": "Nước khoáng",
+    "b": "Soda"
+  },
+  {
+    "id": "tra-xanh-matcha",
+    "a": "Trà xanh",
+    "b": "Matcha"
+  },
+  {
+    "id": "tra-nhai-tra-sen",
+    "a": "Trà nhài",
+    "b": "Trà sen"
+  },
+  {
+    "id": "tra-chanh-tra-tac",
+    "a": "Trà chanh",
+    "b": "Trà tắc"
+  },
+  {
+    "id": "espresso-americano",
+    "a": "Espresso",
+    "b": "Americano"
+  },
+  {
+    "id": "tra-olong-tra-den",
+    "a": "Trà olong",
+    "b": "Trà đen"
+  },
+  {
+    "id": "ca-phe-cot-dua-ca-phe-sua-tuoi",
+    "a": "Cà phê cốt dừa",
+    "b": "Cà phê sữa tươi"
+  },
+  {
+    "id": "sinh-to-mang-cau-sinh-to-sapo",
+    "a": "Sinh tố mãng cầu",
+    "b": "Sinh tố sapô"
+  }
+]

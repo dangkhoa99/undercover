@@ -1,0 +1,122 @@
+[
+  {
+    "id": "tu-lanh-tu-dong",
+    "a": "Tủ lạnh",
+    "b": "Tủ đông"
+  },
+  {
+    "id": "noi-com-dien-noi-ap-suat",
+    "a": "Nồi cơm điện",
+    "b": "Nồi áp suất"
+  },
+  {
+    "id": "ban-hoc-ban-an",
+    "a": "Bàn học",
+    "b": "Bàn ăn"
+  },
+  {
+    "id": "chieu-nem",
+    "a": "Chiếu",
+    "b": "Nệm"
+  },
+  {
+    "id": "choi-cay-lau-nha",
+    "a": "Chổi",
+    "b": "Cây lau nhà"
+  },
+  {
+    "id": "bep-ga-bep-tu",
+    "a": "Bếp ga",
+    "b": "Bếp từ"
+  },
+  {
+    "id": "bat-dia",
+    "a": "Bát",
+    "b": "Đĩa"
+  },
+  {
+    "id": "rem-cua-mung",
+    "a": "Rèm cửa",
+    "b": "Mùng"
+  },
+  {
+    "id": "den-ngu-den-ban",
+    "a": "Đèn ngủ",
+    "b": "Đèn bàn"
+  },
+  {
+    "id": "cong-tac-cau-dao",
+    "a": "Công tắc",
+    "b": "Cầu dao"
+  },
+  {
+    "id": "tivi-may-chieu",
+    "a": "Tivi",
+    "b": "Máy chiếu"
+  },
+  {
+    "id": "ke-sach-tu-chen",
+    "a": "Kệ sách",
+    "b": "Tủ chén"
+  },
+  {
+    "id": "ghe-sofa-ghe-dau",
+    "a": "Ghế sofa",
+    "b": "Ghế đẩu"
+  },
+  {
+    "id": "am-dun-nuoc-binh-nuoc-nong",
+    "a": "Ấm đun nước",
+    "b": "Bình nước nóng"
+  },
+  {
+    "id": "may-loc-nuoc-may-loc-khong-khi",
+    "a": "Máy lọc nước",
+    "b": "Máy lọc không khí"
+  },
+  {
+    "id": "dong-ho-treo-tuong-dong-ho-bao-thuc",
+    "a": "Đồng hồ treo tường",
+    "b": "Đồng hồ báo thức"
+  },
+  {
+    "id": "ga-trai-giuong-vo-goi",
+    "a": "Ga trải giường",
+    "b": "Vỏ gối"
+  },
+  {
+    "id": "gac-mai-tang-ham",
+    "a": "Gác mái",
+    "b": "Tầng hầm"
+  },
+  {
+    "id": "hang-rao-cong",
+    "a": "Hàng rào",
+    "b": "Cổng"
+  },
+  {
+    "id": "mai-ngoi-mai-ton",
+    "a": "Mái ngói",
+    "b": "Mái tôn"
+  },
+  {
+    "id": "nem-lo-xo-nem-cao-su",
+    "a": "Nệm lò xo",
+    "b": "Nệm cao su"
+  },
+  {
+    "id": "lo-suoi-may-suoi",
+    "a": "Lò sưởi",
+    "b": "Máy sưởi"
+  },
+  {
+    "id": "san-go-san-gach",
+    "a": "Sàn gỗ",
+    "b": "Sàn gạch"
+  },
+  {
+    "id": "ghe-xoay-ghe-banh",
+    "a": "Ghế xoay",
+    "b": "Ghế bành"
+  }
+]

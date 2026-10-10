@@ -1,0 +1,107 @@
+[
+  {
+    "id": "bong-da-bong-ro",
+    "a": "Bóng đá",
+    "b": "Bóng rổ"
+  },
+  {
+    "id": "dap-xe-truot-patin",
+    "a": "Đạp xe",
+    "b": "Trượt patin"
+  },
+  {
+    "id": "bi-a-golf",
+    "a": "Bi-a",
+    "b": "Golf"
+  },
+  {
+    "id": "trong-tai-huan-luyen-vien",
+    "a": "Trọng tài",
+    "b": "Huấn luyện viên"
+  },
+  {
+    "id": "huy-chuong-vang-cup",
+    "a": "Huy chương vàng",
+    "b": "Cúp"
+  },
+  {
+    "id": "giay-chay-giay-da-bong",
+    "a": "Giày chạy",
+    "b": "Giày đá bóng"
+  },
+  {
+    "id": "phao-boi-kinh-boi",
+    "a": "Phao bơi",
+    "b": "Kính bơi"
+  },
+  {
+    "id": "dua-ngua-dua-thuyen",
+    "a": "Đua ngựa",
+    "b": "Đua thuyền"
+  },
+  {
+    "id": "luot-song-cheo-thuyen",
+    "a": "Lướt sóng",
+    "b": "Chèo thuyền"
+  },
+  {
+    "id": "bong-chay-bong-bau-duc",
+    "a": "Bóng chày",
+    "b": "Bóng bầu dục"
+  },
+  {
+    "id": "ban-cung-phi-tieu",
+    "a": "Bắn cung",
+    "b": "Phi tiêu"
+  },
+  {
+    "id": "the-vang-the-do",
+    "a": "Thẻ vàng",
+    "b": "Thẻ đỏ"
+  },
+  {
+    "id": "co-dong-vien-binh-luan-vien",
+    "a": "Cổ động viên",
+    "b": "Bình luận viên"
+  },
+  {
+    "id": "thu-mon-tien-dao",
+    "a": "Thủ môn",
+    "b": "Tiền đạo"
+  },
+  {
+    "id": "bong-ro-bong-chuyen",
+    "a": "Bóng rổ",
+    "b": "Bóng chuyền"
+  },
+  {
+    "id": "lac-vong-tap-ta",
+    "a": "Lắc vòng",
+    "b": "Tập tạ"
+  },
+  {
+    "id": "bowling-bi-a",
+    "a": "Bowling",
+    "b": "Bi-a"
+  },
+  {
+    "id": "dau-kiem-dau-vat",
+    "a": "Đấu kiếm",
+    "b": "Đấu vật"
+  },
+  {
+    "id": "nhay-sao-nhay-cau",
+    "a": "Nhảy sào",
+    "b": "Nhảy cầu"
+  },
+  {
+    "id": "kayak-thuyen-buom",
+    "a": "Kayak",
+    "b": "Thuyền buồm"
+  },
+  {
+    "id": "truot-bang-khuc-con-cau",
+    "a": "Trượt băng",
+    "b": "Khúc côn cầu"
+  }
+]

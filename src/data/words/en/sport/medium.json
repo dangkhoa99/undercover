@@ -1,0 +1,117 @@
+[
+  {
+    "id": "football-rugby",
+    "a": "Football",
+    "b": "Rugby"
+  },
+  {
+    "id": "tennis-badminton",
+    "a": "Tennis",
+    "b": "Badminton"
+  },
+  {
+    "id": "basketball-volleyball",
+    "a": "Basketball",
+    "b": "Volleyball"
+  },
+  {
+    "id": "boxing-wrestling",
+    "a": "Boxing",
+    "b": "Wrestling"
+  },
+  {
+    "id": "golf-croquet",
+    "a": "Golf",
+    "b": "Croquet"
+  },
+  {
+    "id": "surfing-sailing",
+    "a": "Surfing",
+    "b": "Sailing"
+  },
+  {
+    "id": "cycling-running",
+    "a": "Cycling",
+    "b": "Running"
+  },
+  {
+    "id": "skateboard-scooter",
+    "a": "Skateboard",
+    "b": "Scooter"
+  },
+  {
+    "id": "baseball-cricket",
+    "a": "Baseball",
+    "b": "Cricket"
+  },
+  {
+    "id": "table-tennis-squash",
+    "a": "Table tennis",
+    "b": "Squash"
+  },
+  {
+    "id": "judo-karate",
+    "a": "Judo",
+    "b": "Karate"
+  },
+  {
+    "id": "gymnastics-ballet",
+    "a": "Gymnastics",
+    "b": "Ballet"
+  },
+  {
+    "id": "jersey-tracksuit",
+    "a": "Jersey",
+    "b": "Tracksuit"
+  },
+  {
+    "id": "scoreboard-leaderboard",
+    "a": "Scoreboard",
+    "b": "Leaderboard"
+  },
+  {
+    "id": "warm-up-cool-down",
+    "a": "Warm-up",
+    "b": "Cool-down"
+  },
+  {
+    "id": "triathlon-decathlon",
+    "a": "Triathlon",
+    "b": "Decathlon"
+  },
+  {
+    "id": "pole-vault-high-jump",
+    "a": "Pole vault",
+    "b": "High jump"
+  },
+  {
+    "id": "javelin-discus",
+    "a": "Javelin",
+    "b": "Discus"
+  },
+  {
+    "id": "water-polo-handball",
+    "a": "Water polo",
+    "b": "Handball"
+  },
+  {
+    "id": "spectator-commentator",
+    "a": "Spectator",
+    "b": "Commentator"
+  },
+  {
+    "id": "weightlifting-bodybuilding",
+    "a": "Weightlifting",
+    "b": "Bodybuilding"
+  },
+  {
+    "id": "tournament-league",
+    "a": "Tournament",
+    "b": "League"
+  },
+  {
+    "id": "shin-guard-knee-pad",
+    "a": "Shin guard",
+    "b": "Knee pad"
+  }
+]

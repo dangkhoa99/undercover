@@ -1,0 +1,92 @@
+[
+  {
+    "id": "cash-cheque",
+    "a": "Cash",
+    "b": "Cheque"
+  },
+  {
+    "id": "bakery-butcher",
+    "a": "Bakery",
+    "b": "Butcher"
+  },
+  {
+    "id": "sale-auction",
+    "a": "Sale",
+    "b": "Auction"
+  },
+  {
+    "id": "vending-machine-atm",
+    "a": "Vending machine",
+    "b": "ATM"
+  },
+  {
+    "id": "florist-greengrocer",
+    "a": "Florist",
+    "b": "Greengrocer"
+  },
+  {
+    "id": "piggy-bank-safe",
+    "a": "Piggy bank",
+    "b": "Safe"
+  },
+  {
+    "id": "fitting-room-checkout",
+    "a": "Fitting room",
+    "b": "Checkout"
+  },
+  {
+    "id": "salon-barber",
+    "a": "Salon",
+    "b": "Barber"
+  },
+  {
+    "id": "escalator-elevator",
+    "a": "Escalator",
+    "b": "Elevator"
+  },
+  {
+    "id": "jeweler-optician",
+    "a": "Jeweler",
+    "b": "Optician"
+  },
+  {
+    "id": "grocery-list-wish-list",
+    "a": "Grocery list",
+    "b": "Wish list"
+  },
+  {
+    "id": "newsstand-bookstore",
+    "a": "Newsstand",
+    "b": "Bookstore"
+  },
+  {
+    "id": "tailor-cobbler",
+    "a": "Tailor",
+    "b": "Cobbler"
+  },
+  {
+    "id": "hardware-store-garden-center",
+    "a": "Hardware store",
+    "b": "Garden center"
+  },
+  {
+    "id": "mannequin-statue",
+    "a": "Mannequin",
+    "b": "Statue"
+  },
+  {
+    "id": "street-vendor-food-truck",
+    "a": "Street vendor",
+    "b": "Food truck"
+  },
+  {
+    "id": "furniture-store-appliance-store",
+    "a": "Furniture store",
+    "b": "Appliance store"
+  },
+  {
+    "id": "shoe-store-clothing-store",
+    "a": "Shoe store",
+    "b": "Clothing store"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "teacher-professor",
+    "a": "Teacher",
+    "b": "Professor"
+  },
+  {
+    "id": "journalist-writer",
+    "a": "Journalist",
+    "b": "Writer"
+  },
+  {
+    "id": "pharmacist-doctor",
+    "a": "Pharmacist",
+    "b": "Doctor"
+  },
+  {
+    "id": "interpreter-translator",
+    "a": "Interpreter",
+    "b": "Translator"
+  },
+  {
+    "id": "scientist-inventor",
+    "a": "Scientist",
+    "b": "Inventor"
+  },
+  {
+    "id": "psychiatrist-psychologist",
+    "a": "Psychiatrist",
+    "b": "Psychologist"
+  },
+  {
+    "id": "nanny-preschool-teacher",
+    "a": "Nanny",
+    "b": "Preschool teacher"
+  },
+  {
+    "id": "judge-referee",
+    "a": "Judge",
+    "b": "Referee"
+  },
+  {
+    "id": "banker-accountant",
+    "a": "Banker",
+    "b": "Accountant"
+  },
+  {
+    "id": "zookeeper-vet",
+    "a": "Zookeeper",
+    "b": "Vet"
+  },
+  {
+    "id": "mechanic-welder",
+    "a": "Mechanic",
+    "b": "Welder"
+  },
+  {
+    "id": "carpenter-bricklayer",
+    "a": "Carpenter",
+    "b": "Bricklayer"
+  },
+  {
+    "id": "technician-machinist",
+    "a": "Technician",
+    "b": "Machinist"
+  },
+  {
+    "id": "sheriff-marshal",
+    "a": "Sheriff",
+    "b": "Marshal"
+  }
+]

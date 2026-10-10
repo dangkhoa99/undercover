@@ -1,0 +1,37 @@
+[
+  {
+    "id": "parade-carnival",
+    "a": "Parade",
+    "b": "Carnival"
+  },
+  {
+    "id": "raffle-auction",
+    "a": "Raffle",
+    "b": "Auction"
+  },
+  {
+    "id": "baby-shower-bridal-shower",
+    "a": "Baby shower",
+    "b": "Bridal shower"
+  },
+  {
+    "id": "honeymoon-bachelor-party",
+    "a": "Honeymoon",
+    "b": "Bachelor party"
+  },
+  {
+    "id": "easter-passover",
+    "a": "Easter",
+    "b": "Passover"
+  },
+  {
+    "id": "pageant-talent-contest",
+    "a": "Pageant",
+    "b": "Talent contest"
+  },
+  {
+    "id": "masquerade-ball",
+    "a": "Masquerade",
+    "b": "Ball"
+  }
+]

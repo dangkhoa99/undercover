@@ -1,0 +1,107 @@
+[
+  {
+    "id": "chef-waiter",
+    "a": "Chef",
+    "b": "Waiter"
+  },
+  {
+    "id": "pilot-flight-attendant",
+    "a": "Pilot",
+    "b": "Flight attendant"
+  },
+  {
+    "id": "painter-photographer",
+    "a": "Painter",
+    "b": "Photographer"
+  },
+  {
+    "id": "farmer-gardener",
+    "a": "Farmer",
+    "b": "Gardener"
+  },
+  {
+    "id": "baker-butcher",
+    "a": "Baker",
+    "b": "Butcher"
+  },
+  {
+    "id": "taxi-driver-bus-driver",
+    "a": "Taxi driver",
+    "b": "Bus driver"
+  },
+  {
+    "id": "lawyer-judge",
+    "a": "Lawyer",
+    "b": "Judge"
+  },
+  {
+    "id": "plumber-electrician",
+    "a": "Plumber",
+    "b": "Electrician"
+  },
+  {
+    "id": "hairdresser-makeup-artist",
+    "a": "Hairdresser",
+    "b": "Makeup artist"
+  },
+  {
+    "id": "cashier-accountant",
+    "a": "Cashier",
+    "b": "Accountant"
+  },
+  {
+    "id": "fisherman-sailor",
+    "a": "Fisherman",
+    "b": "Sailor"
+  },
+  {
+    "id": "miner-builder",
+    "a": "Miner",
+    "b": "Builder"
+  },
+  {
+    "id": "dancer-gymnast",
+    "a": "Dancer",
+    "b": "Gymnast"
+  },
+  {
+    "id": "veterinarian-zookeeper",
+    "a": "Veterinarian",
+    "b": "Zookeeper"
+  },
+  {
+    "id": "programmer-designer",
+    "a": "Programmer",
+    "b": "Designer"
+  },
+  {
+    "id": "detective-spy",
+    "a": "Detective",
+    "b": "Spy"
+  },
+  {
+    "id": "postman-courier",
+    "a": "Postman",
+    "b": "Courier"
+  },
+  {
+    "id": "carpenter-blacksmith",
+    "a": "Carpenter",
+    "b": "Blacksmith"
+  },
+  {
+    "id": "astronaut-pilot",
+    "a": "Astronaut",
+    "b": "Pilot"
+  },
+  {
+    "id": "concierge-doorman",
+    "a": "Concierge",
+    "b": "Doorman"
+  },
+  {
+    "id": "seamstress-shoemaker",
+    "a": "Seamstress",
+    "b": "Shoemaker"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "san-bay-nha-ga",
+    "a": "Sân bay",
+    "b": "Nhà ga"
+  },
+  {
+    "id": "may-bay-truc-thang",
+    "a": "Máy bay",
+    "b": "Trực thăng"
+  },
+  {
+    "id": "leu-vong",
+    "a": "Lều",
+    "b": "Võng"
+  },
+  {
+    "id": "tau-hoa-tau-thuy",
+    "a": "Tàu hỏa",
+    "b": "Tàu thủy"
+  },
+  {
+    "id": "taxi-xich-lo",
+    "a": "Taxi",
+    "b": "Xích lô"
+  },
+  {
+    "id": "ha-long-da-lat",
+    "a": "Hạ Long",
+    "b": "Đà Lạt"
+  },
+  {
+    "id": "so-thu-thuy-cung",
+    "a": "Sở thú",
+    "b": "Thủy cung"
+  },
+  {
+    "id": "kem-chong-nang-thuoc-chong-muoi",
+    "a": "Kem chống nắng",
+    "b": "Thuốc chống muỗi"
+  },
+  {
+    "id": "goi-co-bit-mat-ngu",
+    "a": "Gối cổ",
+    "b": "Bịt mắt ngủ"
+  },
+  {
+    "id": "co-truong-tai-xe",
+    "a": "Cơ trưởng",
+    "b": "Tài xế"
+  },
+  {
+    "id": "thac-suoi-nuoc-nong",
+    "a": "Thác",
+    "b": "Suối nước nóng"
+  },
+  {
+    "id": "dep-xo-ngon-giay-the-thao",
+    "a": "Dép xỏ ngón",
+    "b": "Giày thể thao"
+  },
+  {
+    "id": "pho-co-quang-truong",
+    "a": "Phố cổ",
+    "b": "Quảng trường"
+  },
+  {
+    "id": "thap-eiffel-tuong-nu-than-tu-do",
+    "a": "Tháp Eiffel",
+    "b": "Tượng Nữ thần Tự do"
+  },
+  {
+    "id": "lan-bien-luot-song",
+    "a": "Lặn biển",
+    "b": "Lướt sóng"
+  },
+  {
+    "id": "gay-tu-suong-chan-may",
+    "a": "Gậy tự sướng",
+    "b": "Chân máy"
+  },
+  {
+    "id": "day-an-toan-mu-bao-hiem",
+    "a": "Dây an toàn",
+    "b": "Mũ bảo hiểm"
+  },
+  {
+    "id": "lang-chai-lang-nghe",
+    "a": "Làng chài",
+    "b": "Làng nghề"
+  },
+  {
+    "id": "bo-bien-bo-ho",
+    "a": "Bờ biển",
+    "b": "Bờ hồ"
+  },
+  {
+    "id": "di-bien-di-nui",
+    "a": "Đi biển",
+    "b": "Đi núi"
+  },
+  {
+    "id": "tui-ngu-chan-mong",
+    "a": "Túi ngủ",
+    "b": "Chăn mỏng"
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "id": "swimming-diving",
+    "a": "Swimming",
+    "b": "Diving"
+  },
+  {
+    "id": "skiing-snowboarding",
+    "a": "Skiing",
+    "b": "Snowboarding"
+  },
+  {
+    "id": "goalkeeper-striker",
+    "a": "Goalkeeper",
+    "b": "Striker"
+  },
+  {
+    "id": "whistle-stopwatch",
+    "a": "Whistle",
+    "b": "Stopwatch"
+  },
+  {
+    "id": "racket-bat",
+    "a": "Racket",
+    "b": "Bat"
+  },
+  {
+    "id": "dumbbell-barbell",
+    "a": "Dumbbell",
+    "b": "Barbell"
+  },
+  {
+    "id": "olympics-world-cup",
+    "a": "Olympics",
+    "b": "World Cup"
+  },
+  {
+    "id": "cheerleader-mascot",
+    "a": "Cheerleader",
+    "b": "Mascot"
+  },
+  {
+    "id": "horse-racing-motor-racing",
+    "a": "Horse racing",
+    "b": "Motor racing"
+  },
+  {
+    "id": "rock-climbing-parkour",
+    "a": "Rock climbing",
+    "b": "Parkour"
+  },
+  {
+    "id": "hoop-goalpost",
+    "a": "Hoop",
+    "b": "Goalpost"
+  },
+  {
+    "id": "jogging-walking",
+    "a": "Jogging",
+    "b": "Walking"
+  },
+  {
+    "id": "golf-baseball",
+    "a": "Golf",
+    "b": "Baseball"
+  },
+  {
+    "id": "snowboard-surfboard",
+    "a": "Snowboard",
+    "b": "Surfboard"
+  },
+  {
+    "id": "goggles-snorkel",
+    "a": "Goggles",
+    "b": "Snorkel"
+  },
+  {
+    "id": "skydiving-bungee-jumping",
+    "a": "Skydiving",
+    "b": "Bungee jumping"
+  },
+  {
+    "id": "shuttlecock-tennis-ball",
+    "a": "Shuttlecock",
+    "b": "Tennis ball"
+  },
+  {
+    "id": "fencing-kendo",
+    "a": "Fencing",
+    "b": "Kendo"
+  },
+  {
+    "id": "lacrosse-polo",
+    "a": "Lacrosse",
+    "b": "Polo"
+  }
+]

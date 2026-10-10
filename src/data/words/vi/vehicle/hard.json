@@ -1,0 +1,62 @@
+[
+  {
+    "id": "xe-tai-xe-ban-tai",
+    "a": "Xe tải",
+    "b": "Xe bán tải"
+  },
+  {
+    "id": "xe-tay-ga-xe-so",
+    "a": "Xe tay ga",
+    "b": "Xe số"
+  },
+  {
+    "id": "xe-ben-xe-cau",
+    "a": "Xe ben",
+    "b": "Xe cẩu"
+  },
+  {
+    "id": "xe-bon-xe-ben",
+    "a": "Xe bồn",
+    "b": "Xe ben"
+  },
+  {
+    "id": "ca-no-du-thuyen",
+    "a": "Ca nô",
+    "b": "Du thuyền"
+  },
+  {
+    "id": "xe-dap-dua-xe-dap-dia-hinh",
+    "a": "Xe đạp đua",
+    "b": "Xe đạp địa hình"
+  },
+  {
+    "id": "xe-nang-xe-cau",
+    "a": "Xe nâng",
+    "b": "Xe cẩu"
+  },
+  {
+    "id": "xe-4-cho-xe-7-cho",
+    "a": "Xe 4 chỗ",
+    "b": "Xe 7 chỗ"
+  },
+  {
+    "id": "xe-limousine-xe-16-cho",
+    "a": "Xe limousine",
+    "b": "Xe 16 chỗ"
+  },
+  {
+    "id": "xe-lam-xe-loi",
+    "a": "Xe lam",
+    "b": "Xe lôi"
+  },
+  {
+    "id": "xe-keo-xe-tho",
+    "a": "Xe kéo",
+    "b": "Xe thồ"
+  },
+  {
+    "id": "xe-hoi-xe-tai-nho",
+    "a": "Xe hơi",
+    "b": "Xe tải nhỏ"
+  }
+]

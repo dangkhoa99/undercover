@@ -1,0 +1,117 @@
+[
+  {
+    "id": "dan-len-theu-tranh",
+    "a": "Đan len",
+    "b": "Thêu tranh"
+  },
+  {
+    "id": "doc-sach-doc-truyen-tranh",
+    "a": "Đọc sách",
+    "b": "Đọc truyện tranh"
+  },
+  {
+    "id": "nau-an-lam-banh",
+    "a": "Nấu ăn",
+    "b": "Làm bánh"
+  },
+  {
+    "id": "co-ca-ngua-co-caro",
+    "a": "Cờ cá ngựa",
+    "b": "Cờ caro"
+  },
+  {
+    "id": "tha-dieu-chong-chong",
+    "a": "Thả diều",
+    "b": "Chong chóng"
+  },
+  {
+    "id": "gap-giay-cat-giay",
+    "a": "Gấp giấy",
+    "b": "Cắt giấy"
+  },
+  {
+    "id": "viet-nhat-ky-viet-thu",
+    "a": "Viết nhật ký",
+    "b": "Viết thư"
+  },
+  {
+    "id": "bup-be-mo-hinh",
+    "a": "Búp bê",
+    "b": "Mô hình"
+  },
+  {
+    "id": "rubik-sudoku",
+    "a": "Rubik",
+    "b": "Sudoku"
+  },
+  {
+    "id": "ban-bi-danh-quay",
+    "a": "Bắn bi",
+    "b": "Đánh quay"
+  },
+  {
+    "id": "cam-hoa-lam-hoa-giay",
+    "a": "Cắm hoa",
+    "b": "Làm hoa giấy"
+  },
+  {
+    "id": "boi-loi-lan-bien",
+    "a": "Bơi lội",
+    "b": "Lặn biển"
+  },
+  {
+    "id": "dan-guitar-dan-bau",
+    "a": "Đàn guitar",
+    "b": "Đàn bầu"
+  },
+  {
+    "id": "thu-phap-hoi-hoa",
+    "a": "Thư pháp",
+    "b": "Hội họa"
+  },
+  {
+    "id": "nghe-nhac-nghe-podcast",
+    "a": "Nghe nhạc",
+    "b": "Nghe podcast"
+  },
+  {
+    "id": "xem-kich-xem-xiec",
+    "a": "Xem kịch",
+    "b": "Xem xiếc"
+  },
+  {
+    "id": "lam-vlog-viet-blog",
+    "a": "Làm vlog",
+    "b": "Viết blog"
+  },
+  {
+    "id": "suu-tam-do-co-suu-tam-sach",
+    "a": "Sưu tầm đồ cổ",
+    "b": "Sưu tầm sách"
+  },
+  {
+    "id": "hoc-ngoai-ngu-hoc-nhac",
+    "a": "Học ngoại ngữ",
+    "b": "Học nhạc"
+  },
+  {
+    "id": "lam-den-long-lam-thiep",
+    "a": "Làm đèn lồng",
+    "b": "Làm thiệp"
+  },
+  {
+    "id": "truot-patin-truot-van",
+    "a": "Trượt patin",
+    "b": "Trượt ván"
+  },
+  {
+    "id": "dan-moc-may-va",
+    "a": "Đan móc",
+    "b": "May vá"
+  },
+  {
+    "id": "nau-che-nau-xoi",
+    "a": "Nấu chè",
+    "b": "Nấu xôi"
+  }
+]

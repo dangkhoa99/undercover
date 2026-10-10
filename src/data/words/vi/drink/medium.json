@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ca-phe-ca-cao",
+    "a": "Cà phê",
+    "b": "Ca cao"
+  },
+  {
+    "id": "sinh-to-nuoc-ep",
+    "a": "Sinh tố",
+    "b": "Nước ép"
+  },
+  {
+    "id": "nuoc-mia-dua-tuoi",
+    "a": "Nước mía",
+    "b": "Dừa tươi"
+  },
+  {
+    "id": "bia-hoi-bia-chai",
+    "a": "Bia hơi",
+    "b": "Bia chai"
+  },
+  {
+    "id": "ruou-vang-ruou-de",
+    "a": "Rượu vang",
+    "b": "Rượu đế"
+  },
+  {
+    "id": "sua-tuoi-sua-chua-uong",
+    "a": "Sữa tươi",
+    "b": "Sữa chua uống"
+  },
+  {
+    "id": "bac-xiu-ca-phe-trung",
+    "a": "Bạc xỉu",
+    "b": "Cà phê trứng"
+  },
+  {
+    "id": "cam-vat-chanh-day",
+    "a": "Cam vắt",
+    "b": "Chanh dây"
+  },
+  {
+    "id": "tra-sua-sinh-to-bo",
+    "a": "Trà sữa",
+    "b": "Sinh tố bơ"
+  },
+  {
+    "id": "tra-da-nuoc-loc",
+    "a": "Trà đá",
+    "b": "Nước lọc"
+  },
+  {
+    "id": "rau-ma-sam-bi-dao",
+    "a": "Rau má",
+    "b": "Sâm bí đao"
+  },
+  {
+    "id": "chanh-muoi-quat-mat-ong",
+    "a": "Chanh muối",
+    "b": "Quất mật ong"
+  },
+  {
+    "id": "sua-dau-nanh-sua-bap",
+    "a": "Sữa đậu nành",
+    "b": "Sữa bắp"
+  },
+  {
+    "id": "nuoc-me-nuoc-mo",
+    "a": "Nước me",
+    "b": "Nước mơ"
+  },
+  {
+    "id": "sua-nong-so-co-la-nong",
+    "a": "Sữa nóng",
+    "b": "Sô cô la nóng"
+  },
+  {
+    "id": "ca-phe-phin-ca-phe-hoa-tan",
+    "a": "Cà phê phin",
+    "b": "Cà phê hòa tan"
+  },
+  {
+    "id": "nuoc-sam-nuoc-nhan-tran",
+    "a": "Nước sâm",
+    "b": "Nước nhân trần"
+  },
+  {
+    "id": "da-vien-da-bao",
+    "a": "Đá viên",
+    "b": "Đá bào"
+  },
+  {
+    "id": "mat-ong-siro",
+    "a": "Mật ong",
+    "b": "Siro"
+  },
+  {
+    "id": "tra-gung-tra-atiso",
+    "a": "Trà gừng",
+    "b": "Trà atiso"
+  },
+  {
+    "id": "nuoc-sau-nuoc-chanh",
+    "a": "Nước sấu",
+    "b": "Nước chanh"
+  },
+  {
+    "id": "nuoc-dau-tam-nuoc-luu",
+    "a": "Nước dâu tằm",
+    "b": "Nước lựu"
+  },
+  {
+    "id": "tra-lua-mach-tra-gao-lut",
+    "a": "Trà lúa mạch",
+    "b": "Trà gạo lứt"
+  },
+  {
+    "id": "sua-hanh-nhan-sua-yen-mach",
+    "a": "Sữa hạnh nhân",
+    "b": "Sữa yến mạch"
+  }
+]

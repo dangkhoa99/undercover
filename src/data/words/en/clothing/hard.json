@@ -1,0 +1,42 @@
+[
+  {
+    "id": "socks-stockings",
+    "a": "Socks",
+    "b": "Stockings"
+  },
+  {
+    "id": "wallet-purse",
+    "a": "Wallet",
+    "b": "Purse"
+  },
+  {
+    "id": "shirt-blouse",
+    "a": "Shirt",
+    "b": "Blouse"
+  },
+  {
+    "id": "poncho-cape",
+    "a": "Poncho",
+    "b": "Cape"
+  },
+  {
+    "id": "parka-anorak",
+    "a": "Parka",
+    "b": "Anorak"
+  },
+  {
+    "id": "overcoat-trench-coat",
+    "a": "Overcoat",
+    "b": "Trench coat"
+  },
+  {
+    "id": "sweatpants-joggers",
+    "a": "Sweatpants",
+    "b": "Joggers"
+  },
+  {
+    "id": "polo-shirt-rugby-shirt",
+    "a": "Polo shirt",
+    "b": "Rugby shirt"
+  }
+]

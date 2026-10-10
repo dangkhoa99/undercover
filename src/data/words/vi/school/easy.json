@@ -1,0 +1,87 @@
+[
+  {
+    "id": "phan-but-long-bang",
+    "a": "Phấn",
+    "b": "Bút lông bảng"
+  },
+  {
+    "id": "hoc-sinh-sinh-vien",
+    "a": "Học sinh",
+    "b": "Sinh viên"
+  },
+  {
+    "id": "san-truong-san-van-dong",
+    "a": "Sân trường",
+    "b": "Sân vận động"
+  },
+  {
+    "id": "toan-vat-ly",
+    "a": "Toán",
+    "b": "Vật lý"
+  },
+  {
+    "id": "dia-ly-lich-su",
+    "a": "Địa lý",
+    "b": "Lịch sử"
+  },
+  {
+    "id": "tieng-anh-tieng-phap",
+    "a": "Tiếng Anh",
+    "b": "Tiếng Pháp"
+  },
+  {
+    "id": "the-duc-am-nhac",
+    "a": "Thể dục",
+    "b": "Âm nhạc"
+  },
+  {
+    "id": "my-thuat-thu-cong",
+    "a": "Mỹ thuật",
+    "b": "Thủ công"
+  },
+  {
+    "id": "bang-keo-ho-dan",
+    "a": "Băng keo",
+    "b": "Hồ dán"
+  },
+  {
+    "id": "ban-do-qua-dia-cau",
+    "a": "Bản đồ",
+    "b": "Quả địa cầu"
+  },
+  {
+    "id": "ong-nghiem-binh-tam-giac",
+    "a": "Ống nghiệm",
+    "b": "Bình tam giác"
+  },
+  {
+    "id": "ban-hoc-ghe-da",
+    "a": "Bàn học",
+    "b": "Ghế đá"
+  },
+  {
+    "id": "bai-tho-bai-van",
+    "a": "Bài thơ",
+    "b": "Bài văn"
+  },
+  {
+    "id": "bang-cuu-chuong-bang-tuan-hoan",
+    "a": "Bảng cửu chương",
+    "b": "Bảng tuần hoàn"
+  },
+  {
+    "id": "buc-giang-san-khau",
+    "a": "Bục giảng",
+    "b": "Sân khấu"
+  },
+  {
+    "id": "phong-thi-nghiem-phong-may-tinh",
+    "a": "Phòng thí nghiệm",
+    "b": "Phòng máy tính"
+  },
+  {
+    "id": "hanh-lang-cau-thang",
+    "a": "Hành lang",
+    "b": "Cầu thang"
+  }
+]

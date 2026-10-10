@@ -1,0 +1,77 @@
+[
+  {
+    "id": "sao-clarinet",
+    "a": "Sáo",
+    "b": "Clarinet"
+  },
+  {
+    "id": "trong-chuong",
+    "a": "Trống",
+    "b": "Chuông"
+  },
+  {
+    "id": "phong-thu-san-khau",
+    "a": "Phòng thu",
+    "b": "Sân khấu"
+  },
+  {
+    "id": "rap-ballad",
+    "a": "Rap",
+    "b": "Ballad"
+  },
+  {
+    "id": "bai-hat-ban-giao-huong",
+    "a": "Bài hát",
+    "b": "Bản giao hưởng"
+  },
+  {
+    "id": "not-nhac-dau-lang",
+    "a": "Nốt nhạc",
+    "b": "Dấu lặng"
+  },
+  {
+    "id": "day-dan-phim-dan",
+    "a": "Dây đàn",
+    "b": "Phím đàn"
+  },
+  {
+    "id": "dui-trong-cay-vi",
+    "a": "Dùi trống",
+    "b": "Cây vĩ"
+  },
+  {
+    "id": "dem-nhac-le-hoi-am-nhac",
+    "a": "Đêm nhạc",
+    "b": "Lễ hội âm nhạc"
+  },
+  {
+    "id": "xylophone-piano",
+    "a": "Xylophone",
+    "b": "Piano"
+  },
+  {
+    "id": "nha-hat-phong-karaoke",
+    "a": "Nhà hát",
+    "b": "Phòng karaoke"
+  },
+  {
+    "id": "guitar-violin",
+    "a": "Guitar",
+    "b": "Violin"
+  },
+  {
+    "id": "micro-tai-nghe",
+    "a": "Micro",
+    "b": "Tai nghe"
+  },
+  {
+    "id": "nhac-co-dien-nhac-jazz",
+    "a": "Nhạc cổ điển",
+    "b": "Nhạc jazz"
+  },
+  {
+    "id": "nhac-khong-loi-nhac-co-loi",
+    "a": "Nhạc không lời",
+    "b": "Nhạc có lời"
+  }
+]

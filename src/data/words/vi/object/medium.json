@@ -1,0 +1,82 @@
+[
+  {
+    "id": "o-ao-mua",
+    "a": "Ô",
+    "b": "Áo mưa"
+  },
+  {
+    "id": "quat-dien-quat-giay",
+    "a": "Quạt điện",
+    "b": "Quạt giấy"
+  },
+  {
+    "id": "tay-bam-kim",
+    "a": "Tẩy",
+    "b": "Bấm kim"
+  },
+  {
+    "id": "thuoc-ke-compa",
+    "a": "Thước kẻ",
+    "b": "Compa"
+  },
+  {
+    "id": "vo-so-tay",
+    "a": "Vở",
+    "b": "Sổ tay"
+  },
+  {
+    "id": "chia-khoa-o-khoa",
+    "a": "Chìa khóa",
+    "b": "Ổ khóa"
+  },
+  {
+    "id": "tua-vit-kim",
+    "a": "Tua vít",
+    "b": "Kìm"
+  },
+  {
+    "id": "khan-mat-khan-giay",
+    "a": "Khăn mặt",
+    "b": "Khăn giấy"
+  },
+  {
+    "id": "ban-la-may-say-toc",
+    "a": "Bàn là",
+    "b": "Máy sấy tóc"
+  },
+  {
+    "id": "chuot-may-tinh-ban-phim",
+    "a": "Chuột máy tính",
+    "b": "Bàn phím"
+  },
+  {
+    "id": "binh-xit-muoi-nhang-muoi",
+    "a": "Bình xịt muỗi",
+    "b": "Nhang muỗi"
+  },
+  {
+    "id": "day-chun-day-thung",
+    "a": "Dây chun",
+    "b": "Dây thừng"
+  },
+  {
+    "id": "cua-bao",
+    "a": "Cưa",
+    "b": "Bào"
+  },
+  {
+    "id": "gie-lau-bot-bien",
+    "a": "Giẻ lau",
+    "b": "Bọt biển"
+  },
+  {
+    "id": "tam-bong-bong-tay-trang",
+    "a": "Tăm bông",
+    "b": "Bông tẩy trang"
+  },
+  {
+    "id": "dep-le-dep-xang-dan",
+    "a": "Dép lê",
+    "b": "Dép xăng đan"
+  }
+]

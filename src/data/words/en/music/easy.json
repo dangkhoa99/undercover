@@ -1,0 +1,87 @@
+[
+  {
+    "id": "drum-tambourine",
+    "a": "Drum",
+    "b": "Tambourine"
+  },
+  {
+    "id": "accordion-harmonica",
+    "a": "Accordion",
+    "b": "Harmonica"
+  },
+  {
+    "id": "conductor-composer",
+    "a": "Conductor",
+    "b": "Composer"
+  },
+  {
+    "id": "lullaby-anthem",
+    "a": "Lullaby",
+    "b": "Anthem"
+  },
+  {
+    "id": "vinyl-record-cd",
+    "a": "Vinyl record",
+    "b": "CD"
+  },
+  {
+    "id": "metronome-tuning-fork",
+    "a": "Metronome",
+    "b": "Tuning fork"
+  },
+  {
+    "id": "drumstick-guitar-pick",
+    "a": "Drumstick",
+    "b": "Guitar pick"
+  },
+  {
+    "id": "ticket-wristband",
+    "a": "Ticket",
+    "b": "Wristband"
+  },
+  {
+    "id": "spotlight-disco-ball",
+    "a": "Spotlight",
+    "b": "Disco ball"
+  },
+  {
+    "id": "encore-intermission",
+    "a": "Encore",
+    "b": "Intermission"
+  },
+  {
+    "id": "triangle-cymbals",
+    "a": "Triangle",
+    "b": "Cymbals"
+  },
+  {
+    "id": "bell-gong",
+    "a": "Bell",
+    "b": "Gong"
+  },
+  {
+    "id": "lead-singer-drummer",
+    "a": "Lead singer",
+    "b": "Drummer"
+  },
+  {
+    "id": "cowbell-maracas",
+    "a": "Cowbell",
+    "b": "Maracas"
+  },
+  {
+    "id": "jukebox-music-box",
+    "a": "Jukebox",
+    "b": "Music box"
+  },
+  {
+    "id": "soprano-tenor",
+    "a": "Soprano",
+    "b": "Tenor"
+  },
+  {
+    "id": "gramophone-walkman",
+    "a": "Gramophone",
+    "b": "Walkman"
+  }
+]

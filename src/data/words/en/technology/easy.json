@@ -1,0 +1,72 @@
+[
+  {
+    "id": "keyboard-mouse",
+    "a": "Keyboard",
+    "b": "Mouse"
+  },
+  {
+    "id": "wi-fi-bluetooth",
+    "a": "Wi-Fi",
+    "b": "Bluetooth"
+  },
+  {
+    "id": "drone-robot",
+    "a": "Drone",
+    "b": "Robot"
+  },
+  {
+    "id": "alarm-clock-timer",
+    "a": "Alarm clock",
+    "b": "Timer"
+  },
+  {
+    "id": "selfie-stick-tripod",
+    "a": "Selfie stick",
+    "b": "Tripod"
+  },
+  {
+    "id": "download-upload",
+    "a": "Download",
+    "b": "Upload"
+  },
+  {
+    "id": "spam-virus",
+    "a": "Spam",
+    "b": "Virus"
+  },
+  {
+    "id": "washing-machine-dryer",
+    "a": "Washing machine",
+    "b": "Dryer"
+  },
+  {
+    "id": "landline-walkie-talkie",
+    "a": "Landline",
+    "b": "Walkie-talkie"
+  },
+  {
+    "id": "fax-machine-photocopier",
+    "a": "Fax machine",
+    "b": "Photocopier"
+  },
+  {
+    "id": "game-console-arcade-machine",
+    "a": "Game console",
+    "b": "Arcade machine"
+  },
+  {
+    "id": "joystick-steering-wheel",
+    "a": "Joystick",
+    "b": "Steering wheel"
+  },
+  {
+    "id": "solar-panel-wind-turbine",
+    "a": "Solar panel",
+    "b": "Wind turbine"
+  },
+  {
+    "id": "torch-headlamp",
+    "a": "Torch",
+    "b": "Headlamp"
+  }
+]

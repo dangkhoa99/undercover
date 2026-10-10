@@ -1,0 +1,87 @@
+[
+  {
+    "id": "quat-may-dieu-hoa",
+    "a": "Quạt máy",
+    "b": "Điều hòa"
+  },
+  {
+    "id": "giuong-vong",
+    "a": "Giường",
+    "b": "Võng"
+  },
+  {
+    "id": "may-giat-may-say-quan-ao",
+    "a": "Máy giặt",
+    "b": "Máy sấy quần áo"
+  },
+  {
+    "id": "dua-nia",
+    "a": "Đũa",
+    "b": "Nĩa"
+  },
+  {
+    "id": "dao-keo",
+    "a": "Dao",
+    "b": "Kéo"
+  },
+  {
+    "id": "bong-den-den-pin",
+    "a": "Bóng đèn",
+    "b": "Đèn pin"
+  },
+  {
+    "id": "phong-khach-phong-ngu",
+    "a": "Phòng khách",
+    "b": "Phòng ngủ"
+  },
+  {
+    "id": "nha-bep-nha-tam",
+    "a": "Nhà bếp",
+    "b": "Nhà tắm"
+  },
+  {
+    "id": "cau-thang-thang-may",
+    "a": "Cầu thang",
+    "b": "Thang máy"
+  },
+  {
+    "id": "cua-chinh-cua-so",
+    "a": "Cửa chính",
+    "b": "Cửa sổ"
+  },
+  {
+    "id": "moc-ao-kep-phoi-do",
+    "a": "Móc áo",
+    "b": "Kẹp phơi đồ"
+  },
+  {
+    "id": "ban-la-may-hut-bui",
+    "a": "Bàn là",
+    "b": "Máy hút bụi"
+  },
+  {
+    "id": "tu-quan-ao-tu-giay",
+    "a": "Tủ quần áo",
+    "b": "Tủ giày"
+  },
+  {
+    "id": "bon-rua-mat-bon-cau",
+    "a": "Bồn rửa mặt",
+    "b": "Bồn cầu"
+  },
+  {
+    "id": "camera-an-ninh-chuong-cua",
+    "a": "Camera an ninh",
+    "b": "Chuông cửa"
+  },
+  {
+    "id": "vot-muoi-binh-xit-muoi",
+    "a": "Vợt muỗi",
+    "b": "Bình xịt muỗi"
+  },
+  {
+    "id": "ban-trang-diem-ban-lam-viec",
+    "a": "Bàn trang điểm",
+    "b": "Bàn làm việc"
+  }
+]

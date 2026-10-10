@@ -1,0 +1,117 @@
+[
+  {
+    "id": "violin-cello",
+    "a": "Violin",
+    "b": "Cello"
+  },
+  {
+    "id": "harp-banjo",
+    "a": "Harp",
+    "b": "Banjo"
+  },
+  {
+    "id": "microphone-speaker",
+    "a": "Microphone",
+    "b": "Speaker"
+  },
+  {
+    "id": "lyrics-melody",
+    "a": "Lyrics",
+    "b": "Melody"
+  },
+  {
+    "id": "rock-jazz",
+    "a": "Rock",
+    "b": "Jazz"
+  },
+  {
+    "id": "pop-hip-hop",
+    "a": "Pop",
+    "b": "Hip hop"
+  },
+  {
+    "id": "classical-folk-song",
+    "a": "Classical",
+    "b": "Folk song"
+  },
+  {
+    "id": "jukebox-record-player",
+    "a": "Jukebox",
+    "b": "Record player"
+  },
+  {
+    "id": "stage-studio",
+    "a": "Stage",
+    "b": "Studio"
+  },
+  {
+    "id": "duet-solo",
+    "a": "Duet",
+    "b": "Solo"
+  },
+  {
+    "id": "humming-whistling",
+    "a": "Humming",
+    "b": "Whistling"
+  },
+  {
+    "id": "ringtone-alarm",
+    "a": "Ringtone",
+    "b": "Alarm"
+  },
+  {
+    "id": "cassette-mp3-player",
+    "a": "Cassette",
+    "b": "MP3 player"
+  },
+  {
+    "id": "music-lesson-rehearsal",
+    "a": "Music lesson",
+    "b": "Rehearsal"
+  },
+  {
+    "id": "cassette-record-player",
+    "a": "Cassette",
+    "b": "Record player"
+  },
+  {
+    "id": "opening-act-headliner",
+    "a": "Opening act",
+    "b": "Headliner"
+  },
+  {
+    "id": "maracas-castanets",
+    "a": "Maracas",
+    "b": "Castanets"
+  },
+  {
+    "id": "chorus-verse",
+    "a": "Chorus",
+    "b": "Verse"
+  },
+  {
+    "id": "oboe-bassoon",
+    "a": "Oboe",
+    "b": "Bassoon"
+  },
+  {
+    "id": "audition-recital",
+    "a": "Audition",
+    "b": "Recital"
+  },
+  {
+    "id": "tuba-horn",
+    "a": "Tuba",
+    "b": "Horn"
+  },
+  {
+    "id": "sitar-lute",
+    "a": "Sitar",
+    "b": "Lute"
+  },
+  {
+    "id": "mixtape-radio-show",
+    "a": "Mixtape",
+    "b": "Radio show"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "bac-si-y-ta",
+    "a": "Bác sĩ",
+    "b": "Y tá"
+  },
+  {
+    "id": "benh-vien-tram-y-te",
+    "a": "Bệnh viện",
+    "b": "Trạm y tế"
+  },
+  {
+    "id": "khau-trang-gang-tay",
+    "a": "Khẩu trang",
+    "b": "Găng tay"
+  },
+  {
+    "id": "kem-danh-rang-nuoc-suc-mieng",
+    "a": "Kem đánh răng",
+    "b": "Nước súc miệng"
+  },
+  {
+    "id": "bang-ca-nhan-bang-gac",
+    "a": "Băng cá nhân",
+    "b": "Băng gạc"
+  },
+  {
+    "id": "vitamin-c-canxi",
+    "a": "Vitamin C",
+    "b": "Canxi"
+  },
+  {
+    "id": "cam-cum-sot-xuat-huyet",
+    "a": "Cảm cúm",
+    "b": "Sốt xuất huyết"
+  },
+  {
+    "id": "tiem-phong-truyen-dich",
+    "a": "Tiêm phòng",
+    "b": "Truyền dịch"
+  },
+  {
+    "id": "yoga-aerobic",
+    "a": "Yoga",
+    "b": "Aerobic"
+  },
+  {
+    "id": "mat-xa-xong-hoi",
+    "a": "Mát-xa",
+    "b": "Xông hơi"
+  },
+  {
+    "id": "thuoc-bac-thuoc-tay",
+    "a": "Thuốc bắc",
+    "b": "Thuốc tây"
+  },
+  {
+    "id": "da-day-ruot",
+    "a": "Dạ dày",
+    "b": "Ruột"
+  },
+  {
+    "id": "gan-than",
+    "a": "Gan",
+    "b": "Thận"
+  },
+  {
+    "id": "an-kieng-nhin-an",
+    "a": "Ăn kiêng",
+    "b": "Nhịn ăn"
+  },
+  {
+    "id": "say-nang-say-xe",
+    "a": "Say nắng",
+    "b": "Say xe"
+  },
+  {
+    "id": "khan-giay-khan-uot",
+    "a": "Khăn giấy",
+    "b": "Khăn ướt"
+  },
+  {
+    "id": "con-sat-khuan-oxy-gia",
+    "a": "Cồn sát khuẩn",
+    "b": "Oxy già"
+  },
+  {
+    "id": "chong-mat-buon-ngu",
+    "a": "Chóng mặt",
+    "b": "Buồn ngủ"
+  },
+  {
+    "id": "mun-nam",
+    "a": "Mụn",
+    "b": "Nám"
+  },
+  {
+    "id": "o-chua-nac-cut",
+    "a": "Ợ chua",
+    "b": "Nấc cụt"
+  },
+  {
+    "id": "nho-mat-xit-mui",
+    "a": "Nhỏ mắt",
+    "b": "Xịt mũi"
+  },
+  {
+    "id": "sot-ho",
+    "a": "Sốt",
+    "b": "Ho"
+  },
+  {
+    "id": "sieu-am-x-quang",
+    "a": "Siêu âm",
+    "b": "X-quang"
+  },
+  {
+    "id": "ong-nghe-bua-phan-xa",
+    "a": "Ống nghe",
+    "b": "Búa phản xạ"
+  },
+  {
+    "id": "gac-bong-gon",
+    "a": "Gạc",
+    "b": "Bông gòn"
+  },
+  {
+    "id": "ngay-mat-ngu",
+    "a": "Ngáy",
+    "b": "Mất ngủ"
+  },
+  {
+    "id": "rang-sau-nuou-rang",
+    "a": "Răng sâu",
+    "b": "Nướu răng"
+  },
+  {
+    "id": "bo-bot-nep",
+    "a": "Bó bột",
+    "b": "Nẹp"
+  }
+]

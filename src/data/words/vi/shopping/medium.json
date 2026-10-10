@@ -1,0 +1,117 @@
+[
+  {
+    "id": "trung-tam-thuong-mai-pho-di-bo",
+    "a": "Trung tâm thương mại",
+    "b": "Phố đi bộ"
+  },
+  {
+    "id": "tien-mat-vi-dien-tu",
+    "a": "Tiền mặt",
+    "b": "Ví điện tử"
+  },
+  {
+    "id": "tui-nilon-tui-giay",
+    "a": "Túi nilon",
+    "b": "Túi giấy"
+  },
+  {
+    "id": "ban-si-ban-le",
+    "a": "Bán sỉ",
+    "b": "Bán lẻ"
+  },
+  {
+    "id": "may-tinh-tien-may-quet-ma-vach",
+    "a": "Máy tính tiền",
+    "b": "Máy quét mã vạch"
+  },
+  {
+    "id": "ma-vach-ma-qr",
+    "a": "Mã vạch",
+    "b": "Mã QR"
+  },
+  {
+    "id": "cho-dem-sieu-thi",
+    "a": "Chợ đêm",
+    "b": "Siêu thị"
+  },
+  {
+    "id": "tra-gop-dat-coc",
+    "a": "Trả góp",
+    "b": "Đặt cọc"
+  },
+  {
+    "id": "doi-hang-tra-hang",
+    "a": "Đổi hàng",
+    "b": "Trả hàng"
+  },
+  {
+    "id": "ke-hang-tu-kinh",
+    "a": "Kệ hàng",
+    "b": "Tủ kính"
+  },
+  {
+    "id": "hang-that-hang-gia",
+    "a": "Hàng thật",
+    "b": "Hàng giả"
+  },
+  {
+    "id": "hang-mau-hang-ton-kho",
+    "a": "Hàng mẫu",
+    "b": "Hàng tồn kho"
+  },
+  {
+    "id": "tiem-may-cua-hang-quan-ao",
+    "a": "Tiệm may",
+    "b": "Cửa hàng quần áo"
+  },
+  {
+    "id": "chuyen-khoan-quet-ma-qr",
+    "a": "Chuyển khoản",
+    "b": "Quét mã QR"
+  },
+  {
+    "id": "hang-rong-quan-via-he",
+    "a": "Hàng rong",
+    "b": "Quán vỉa hè"
+  },
+  {
+    "id": "gia-goc-gia-ban-le",
+    "a": "Giá gốc",
+    "b": "Giá bán lẻ"
+  },
+  {
+    "id": "cua-hang-dien-may-cua-hang-dien-thoai",
+    "a": "Cửa hàng điện máy",
+    "b": "Cửa hàng điện thoại"
+  },
+  {
+    "id": "giao-hang-nhan-tai-quay",
+    "a": "Giao hàng",
+    "b": "Nhận tại quầy"
+  },
+  {
+    "id": "mua-online-mua-tai-tiem",
+    "a": "Mua online",
+    "b": "Mua tại tiệm"
+  },
+  {
+    "id": "tiem-trang-suc-tiem-dong-ho",
+    "a": "Tiệm trang sức",
+    "b": "Tiệm đồng hồ"
+  },
+  {
+    "id": "hang-order-hang-co-san",
+    "a": "Hàng order",
+    "b": "Hàng có sẵn"
+  },
+  {
+    "id": "cua-hang-giay-cua-hang-tui-xach",
+    "a": "Cửa hàng giày",
+    "b": "Cửa hàng túi xách"
+  },
+  {
+    "id": "tiem-hoa-qua-sap-rau",
+    "a": "Tiệm hoa quả",
+    "b": "Sạp rau"
+  }
+]

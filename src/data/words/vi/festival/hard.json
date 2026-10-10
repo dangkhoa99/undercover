@@ -1,0 +1,52 @@
+[
+  {
+    "id": "banh-chung-banh-tet",
+    "a": "Bánh chưng",
+    "b": "Bánh tét"
+  },
+  {
+    "id": "banh-nuong-banh-deo",
+    "a": "Bánh nướng",
+    "b": "Bánh dẻo"
+  },
+  {
+    "id": "hoa-dao-hoa-mai",
+    "a": "Hoa đào",
+    "b": "Hoa mai"
+  },
+  {
+    "id": "long-den-den-ong-sao",
+    "a": "Lồng đèn",
+    "b": "Đèn ông sao"
+  },
+  {
+    "id": "dam-cuoi-dam-hoi",
+    "a": "Đám cưới",
+    "b": "Đám hỏi"
+  },
+  {
+    "id": "thiep-mung-thiep-cuoi",
+    "a": "Thiệp mừng",
+    "b": "Thiệp cưới"
+  },
+  {
+    "id": "hoa-lay-on-hoa-ly",
+    "a": "Hoa lay ơn",
+    "b": "Hoa ly"
+  },
+  {
+    "id": "hoi-dien-hoi-thi",
+    "a": "Hội diễn",
+    "b": "Hội thi"
+  },
+  {
+    "id": "tiec-dung-tiec-ngoi",
+    "a": "Tiệc đứng",
+    "b": "Tiệc ngồi"
+  },
+  {
+    "id": "den-keo-quan-den-ca-chep",
+    "a": "Đèn kéo quân",
+    "b": "Đèn cá chép"
+  }
+]

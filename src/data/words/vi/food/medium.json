@@ -1,0 +1,132 @@
+[
+  {
+    "id": "pho-bun-bo",
+    "a": "Phở",
+    "b": "Bún bò"
+  },
+  {
+    "id": "com-tam-com-ga",
+    "a": "Cơm tấm",
+    "b": "Cơm gà"
+  },
+  {
+    "id": "tra-sua-ca-phe-sua",
+    "a": "Trà sữa",
+    "b": "Cà phê sữa"
+  },
+  {
+    "id": "nem-ran-goi-cuon",
+    "a": "Nem rán",
+    "b": "Gỏi cuốn"
+  },
+  {
+    "id": "hu-tieu-pho",
+    "a": "Hủ tiếu",
+    "b": "Phở"
+  },
+  {
+    "id": "mi-goi-mien",
+    "a": "Mì gói",
+    "b": "Miến"
+  },
+  {
+    "id": "hamburger-ga-ran",
+    "a": "Hamburger",
+    "b": "Gà rán"
+  },
+  {
+    "id": "banh-bao-banh-bot-loc",
+    "a": "Bánh bao",
+    "b": "Bánh bột lọc"
+  },
+  {
+    "id": "xuc-xich-lap-xuong",
+    "a": "Xúc xích",
+    "b": "Lạp xưởng"
+  },
+  {
+    "id": "thit-kho-ca-kho",
+    "a": "Thịt kho",
+    "b": "Cá kho"
+  },
+  {
+    "id": "rau-muong-rau-cai",
+    "a": "Rau muống",
+    "b": "Rau cải"
+  },
+  {
+    "id": "dua-hau-dua-luoi",
+    "a": "Dưa hấu",
+    "b": "Dưa lưới"
+  },
+  {
+    "id": "buoi-cam",
+    "a": "Bưởi",
+    "b": "Cam"
+  },
+  {
+    "id": "banh-quy-banh-gao",
+    "a": "Bánh quy",
+    "b": "Bánh gạo"
+  },
+  {
+    "id": "nuoc-mam-xi-dau",
+    "a": "Nước mắm",
+    "b": "Xì dầu"
+  },
+  {
+    "id": "tuong-ot-tuong-ca",
+    "a": "Tương ớt",
+    "b": "Tương cà"
+  },
+  {
+    "id": "trung-luoc-trung-op-la",
+    "a": "Trứng luộc",
+    "b": "Trứng ốp la"
+  },
+  {
+    "id": "trung-vit-lon-trung-cut",
+    "a": "Trứng vịt lộn",
+    "b": "Trứng cút"
+  },
+  {
+    "id": "com-chay-banh-trang-nuong",
+    "a": "Cơm cháy",
+    "b": "Bánh tráng nướng"
+  },
+  {
+    "id": "hanh-toi",
+    "a": "Hành",
+    "b": "Tỏi"
+  },
+  {
+    "id": "ga-nuong-vit-quay",
+    "a": "Gà nướng",
+    "b": "Vịt quay"
+  },
+  {
+    "id": "chom-chom-mang-cut",
+    "a": "Chôm chôm",
+    "b": "Măng cụt"
+  },
+  {
+    "id": "muc-nuong-tom-nuong",
+    "a": "Mực nướng",
+    "b": "Tôm nướng"
+  },
+  {
+    "id": "banh-canh-bun-moc",
+    "a": "Bánh canh",
+    "b": "Bún mọc"
+  },
+  {
+    "id": "nem-chua-cha-gio",
+    "a": "Nem chua",
+    "b": "Chả giò"
+  },
+  {
+    "id": "che-dau-xanh-che-troi-nuoc",
+    "a": "Chè đậu xanh",
+    "b": "Chè trôi nước"
+  }
+]

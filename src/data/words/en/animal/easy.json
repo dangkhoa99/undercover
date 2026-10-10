@@ -1,0 +1,97 @@
+[
+  {
+    "id": "cat-dog",
+    "a": "Cat",
+    "b": "Dog"
+  },
+  {
+    "id": "dolphin-shark",
+    "a": "Dolphin",
+    "b": "Shark"
+  },
+  {
+    "id": "duck-goose",
+    "a": "Duck",
+    "b": "Goose"
+  },
+  {
+    "id": "owl-bat",
+    "a": "Owl",
+    "b": "Bat"
+  },
+  {
+    "id": "penguin-ostrich",
+    "a": "Penguin",
+    "b": "Ostrich"
+  },
+  {
+    "id": "giraffe-zebra",
+    "a": "Giraffe",
+    "b": "Zebra"
+  },
+  {
+    "id": "camel-llama",
+    "a": "Camel",
+    "b": "Llama"
+  },
+  {
+    "id": "bear-panda",
+    "a": "Bear",
+    "b": "Panda"
+  },
+  {
+    "id": "mouse-hamster",
+    "a": "Mouse",
+    "b": "Hamster"
+  },
+  {
+    "id": "snake-lizard",
+    "a": "Snake",
+    "b": "Lizard"
+  },
+  {
+    "id": "spider-scorpion",
+    "a": "Spider",
+    "b": "Scorpion"
+  },
+  {
+    "id": "fly-mosquito",
+    "a": "Fly",
+    "b": "Mosquito"
+  },
+  {
+    "id": "octopus-squid",
+    "a": "Octopus",
+    "b": "Squid"
+  },
+  {
+    "id": "parrot-canary",
+    "a": "Parrot",
+    "b": "Canary"
+  },
+  {
+    "id": "peacock-rooster",
+    "a": "Peacock",
+    "b": "Rooster"
+  },
+  {
+    "id": "kangaroo-koala",
+    "a": "Kangaroo",
+    "b": "Koala"
+  },
+  {
+    "id": "seal-walrus",
+    "a": "Seal",
+    "b": "Walrus"
+  },
+  {
+    "id": "hedgehog-porcupine",
+    "a": "Hedgehog",
+    "b": "Porcupine"
+  },
+  {
+    "id": "jellyfish-starfish",
+    "a": "Jellyfish",
+    "b": "Starfish"
+  }
+]

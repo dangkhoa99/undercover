@@ -1,0 +1,97 @@
+[
+  {
+    "id": "ho-chieu-visa",
+    "a": "Hộ chiếu",
+    "b": "Visa"
+  },
+  {
+    "id": "ban-do-la-ban",
+    "a": "Bản đồ",
+    "b": "La bàn"
+  },
+  {
+    "id": "quay-check-in-cua-an-ninh",
+    "a": "Quầy check-in",
+    "b": "Cửa an ninh"
+  },
+  {
+    "id": "xe-buyt-xe-khach",
+    "a": "Xe buýt",
+    "b": "Xe khách"
+  },
+  {
+    "id": "chuyen-du-lich-chuyen-cong-tac",
+    "a": "Chuyến du lịch",
+    "b": "Chuyến công tác"
+  },
+  {
+    "id": "qua-luu-niem-dac-san",
+    "a": "Quà lưu niệm",
+    "b": "Đặc sản"
+  },
+  {
+    "id": "hoi-an-hue",
+    "a": "Hội An",
+    "b": "Huế"
+  },
+  {
+    "id": "giuong-mem-ghe-cung",
+    "a": "Giường mềm",
+    "b": "Ghế cứng"
+  },
+  {
+    "id": "du-thuyen-pha",
+    "a": "Du thuyền",
+    "b": "Phà"
+  },
+  {
+    "id": "o-cam-cuc-sac",
+    "a": "Ổ cắm",
+    "b": "Cục sạc"
+  },
+  {
+    "id": "biet-thu-can-ho",
+    "a": "Biệt thự",
+    "b": "Căn hộ"
+  },
+  {
+    "id": "vali-tui-du-lich",
+    "a": "Vali",
+    "b": "Túi du lịch"
+  },
+  {
+    "id": "mu-rong-vanh-mu-luoi-trai",
+    "a": "Mũ rộng vành",
+    "b": "Mũ lưỡi trai"
+  },
+  {
+    "id": "ve-may-bay-ve-tau",
+    "a": "Vé máy bay",
+    "b": "Vé tàu"
+  },
+  {
+    "id": "nha-rong-nha-san",
+    "a": "Nhà rông",
+    "b": "Nhà sàn"
+  },
+  {
+    "id": "cau-treo-cau-phao",
+    "a": "Cầu treo",
+    "b": "Cầu phao"
+  },
+  {
+    "id": "duong-cao-toc-quoc-lo",
+    "a": "Đường cao tốc",
+    "b": "Quốc lộ"
+  },
+  {
+    "id": "tram-dung-chan-tram-thu-phi",
+    "a": "Trạm dừng chân",
+    "b": "Trạm thu phí"
+  },
+  {
+    "id": "tour-dem-tour-ngay",
+    "a": "Tour đêm",
+    "b": "Tour ngày"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "id": "toothbrush-hairbrush",
+    "a": "Toothbrush",
+    "b": "Hairbrush"
+  },
+  {
+    "id": "soap-shampoo",
+    "a": "Soap",
+    "b": "Shampoo"
+  },
+  {
+    "id": "doctor-nurse",
+    "a": "Doctor",
+    "b": "Nurse"
+  },
+  {
+    "id": "thermometer-stethoscope",
+    "a": "Thermometer",
+    "b": "Stethoscope"
+  },
+  {
+    "id": "hospital-pharmacy",
+    "a": "Hospital",
+    "b": "Pharmacy"
+  },
+  {
+    "id": "dentist-optician",
+    "a": "Dentist",
+    "b": "Optician"
+  },
+  {
+    "id": "treadmill-exercise-bike",
+    "a": "Treadmill",
+    "b": "Exercise bike"
+  },
+  {
+    "id": "running-walking",
+    "a": "Running",
+    "b": "Walking"
+  },
+  {
+    "id": "cough-sneeze",
+    "a": "Cough",
+    "b": "Sneeze"
+  },
+  {
+    "id": "crutches-wheelchair",
+    "a": "Crutches",
+    "b": "Wheelchair"
+  },
+  {
+    "id": "dumbbell-skipping-rope",
+    "a": "Dumbbell",
+    "b": "Skipping rope"
+  },
+  {
+    "id": "fever-headache",
+    "a": "Fever",
+    "b": "Headache"
+  },
+  {
+    "id": "toothache-earache",
+    "a": "Toothache",
+    "b": "Earache"
+  },
+  {
+    "id": "injection-tablet",
+    "a": "Injection",
+    "b": "Tablet"
+  },
+  {
+    "id": "surgeon-pharmacist",
+    "a": "Surgeon",
+    "b": "Pharmacist"
+  },
+  {
+    "id": "marathon-sprint",
+    "a": "Marathon",
+    "b": "Sprint"
+  },
+  {
+    "id": "sauna-bath",
+    "a": "Sauna",
+    "b": "Bath"
+  },
+  {
+    "id": "allergy-asthma",
+    "a": "Allergy",
+    "b": "Asthma"
+  },
+  {
+    "id": "eye-drops-nasal-spray",
+    "a": "Eye drops",
+    "b": "Nasal spray"
+  },
+  {
+    "id": "waiting-room-operating-room",
+    "a": "Waiting room",
+    "b": "Operating room"
+  },
+  {
+    "id": "kidney-liver",
+    "a": "Kidney",
+    "b": "Liver"
+  },
+  {
+    "id": "skin-hair",
+    "a": "Skin",
+    "b": "Hair"
+  },
+  {
+    "id": "insomnia-nightmare",
+    "a": "Insomnia",
+    "b": "Nightmare"
+  }
+]

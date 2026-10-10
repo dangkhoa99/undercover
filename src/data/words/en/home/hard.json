@@ -1,0 +1,77 @@
+[
+  {
+    "id": "blender-mixer",
+    "a": "Blender",
+    "b": "Mixer"
+  },
+  {
+    "id": "blanket-duvet",
+    "a": "Blanket",
+    "b": "Duvet"
+  },
+  {
+    "id": "carpet-rug",
+    "a": "Carpet",
+    "b": "Rug"
+  },
+  {
+    "id": "mop-sponge",
+    "a": "Mop",
+    "b": "Sponge"
+  },
+  {
+    "id": "bucket-basin",
+    "a": "Bucket",
+    "b": "Basin"
+  },
+  {
+    "id": "cup-glass",
+    "a": "Cup",
+    "b": "Glass"
+  },
+  {
+    "id": "mug-teapot",
+    "a": "Mug",
+    "b": "Teapot"
+  },
+  {
+    "id": "pot-frying-pan",
+    "a": "Pot",
+    "b": "Frying pan"
+  },
+  {
+    "id": "table-desk",
+    "a": "Table",
+    "b": "Desk"
+  },
+  {
+    "id": "wardrobe-dresser",
+    "a": "Wardrobe",
+    "b": "Dresser"
+  },
+  {
+    "id": "shelf-cabinet",
+    "a": "Shelf",
+    "b": "Cabinet"
+  },
+  {
+    "id": "spatula-ladle",
+    "a": "Spatula",
+    "b": "Ladle"
+  },
+  {
+    "id": "latch-deadbolt",
+    "a": "Latch",
+    "b": "Deadbolt"
+  },
+  {
+    "id": "flask-jug",
+    "a": "Flask",
+    "b": "Jug"
+  },
+  {
+    "id": "tablecloth-placemat",
+    "a": "Tablecloth",
+    "b": "Placemat"
+  }
+]

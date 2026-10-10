@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ve-tranh-to-mau",
+    "a": "Vẽ tranh",
+    "b": "Tô màu"
+  },
+  {
+    "id": "xep-hinh-ghep-tranh",
+    "a": "Xếp hình",
+    "b": "Ghép tranh"
+  },
+  {
+    "id": "lam-vuon-trong-cay-canh",
+    "a": "Làm vườn",
+    "b": "Trồng cây cảnh"
+  },
+  {
+    "id": "suu-tam-tem-suu-tam-tien-xu",
+    "a": "Sưu tầm tem",
+    "b": "Sưu tầm tiền xu"
+  },
+  {
+    "id": "di-bo-duong-dai-leo-nui",
+    "a": "Đi bộ đường dài",
+    "b": "Leo núi"
+  },
+  {
+    "id": "nan-dat-set-nan-to-he",
+    "a": "Nặn đất sét",
+    "b": "Nặn tò he"
+  },
+  {
+    "id": "trong-rau-trong-hoa",
+    "a": "Trồng rau",
+    "b": "Trồng hoa"
+  },
+  {
+    "id": "lam-vong-tay-lam-moc-khoa",
+    "a": "Làm vòng tay",
+    "b": "Làm móc khóa"
+  },
+  {
+    "id": "di-phuot-di-du-lich",
+    "a": "Đi phượt",
+    "b": "Đi du lịch"
+  },
+  {
+    "id": "do-vui-giai-o-chu",
+    "a": "Đố vui",
+    "b": "Giải ô chữ"
+  },
+  {
+    "id": "lam-tho-viet-truyen",
+    "a": "Làm thơ",
+    "b": "Viết truyện"
+  },
+  {
+    "id": "choi-co-vua-choi-co-tuong",
+    "a": "Chơi cờ vua",
+    "b": "Chơi cờ tướng"
+  }
+]

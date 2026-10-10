@@ -1,0 +1,132 @@
+[
+  {
+    "id": "beach-swimming-pool",
+    "a": "Beach",
+    "b": "Swimming pool"
+  },
+  {
+    "id": "park-forest",
+    "a": "Park",
+    "b": "Forest"
+  },
+  {
+    "id": "supermarket-farmers-market",
+    "a": "Supermarket",
+    "b": "Farmers market"
+  },
+  {
+    "id": "restaurant-cafeteria",
+    "a": "Restaurant",
+    "b": "Cafeteria"
+  },
+  {
+    "id": "bakery-cafe",
+    "a": "Bakery",
+    "b": "Cafe"
+  },
+  {
+    "id": "stadium-gym",
+    "a": "Stadium",
+    "b": "Gym"
+  },
+  {
+    "id": "prison-police-station",
+    "a": "Prison",
+    "b": "Police station"
+  },
+  {
+    "id": "casino-arcade",
+    "a": "Casino",
+    "b": "Arcade"
+  },
+  {
+    "id": "bus-stop-taxi-stand",
+    "a": "Bus stop",
+    "b": "Taxi stand"
+  },
+  {
+    "id": "kitchen-dining-room",
+    "a": "Kitchen",
+    "b": "Dining room"
+  },
+  {
+    "id": "factory-warehouse",
+    "a": "Factory",
+    "b": "Warehouse"
+  },
+  {
+    "id": "village-city",
+    "a": "Village",
+    "b": "City"
+  },
+  {
+    "id": "theme-park-circus",
+    "a": "Theme park",
+    "b": "Circus"
+  },
+  {
+    "id": "pub-nightclub",
+    "a": "Pub",
+    "b": "Nightclub"
+  },
+  {
+    "id": "greenhouse-garden",
+    "a": "Greenhouse",
+    "b": "Garden"
+  },
+  {
+    "id": "dorm-apartment",
+    "a": "Dorm",
+    "b": "Apartment"
+  },
+  {
+    "id": "ski-resort-ice-rink",
+    "a": "Ski resort",
+    "b": "Ice rink"
+  },
+  {
+    "id": "vineyard-orchard",
+    "a": "Vineyard",
+    "b": "Orchard"
+  },
+  {
+    "id": "barn-stable",
+    "a": "Barn",
+    "b": "Stable"
+  },
+  {
+    "id": "mansion-cottage",
+    "a": "Mansion",
+    "b": "Cottage"
+  },
+  {
+    "id": "fortress-bunker",
+    "a": "Fortress",
+    "b": "Bunker"
+  },
+  {
+    "id": "monument-statue",
+    "a": "Monument",
+    "b": "Statue"
+  },
+  {
+    "id": "mosque-temple",
+    "a": "Mosque",
+    "b": "Temple"
+  },
+  {
+    "id": "courthouse-city-hall",
+    "a": "Courthouse",
+    "b": "City hall"
+  },
+  {
+    "id": "lobby-hallway",
+    "a": "Lobby",
+    "b": "Hallway"
+  },
+  {
+    "id": "sandbox-playground",
+    "a": "Sandbox",
+    "b": "Playground"
+  }
+]

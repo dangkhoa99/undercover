@@ -1,0 +1,52 @@
+[
+  {
+    "id": "karate-taekwondo",
+    "a": "Karate",
+    "b": "Taekwondo"
+  },
+  {
+    "id": "vovinam-judo",
+    "a": "Vovinam",
+    "b": "Judo"
+  },
+  {
+    "id": "bong-da-futsal",
+    "a": "Bóng đá",
+    "b": "Futsal"
+  },
+  {
+    "id": "boi-ech-boi-sai",
+    "a": "Bơi ếch",
+    "b": "Bơi sải"
+  },
+  {
+    "id": "chay-tiep-suc-chay-nuoc-rut",
+    "a": "Chạy tiếp sức",
+    "b": "Chạy nước rút"
+  },
+  {
+    "id": "marathon-chay-tiep-suc",
+    "a": "Marathon",
+    "b": "Chạy tiếp sức"
+  },
+  {
+    "id": "nem-lao-nem-ta",
+    "a": "Ném lao",
+    "b": "Ném tạ"
+  },
+  {
+    "id": "pickleball-padel",
+    "a": "Pickleball",
+    "b": "Padel"
+  },
+  {
+    "id": "cu-ta-the-hinh",
+    "a": "Cử tạ",
+    "b": "Thể hình"
+  },
+  {
+    "id": "muay-thai-kickboxing",
+    "a": "Muay Thái",
+    "b": "Kickboxing"
+  }
+]

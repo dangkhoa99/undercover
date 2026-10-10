@@ -1,0 +1,117 @@
+[
+  {
+    "id": "butterfly-moth",
+    "a": "Butterfly",
+    "b": "Moth"
+  },
+  {
+    "id": "horse-donkey",
+    "a": "Horse",
+    "b": "Donkey"
+  },
+  {
+    "id": "sheep-goat",
+    "a": "Sheep",
+    "b": "Goat"
+  },
+  {
+    "id": "cow-buffalo",
+    "a": "Cow",
+    "b": "Buffalo"
+  },
+  {
+    "id": "lion-tiger",
+    "a": "Lion",
+    "b": "Tiger"
+  },
+  {
+    "id": "wolf-fox",
+    "a": "Wolf",
+    "b": "Fox"
+  },
+  {
+    "id": "chicken-turkey",
+    "a": "Chicken",
+    "b": "Turkey"
+  },
+  {
+    "id": "eagle-hawk",
+    "a": "Eagle",
+    "b": "Hawk"
+  },
+  {
+    "id": "crow-pigeon",
+    "a": "Crow",
+    "b": "Pigeon"
+  },
+  {
+    "id": "monkey-gorilla",
+    "a": "Monkey",
+    "b": "Gorilla"
+  },
+  {
+    "id": "elephant-rhino",
+    "a": "Elephant",
+    "b": "Rhino"
+  },
+  {
+    "id": "rat-squirrel",
+    "a": "Rat",
+    "b": "Squirrel"
+  },
+  {
+    "id": "ant-termite",
+    "a": "Ant",
+    "b": "Termite"
+  },
+  {
+    "id": "ladybug-beetle",
+    "a": "Ladybug",
+    "b": "Beetle"
+  },
+  {
+    "id": "crab-lobster",
+    "a": "Crab",
+    "b": "Lobster"
+  },
+  {
+    "id": "clam-oyster",
+    "a": "Clam",
+    "b": "Oyster"
+  },
+  {
+    "id": "swan-flamingo",
+    "a": "Swan",
+    "b": "Flamingo"
+  },
+  {
+    "id": "deer-moose",
+    "a": "Deer",
+    "b": "Moose"
+  },
+  {
+    "id": "pig-boar",
+    "a": "Pig",
+    "b": "Boar"
+  },
+  {
+    "id": "otter-beaver",
+    "a": "Otter",
+    "b": "Beaver"
+  },
+  {
+    "id": "gecko-chameleon",
+    "a": "Gecko",
+    "b": "Chameleon"
+  },
+  {
+    "id": "bison-yak",
+    "a": "Bison",
+    "b": "Yak"
+  },
+  {
+    "id": "mule-pony",
+    "a": "Mule",
+    "b": "Pony"
+  }
+]

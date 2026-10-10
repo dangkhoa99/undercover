@@ -1,0 +1,62 @@
+[
+  {
+    "id": "library-bookstore",
+    "a": "Library",
+    "b": "Bookstore"
+  },
+  {
+    "id": "airport-train-station",
+    "a": "Airport",
+    "b": "Train station"
+  },
+  {
+    "id": "bank-post-office",
+    "a": "Bank",
+    "b": "Post office"
+  },
+  {
+    "id": "lighthouse-windmill",
+    "a": "Lighthouse",
+    "b": "Windmill"
+  },
+  {
+    "id": "campsite-resort",
+    "a": "Campsite",
+    "b": "Resort"
+  },
+  {
+    "id": "salon-spa",
+    "a": "Salon",
+    "b": "Spa"
+  },
+  {
+    "id": "garage-basement",
+    "a": "Garage",
+    "b": "Basement"
+  },
+  {
+    "id": "office-classroom",
+    "a": "Office",
+    "b": "Classroom"
+  },
+  {
+    "id": "parking-lot-car-wash",
+    "a": "Parking lot",
+    "b": "Car wash"
+  },
+  {
+    "id": "bridge-tunnel",
+    "a": "Bridge",
+    "b": "Tunnel"
+  },
+  {
+    "id": "observatory-planetarium",
+    "a": "Observatory",
+    "b": "Planetarium"
+  },
+  {
+    "id": "igloo-hut",
+    "a": "Igloo",
+    "b": "Hut"
+  }
+]

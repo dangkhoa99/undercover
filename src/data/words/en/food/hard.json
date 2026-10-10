@@ -1,0 +1,52 @@
+[
+  {
+    "id": "butter-margarine",
+    "a": "Butter",
+    "b": "Margarine"
+  },
+  {
+    "id": "cheese-butter",
+    "a": "Cheese",
+    "b": "Butter"
+  },
+  {
+    "id": "peach-plum",
+    "a": "Peach",
+    "b": "Plum"
+  },
+  {
+    "id": "cupcake-brownie",
+    "a": "Cupcake",
+    "b": "Brownie"
+  },
+  {
+    "id": "kebab-gyro",
+    "a": "Kebab",
+    "b": "Gyro"
+  },
+  {
+    "id": "quiche-frittata",
+    "a": "Quiche",
+    "b": "Frittata"
+  },
+  {
+    "id": "nachos-tortilla-chips",
+    "a": "Nachos",
+    "b": "Tortilla chips"
+  },
+  {
+    "id": "omelette-scrambled-eggs",
+    "a": "Omelette",
+    "b": "Scrambled eggs"
+  },
+  {
+    "id": "chili-curry",
+    "a": "Chili",
+    "b": "Curry"
+  },
+  {
+    "id": "sweet-potato-yam",
+    "a": "Sweet potato",
+    "b": "Yam"
+  }
+]

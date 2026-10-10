@@ -27,11 +27,27 @@ Rules, technical options and roadmap (Vietnamese): [agent/PLAN.md](./agent/PLAN.
 | `bun run lint`      | Run oxlint                                                          |
 | `bun run pwa:icons` | Regenerate PNG icons from `public/icon.svg`                         |
 
-## Deploy to Vercel
+## Branches and deploy
+
+| Branch    | Purpose                                                                                      |
+| --------- | -------------------------------------------------------------------------------------------- |
+| `develop` | Day-to-day work. Every push gets a Vercel **preview** deployment.                            |
+| `main`    | Production only, protected. Updated by merging a pull request from `develop` when releasing. |
+
+CI (`.github/workflows/ci.yml`, job `ci`) runs format check, lint, tests and build on pull requests to `main`/`develop` and on pushes to `develop`.
+
+### One-time GitHub setup
+
+1. Settings → Branches (or Rulesets) → protect `main`: require a pull request, require the `ci` status check, block force pushes and deletion.
+2. Optionally protect `develop` with the `ci` check too.
+
+### One-time Vercel setup
 
 `vercel.json` already sets bun install, build (`bun run build`), output `dist`, the SPA rewrite and no-cache headers for `sw.js`.
 
-| Option           | Steps                                                                                                                                                                                                                                                                                                                                                          |
-| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| GitHub (advised) | 1. Create a repo and push: `git add -A && git commit -m "Initial commit" && git remote add origin <url> && git push -u origin main`. 2. In vercel.com choose Add New Project and import the repo; Vite is detected automatically. 3. After deploy, open `/setup`, `/words` and `/rules` and refresh to confirm no 404, then try Add to Home Screen on a phone. |
-| CLI              | `bunx vercel login`, then `bunx vercel --prod`.                                                                                                                                                                                                                                                                                                                |
+1. vercel.com → Add New Project → import `dangkhoa99/undercover` (Vite is detected automatically, keep the defaults).
+2. Project Settings → Git → **Production Branch** = `main`. Other branches (`develop`) deploy as previews.
+3. Release: open a PR `develop` → `main`, wait for `ci`, merge. Vercel deploys production from `main`.
+4. After the first deploy open `/setup`, `/words`, `/rules` and refresh to confirm no 404, and try Add to Home Screen on a phone.
+
+CLI alternative: `bunx vercel login`, then `bunx vercel --prod`.

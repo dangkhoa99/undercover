@@ -1,0 +1,67 @@
+[
+  {
+    "id": "banh-mi-xoi",
+    "a": "Bánh mì",
+    "b": "Xôi"
+  },
+  {
+    "id": "che-kem",
+    "a": "Chè",
+    "b": "Kem"
+  },
+  {
+    "id": "chao-sup",
+    "a": "Cháo",
+    "b": "Súp"
+  },
+  {
+    "id": "pizza-mi-y",
+    "a": "Pizza",
+    "b": "Mì Ý"
+  },
+  {
+    "id": "khoai-tay-chien-bap-rang-bo",
+    "a": "Khoai tây chiên",
+    "b": "Bắp rang bơ"
+  },
+  {
+    "id": "sua-chua-kem",
+    "a": "Sữa chua",
+    "b": "Kem"
+  },
+  {
+    "id": "canh-chua-canh-kho-qua",
+    "a": "Canh chua",
+    "b": "Canh khổ qua"
+  },
+  {
+    "id": "sau-rieng-mit",
+    "a": "Sầu riêng",
+    "b": "Mít"
+  },
+  {
+    "id": "dau-tay-man",
+    "a": "Dâu tây",
+    "b": "Mận"
+  },
+  {
+    "id": "muoi-duong",
+    "a": "Muối",
+    "b": "Đường"
+  },
+  {
+    "id": "bo-bit-tet-suon-nuong",
+    "a": "Bò bít tết",
+    "b": "Sườn nướng"
+  },
+  {
+    "id": "banh-flan-banh-bong-lan",
+    "a": "Bánh flan",
+    "b": "Bánh bông lan"
+  },
+  {
+    "id": "ca-rot-cu-cai",
+    "a": "Cà rốt",
+    "b": "Củ cải"
+  }
+]

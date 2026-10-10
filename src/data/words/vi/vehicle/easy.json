@@ -1,0 +1,77 @@
+[
+  {
+    "id": "xe-may-xe-dap",
+    "a": "Xe máy",
+    "b": "Xe đạp"
+  },
+  {
+    "id": "o-to-xe-tai",
+    "a": "Ô tô",
+    "b": "Xe tải"
+  },
+  {
+    "id": "xe-buyt-tau-dien",
+    "a": "Xe buýt",
+    "b": "Tàu điện"
+  },
+  {
+    "id": "xich-lo-xe-ngua",
+    "a": "Xích lô",
+    "b": "Xe ngựa"
+  },
+  {
+    "id": "xe-cuu-thuong-xe-cuu-hoa",
+    "a": "Xe cứu thương",
+    "b": "Xe cứu hỏa"
+  },
+  {
+    "id": "khinh-khi-cau-du-luon",
+    "a": "Khinh khí cầu",
+    "b": "Dù lượn"
+  },
+  {
+    "id": "cap-treo-thang-may",
+    "a": "Cáp treo",
+    "b": "Thang máy"
+  },
+  {
+    "id": "xe-lan-xe-noi",
+    "a": "Xe lăn",
+    "b": "Xe nôi"
+  },
+  {
+    "id": "may-cay-may-gat",
+    "a": "Máy cày",
+    "b": "Máy gặt"
+  },
+  {
+    "id": "ten-lua-tau-vu-tru",
+    "a": "Tên lửa",
+    "b": "Tàu vũ trụ"
+  },
+  {
+    "id": "xe-cho-rac-xe-quet-duong",
+    "a": "Xe chở rác",
+    "b": "Xe quét đường"
+  },
+  {
+    "id": "tau-ngam-tau-chien",
+    "a": "Tàu ngầm",
+    "b": "Tàu chiến"
+  },
+  {
+    "id": "xe-day-em-be-xe-tap-di",
+    "a": "Xe đẩy em bé",
+    "b": "Xe tập đi"
+  },
+  {
+    "id": "vo-lang-phanh-xe",
+    "a": "Vô lăng",
+    "b": "Phanh xe"
+  },
+  {
+    "id": "xe-truot-tuyet-xe-mo-to-nuoc",
+    "a": "Xe trượt tuyết",
+    "b": "Xe mô tô nước"
+  }
+]

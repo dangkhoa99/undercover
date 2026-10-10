@@ -1,0 +1,52 @@
+[
+  {
+    "id": "tap-hoa-cua-hang-tien-loi",
+    "a": "Tạp hóa",
+    "b": "Cửa hàng tiện lợi"
+  },
+  {
+    "id": "the-tin-dung-the-atm",
+    "a": "Thẻ tín dụng",
+    "b": "Thẻ ATM"
+  },
+  {
+    "id": "hoa-don-bien-lai",
+    "a": "Hóa đơn",
+    "b": "Biên lai"
+  },
+  {
+    "id": "ma-giam-gia-the-qua-tang",
+    "a": "Mã giảm giá",
+    "b": "Thẻ quà tặng"
+  },
+  {
+    "id": "khuyen-mai-giam-gia",
+    "a": "Khuyến mãi",
+    "b": "Giảm giá"
+  },
+  {
+    "id": "bao-li-xi-phong-bi",
+    "a": "Bao lì xì",
+    "b": "Phong bì"
+  },
+  {
+    "id": "the-thanh-vien-phieu-mua-hang",
+    "a": "Thẻ thành viên",
+    "b": "Phiếu mua hàng"
+  },
+  {
+    "id": "cho-troi-tiem-do-cu",
+    "a": "Chợ trời",
+    "b": "Tiệm đồ cũ"
+  },
+  {
+    "id": "xa-kho-giam-gia-cuoi-mua",
+    "a": "Xả kho",
+    "b": "Giảm giá cuối mùa"
+  },
+  {
+    "id": "sieu-thi-mini-cho-dan-sinh",
+    "a": "Siêu thị mini",
+    "b": "Chợ dân sinh"
+  }
+]

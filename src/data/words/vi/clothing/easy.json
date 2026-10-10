@@ -1,0 +1,82 @@
+[
+  {
+    "id": "ao-dai-dam-da-hoi",
+    "a": "Áo dài",
+    "b": "Đầm dạ hội"
+  },
+  {
+    "id": "dep-tong-giay-the-thao",
+    "a": "Dép tông",
+    "b": "Giày thể thao"
+  },
+  {
+    "id": "non-la-mu-bao-hiem",
+    "a": "Nón lá",
+    "b": "Mũ bảo hiểm"
+  },
+  {
+    "id": "ao-mua-ao-khoac",
+    "a": "Áo mưa",
+    "b": "Áo khoác"
+  },
+  {
+    "id": "do-ngu-do-boi",
+    "a": "Đồ ngủ",
+    "b": "Đồ bơi"
+  },
+  {
+    "id": "dong-ho-vong-tay",
+    "a": "Đồng hồ",
+    "b": "Vòng tay"
+  },
+  {
+    "id": "day-chuyen-vong-tay",
+    "a": "Dây chuyền",
+    "b": "Vòng tay"
+  },
+  {
+    "id": "nhan-bong-tai",
+    "a": "Nhẫn",
+    "b": "Bông tai"
+  },
+  {
+    "id": "vi-tui-xach",
+    "a": "Ví",
+    "b": "Túi xách"
+  },
+  {
+    "id": "vali-ba-lo",
+    "a": "Vali",
+    "b": "Ba lô"
+  },
+  {
+    "id": "o-non-la",
+    "a": "Ô",
+    "b": "Nón lá"
+  },
+  {
+    "id": "dep-to-ong-giay-bata",
+    "a": "Dép tổ ong",
+    "b": "Giày bata"
+  },
+  {
+    "id": "mu-len-khan-len",
+    "a": "Mũ len",
+    "b": "Khăn len"
+  },
+  {
+    "id": "ao-choang-tam-khan-tam",
+    "a": "Áo choàng tắm",
+    "b": "Khăn tắm"
+  },
+  {
+    "id": "tap-de-ao-blouse",
+    "a": "Tạp dề",
+    "b": "Áo blouse"
+  },
+  {
+    "id": "vo-len-gang-len",
+    "a": "Vớ len",
+    "b": "Găng len"
+  }
+]

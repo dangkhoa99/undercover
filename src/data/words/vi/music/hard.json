@@ -1,0 +1,47 @@
+[
+  {
+    "id": "guitar-ukulele",
+    "a": "Guitar",
+    "b": "Ukulele"
+  },
+  {
+    "id": "piano-keyboard",
+    "a": "Piano",
+    "b": "Keyboard"
+  },
+  {
+    "id": "saxophone-clarinet",
+    "a": "Saxophone",
+    "b": "Clarinet"
+  },
+  {
+    "id": "ban-nhac-dan-hop-xuong",
+    "a": "Ban nhạc",
+    "b": "Dàn hợp xướng"
+  },
+  {
+    "id": "hat-xam-quan-ho",
+    "a": "Hát xẩm",
+    "b": "Quan họ"
+  },
+  {
+    "id": "chuong-dien-thoai-nhac-nen",
+    "a": "Chuông điện thoại",
+    "b": "Nhạc nền"
+  },
+  {
+    "id": "danh-sach-phat-album",
+    "a": "Danh sách phát",
+    "b": "Album"
+  },
+  {
+    "id": "dan-ghi-ta-dan-bass",
+    "a": "Đàn ghi-ta",
+    "b": "Đàn bass"
+  },
+  {
+    "id": "bai-hat-ban-nhac",
+    "a": "Bài hát",
+    "b": "Bản nhạc"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "bun-cha-bun-thit-nuong",
+    "a": "Bún chả",
+    "b": "Bún thịt nướng"
+  },
+  {
+    "id": "banh-xeo-banh-khot",
+    "a": "Bánh xèo",
+    "b": "Bánh khọt"
+  },
+  {
+    "id": "cha-lua-gio-thu",
+    "a": "Chả lụa",
+    "b": "Giò thủ"
+  },
+  {
+    "id": "cam-quyt",
+    "a": "Cam",
+    "b": "Quýt"
+  },
+  {
+    "id": "nhan-vai",
+    "a": "Nhãn",
+    "b": "Vải"
+  },
+  {
+    "id": "hat-dua-hat-huong-duong",
+    "a": "Hạt dưa",
+    "b": "Hạt hướng dương"
+  },
+  {
+    "id": "trung-ga-trung-vit",
+    "a": "Trứng gà",
+    "b": "Trứng vịt"
+  },
+  {
+    "id": "ca-hoi-ca-ngu",
+    "a": "Cá hồi",
+    "b": "Cá ngừ"
+  },
+  {
+    "id": "banh-cuon-banh-uot",
+    "a": "Bánh cuốn",
+    "b": "Bánh ướt"
+  },
+  {
+    "id": "bun-rieu-bun-oc",
+    "a": "Bún riêu",
+    "b": "Bún ốc"
+  },
+  {
+    "id": "cua-rang-me-ghe-hap",
+    "a": "Cua rang me",
+    "b": "Ghẹ hấp"
+  }
+]

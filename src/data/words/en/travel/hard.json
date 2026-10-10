@@ -1,0 +1,42 @@
+[
+  {
+    "id": "boarding-pass-train-ticket",
+    "a": "Boarding pass",
+    "b": "Train ticket"
+  },
+  {
+    "id": "resort-motel",
+    "a": "Resort",
+    "b": "Motel"
+  },
+  {
+    "id": "hot-spring-spa",
+    "a": "Hot spring",
+    "b": "Spa"
+  },
+  {
+    "id": "balcony-terrace",
+    "a": "Balcony",
+    "b": "Terrace"
+  },
+  {
+    "id": "sightseeing-bus-shuttle-bus",
+    "a": "Sightseeing bus",
+    "b": "Shuttle bus"
+  },
+  {
+    "id": "rowboat-speedboat",
+    "a": "Rowboat",
+    "b": "Speedboat"
+  },
+  {
+    "id": "chalet-bungalow",
+    "a": "Chalet",
+    "b": "Bungalow"
+  },
+  {
+    "id": "bed-and-breakfast-youth-hostel",
+    "a": "Bed and breakfast",
+    "b": "Youth hostel"
+  }
+]

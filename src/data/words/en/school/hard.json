@@ -1,0 +1,62 @@
+[
+  {
+    "id": "eraser-correction-tape",
+    "a": "Eraser",
+    "b": "Correction tape"
+  },
+  {
+    "id": "blackboard-whiteboard",
+    "a": "Blackboard",
+    "b": "Whiteboard"
+  },
+  {
+    "id": "dictionary-encyclopedia",
+    "a": "Dictionary",
+    "b": "Encyclopedia"
+  },
+  {
+    "id": "quiz-exam",
+    "a": "Quiz",
+    "b": "Exam"
+  },
+  {
+    "id": "diploma-certificate",
+    "a": "Diploma",
+    "b": "Certificate"
+  },
+  {
+    "id": "university-college",
+    "a": "University",
+    "b": "College"
+  },
+  {
+    "id": "atlas-globe",
+    "a": "Atlas",
+    "b": "Globe"
+  },
+  {
+    "id": "folder-binder",
+    "a": "Folder",
+    "b": "Binder"
+  },
+  {
+    "id": "report-card-transcript",
+    "a": "Report card",
+    "b": "Transcript"
+  },
+  {
+    "id": "detention-suspension",
+    "a": "Detention",
+    "b": "Suspension"
+  },
+  {
+    "id": "pop-quiz-final",
+    "a": "Pop quiz",
+    "b": "Final"
+  },
+  {
+    "id": "lecture-hall-auditorium",
+    "a": "Lecture hall",
+    "b": "Auditorium"
+  }
+]

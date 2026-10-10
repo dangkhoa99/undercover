@@ -1,0 +1,87 @@
+[
+  {
+    "id": "chuot-ban-phim",
+    "a": "Chuột",
+    "b": "Bàn phím"
+  },
+  {
+    "id": "usb-o-cung",
+    "a": "USB",
+    "b": "Ổ cứng"
+  },
+  {
+    "id": "o-cung-dam-may",
+    "a": "Ổ cứng",
+    "b": "Đám mây"
+  },
+  {
+    "id": "pin-ac-quy",
+    "a": "Pin",
+    "b": "Ắc quy"
+  },
+  {
+    "id": "tin-nhan-cuoc-goi",
+    "a": "Tin nhắn",
+    "b": "Cuộc gọi"
+  },
+  {
+    "id": "drone-truc-thang",
+    "a": "Drone",
+    "b": "Trực thăng"
+  },
+  {
+    "id": "the-cao-sim",
+    "a": "Thẻ cào",
+    "b": "SIM"
+  },
+  {
+    "id": "tai-khoan-mat-khau",
+    "a": "Tài khoản",
+    "b": "Mật khẩu"
+  },
+  {
+    "id": "dinh-vi-gps-la-ban",
+    "a": "Định vị GPS",
+    "b": "La bàn"
+  },
+  {
+    "id": "virus-hacker",
+    "a": "Virus",
+    "b": "Hacker"
+  },
+  {
+    "id": "mang-xa-hoi-bao-mang",
+    "a": "Mạng xã hội",
+    "b": "Báo mạng"
+  },
+  {
+    "id": "quat-dien-dieu-hoa",
+    "a": "Quạt điện",
+    "b": "Điều hòa"
+  },
+  {
+    "id": "chia-khoa-the-tu",
+    "a": "Chìa khóa",
+    "b": "Thẻ từ"
+  },
+  {
+    "id": "cua-tu-dong-cua-cuon",
+    "a": "Cửa tự động",
+    "b": "Cửa cuốn"
+  },
+  {
+    "id": "email-thu-tay",
+    "a": "Email",
+    "b": "Thư tay"
+  },
+  {
+    "id": "bluetooth-hong-ngoai",
+    "a": "Bluetooth",
+    "b": "Hồng ngoại"
+  },
+  {
+    "id": "but-cam-ung-chuot-khong-day",
+    "a": "Bút cảm ứng",
+    "b": "Chuột không dây"
+  }
+]

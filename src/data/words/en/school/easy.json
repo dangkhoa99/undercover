@@ -1,0 +1,67 @@
+[
+  {
+    "id": "notebook-textbook",
+    "a": "Notebook",
+    "b": "Textbook"
+  },
+  {
+    "id": "history-geography",
+    "a": "History",
+    "b": "Geography"
+  },
+  {
+    "id": "scissors-stapler",
+    "a": "Scissors",
+    "b": "Stapler"
+  },
+  {
+    "id": "uniform-apron",
+    "a": "Uniform",
+    "b": "Apron"
+  },
+  {
+    "id": "principal-teacher",
+    "a": "Principal",
+    "b": "Teacher"
+  },
+  {
+    "id": "scholarship-tuition",
+    "a": "Scholarship",
+    "b": "Tuition"
+  },
+  {
+    "id": "locker-desk",
+    "a": "Locker",
+    "b": "Desk"
+  },
+  {
+    "id": "bell-whistle",
+    "a": "Bell",
+    "b": "Whistle"
+  },
+  {
+    "id": "essay-presentation",
+    "a": "Essay",
+    "b": "Presentation"
+  },
+  {
+    "id": "music-class-art-class",
+    "a": "Music class",
+    "b": "Art class"
+  },
+  {
+    "id": "field-trip-picnic",
+    "a": "Field trip",
+    "b": "Picnic"
+  },
+  {
+    "id": "pencil-case-lunchbox",
+    "a": "Pencil case",
+    "b": "Lunchbox"
+  },
+  {
+    "id": "library-card-bus-pass",
+    "a": "Library card",
+    "b": "Bus pass"
+  }
+]

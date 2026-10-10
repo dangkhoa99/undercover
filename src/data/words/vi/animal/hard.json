@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ech-coc",
+    "a": "Ếch",
+    "b": "Cóc"
+  },
+  {
+    "id": "cua-ghe",
+    "a": "Cua",
+    "b": "Ghẹ"
+  },
+  {
+    "id": "ngan-ngong",
+    "a": "Ngan",
+    "b": "Ngỗng"
+  },
+  {
+    "id": "vet-qua",
+    "a": "Vẹt",
+    "b": "Quạ"
+  },
+  {
+    "id": "cao-soi",
+    "a": "Cáo",
+    "b": "Sói"
+  },
+  {
+    "id": "chon-cao",
+    "a": "Chồn",
+    "b": "Cáo"
+  },
+  {
+    "id": "chau-chau-de",
+    "a": "Châu chấu",
+    "b": "Dế"
+  },
+  {
+    "id": "hau-so",
+    "a": "Hàu",
+    "b": "Sò"
+  },
+  {
+    "id": "ve-sau-de-men",
+    "a": "Ve sầu",
+    "b": "Dế mèn"
+  },
+  {
+    "id": "bo-ngua-cao-cao",
+    "a": "Bọ ngựa",
+    "b": "Cào cào"
+  },
+  {
+    "id": "heo-rung-heo-nha",
+    "a": "Heo rừng",
+    "b": "Heo nhà"
+  },
+  {
+    "id": "ca-chep-ca-tre",
+    "a": "Cá chép",
+    "b": "Cá trê"
+  }
+]

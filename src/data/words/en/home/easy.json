@@ -1,0 +1,77 @@
+[
+  {
+    "id": "sofa-armchair",
+    "a": "Sofa",
+    "b": "Armchair"
+  },
+  {
+    "id": "bed-hammock",
+    "a": "Bed",
+    "b": "Hammock"
+  },
+  {
+    "id": "oven-microwave",
+    "a": "Oven",
+    "b": "Microwave"
+  },
+  {
+    "id": "toaster-kettle",
+    "a": "Toaster",
+    "b": "Kettle"
+  },
+  {
+    "id": "bathtub-shower",
+    "a": "Bathtub",
+    "b": "Shower"
+  },
+  {
+    "id": "broom-vacuum-cleaner",
+    "a": "Broom",
+    "b": "Vacuum cleaner"
+  },
+  {
+    "id": "plate-bowl",
+    "a": "Plate",
+    "b": "Bowl"
+  },
+  {
+    "id": "fork-spoon",
+    "a": "Fork",
+    "b": "Spoon"
+  },
+  {
+    "id": "knife-scissors",
+    "a": "Knife",
+    "b": "Scissors"
+  },
+  {
+    "id": "stairs-elevator",
+    "a": "Stairs",
+    "b": "Elevator"
+  },
+  {
+    "id": "kitchen-bathroom",
+    "a": "Kitchen",
+    "b": "Bathroom"
+  },
+  {
+    "id": "washing-machine-dishwasher",
+    "a": "Washing machine",
+    "b": "Dishwasher"
+  },
+  {
+    "id": "drill-saw",
+    "a": "Drill",
+    "b": "Saw"
+  },
+  {
+    "id": "rake-shovel",
+    "a": "Rake",
+    "b": "Shovel"
+  },
+  {
+    "id": "doormat-welcome-sign",
+    "a": "Doormat",
+    "b": "Welcome sign"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "nuoc-ngot-nuoc-suoi",
+    "a": "Nước ngọt",
+    "b": "Nước suối"
+  },
+  {
+    "id": "ca-phe-den-nuoc-tang-luc",
+    "a": "Cà phê đen",
+    "b": "Nước tăng lực"
+  },
+  {
+    "id": "bia-sam-panh",
+    "a": "Bia",
+    "b": "Sâm panh"
+  },
+  {
+    "id": "may-xay-sinh-to-may-ep-trai-cay",
+    "a": "Máy xay sinh tố",
+    "b": "Máy ép trái cây"
+  },
+  {
+    "id": "quan-ca-phe-quan-bia",
+    "a": "Quán cà phê",
+    "b": "Quán bia"
+  },
+  {
+    "id": "tran-chau-hat-chia",
+    "a": "Trân châu",
+    "b": "Hạt chia"
+  },
+  {
+    "id": "ly-thuy-tinh-ly-nhua",
+    "a": "Ly thủy tinh",
+    "b": "Ly nhựa"
+  },
+  {
+    "id": "nuoc-ep-ca-rot-nuoc-ep-dua-hau",
+    "a": "Nước ép cà rốt",
+    "b": "Nước ép dưa hấu"
+  },
+  {
+    "id": "quan-tra-sua-quan-kem",
+    "a": "Quán trà sữa",
+    "b": "Quán kem"
+  },
+  {
+    "id": "nuoc-cam-nuoc-dua",
+    "a": "Nước cam",
+    "b": "Nước dừa"
+  },
+  {
+    "id": "suong-sao-thach-dua",
+    "a": "Sương sáo",
+    "b": "Thạch dừa"
+  },
+  {
+    "id": "sua-dac-sua-bot",
+    "a": "Sữa đặc",
+    "b": "Sữa bột"
+  },
+  {
+    "id": "bia-nuoc-ngot",
+    "a": "Bia",
+    "b": "Nước ngọt"
+  },
+  {
+    "id": "nuoc-nho-ruou-nep",
+    "a": "Nước nho",
+    "b": "Rượu nếp"
+  }
+]

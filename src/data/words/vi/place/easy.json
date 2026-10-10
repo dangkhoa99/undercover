@@ -1,0 +1,102 @@
+[
+  {
+    "id": "cong-vien-so-thu",
+    "a": "Công viên",
+    "b": "Sở thú"
+  },
+  {
+    "id": "benh-vien-phong-kham",
+    "a": "Bệnh viện",
+    "b": "Phòng khám"
+  },
+  {
+    "id": "truong-hoc-nha-tre",
+    "a": "Trường học",
+    "b": "Nhà trẻ"
+  },
+  {
+    "id": "rap-chieu-phim-nha-hat",
+    "a": "Rạp chiếu phim",
+    "b": "Nhà hát"
+  },
+  {
+    "id": "bai-bien-ho-boi",
+    "a": "Bãi biển",
+    "b": "Hồ bơi"
+  },
+  {
+    "id": "ga-tau-san-bay",
+    "a": "Ga tàu",
+    "b": "Sân bay"
+  },
+  {
+    "id": "ngan-hang-buu-dien",
+    "a": "Ngân hàng",
+    "b": "Bưu điện"
+  },
+  {
+    "id": "ruong-lua-vuon-rau",
+    "a": "Ruộng lúa",
+    "b": "Vườn rau"
+  },
+  {
+    "id": "lang-que-thanh-pho",
+    "a": "Làng quê",
+    "b": "Thành phố"
+  },
+  {
+    "id": "nha-bep-phong-an",
+    "a": "Nhà bếp",
+    "b": "Phòng ăn"
+  },
+  {
+    "id": "phong-gym-san-bong-da",
+    "a": "Phòng gym",
+    "b": "Sân bóng đá"
+  },
+  {
+    "id": "tiem-banh-tiem-tap-hoa",
+    "a": "Tiệm bánh",
+    "b": "Tiệm tạp hóa"
+  },
+  {
+    "id": "van-phong-nha-may",
+    "a": "Văn phòng",
+    "b": "Nhà máy"
+  },
+  {
+    "id": "quan-net-phong-karaoke",
+    "a": "Quán net",
+    "b": "Phòng karaoke"
+  },
+  {
+    "id": "sa-mac-thao-nguyen",
+    "a": "Sa mạc",
+    "b": "Thảo nguyên"
+  },
+  {
+    "id": "ha-noi-sai-gon",
+    "a": "Hà Nội",
+    "b": "Sài Gòn"
+  },
+  {
+    "id": "thuy-cung-vuon-thu",
+    "a": "Thủy cung",
+    "b": "Vườn thú"
+  },
+  {
+    "id": "chua-nha-tho",
+    "a": "Chùa",
+    "b": "Nhà thờ"
+  },
+  {
+    "id": "tiem-vang-tiem-dien-thoai",
+    "a": "Tiệm vàng",
+    "b": "Tiệm điện thoại"
+  },
+  {
+    "id": "phu-quoc-con-dao",
+    "a": "Phú Quốc",
+    "b": "Côn Đảo"
+  }
+]

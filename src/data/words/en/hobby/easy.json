@@ -1,0 +1,92 @@
+[
+  {
+    "id": "knitting-crochet",
+    "a": "Knitting",
+    "b": "Crochet"
+  },
+  {
+    "id": "fishing-sailing",
+    "a": "Fishing",
+    "b": "Sailing"
+  },
+  {
+    "id": "camping-hiking",
+    "a": "Camping",
+    "b": "Hiking"
+  },
+  {
+    "id": "gardening-farming",
+    "a": "Gardening",
+    "b": "Farming"
+  },
+  {
+    "id": "pottery-sculpture",
+    "a": "Pottery",
+    "b": "Sculpture"
+  },
+  {
+    "id": "kite-drone",
+    "a": "Kite",
+    "b": "Drone"
+  },
+  {
+    "id": "diving-snorkeling",
+    "a": "Diving",
+    "b": "Snorkeling"
+  },
+  {
+    "id": "cycling-jogging",
+    "a": "Cycling",
+    "b": "Jogging"
+  },
+  {
+    "id": "bowling-billiards",
+    "a": "Bowling",
+    "b": "Billiards"
+  },
+  {
+    "id": "darts-archery",
+    "a": "Darts",
+    "b": "Archery"
+  },
+  {
+    "id": "aquarium-terrarium",
+    "a": "Aquarium",
+    "b": "Terrarium"
+  },
+  {
+    "id": "surfing-kayaking",
+    "a": "Surfing",
+    "b": "Kayaking"
+  },
+  {
+    "id": "puppet-doll",
+    "a": "Puppet",
+    "b": "Doll"
+  },
+  {
+    "id": "ice-skating-skiing",
+    "a": "Ice skating",
+    "b": "Skiing"
+  },
+  {
+    "id": "table-tennis-badminton",
+    "a": "Table tennis",
+    "b": "Badminton"
+  },
+  {
+    "id": "telescope-binoculars",
+    "a": "Telescope",
+    "b": "Binoculars"
+  },
+  {
+    "id": "jigsaw-sudoku",
+    "a": "Jigsaw",
+    "b": "Sudoku"
+  },
+  {
+    "id": "blogging-podcasting",
+    "a": "Blogging",
+    "b": "Podcasting"
+  }
+]

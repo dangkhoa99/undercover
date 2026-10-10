@@ -1,0 +1,117 @@
+[
+  {
+    "id": "laptop-may-tinh-ban",
+    "a": "Laptop",
+    "b": "Máy tính bàn"
+  },
+  {
+    "id": "wifi-bluetooth",
+    "a": "Wifi",
+    "b": "Bluetooth"
+  },
+  {
+    "id": "email-tin-nhan",
+    "a": "Email",
+    "b": "Tin nhắn"
+  },
+  {
+    "id": "livestream-video",
+    "a": "Livestream",
+    "b": "Video"
+  },
+  {
+    "id": "dong-ho-thong-minh-vong-deo-tay",
+    "a": "Đồng hồ thông minh",
+    "b": "Vòng đeo tay"
+  },
+  {
+    "id": "mat-khau-van-tay",
+    "a": "Mật khẩu",
+    "b": "Vân tay"
+  },
+  {
+    "id": "tai-xuong-tai-len",
+    "a": "Tải xuống",
+    "b": "Tải lên"
+  },
+  {
+    "id": "robot-tri-tue-nhan-tao",
+    "a": "Robot",
+    "b": "Trí tuệ nhân tạo"
+  },
+  {
+    "id": "anh-video",
+    "a": "Ảnh",
+    "b": "Video"
+  },
+  {
+    "id": "nhac-chuong-bao-thuc",
+    "a": "Nhạc chuông",
+    "b": "Báo thức"
+  },
+  {
+    "id": "vi-dien-tu-chuyen-khoan",
+    "a": "Ví điện tử",
+    "b": "Chuyển khoản"
+  },
+  {
+    "id": "tat-nguon-che-do-ngu",
+    "a": "Tắt nguồn",
+    "b": "Chế độ ngủ"
+  },
+  {
+    "id": "kinh-vr-kinh-3d",
+    "a": "Kính VR",
+    "b": "Kính 3D"
+  },
+  {
+    "id": "dien-thoai-ban-bo-dam",
+    "a": "Điện thoại bàn",
+    "b": "Bộ đàm"
+  },
+  {
+    "id": "noi-chien-khong-dau-lo-nuong",
+    "a": "Nồi chiên không dầu",
+    "b": "Lò nướng"
+  },
+  {
+    "id": "laptop-may-tinh-bang",
+    "a": "Laptop",
+    "b": "Máy tính bảng"
+  },
+  {
+    "id": "pin-du-phong-cu-sac",
+    "a": "Pin dự phòng",
+    "b": "Củ sạc"
+  },
+  {
+    "id": "may-in-may-scan",
+    "a": "Máy in",
+    "b": "Máy scan"
+  },
+  {
+    "id": "van-tay-nhan-dien-khuon-mat",
+    "a": "Vân tay",
+    "b": "Nhận diện khuôn mặt"
+  },
+  {
+    "id": "phan-mem-phan-cung",
+    "a": "Phần mềm",
+    "b": "Phần cứng"
+  },
+  {
+    "id": "loa-bluetooth-loa-keo",
+    "a": "Loa Bluetooth",
+    "b": "Loa kéo"
+  },
+  {
+    "id": "may-nghe-nhac-loa-thong-minh",
+    "a": "Máy nghe nhạc",
+    "b": "Loa thông minh"
+  },
+  {
+    "id": "sac-khong-day-sac-cap",
+    "a": "Sạc không dây",
+    "b": "Sạc cáp"
+  }
+]

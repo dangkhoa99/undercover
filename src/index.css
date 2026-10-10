@@ -1,0 +1,382 @@
+@import 'tailwindcss';
+@import 'tw-animate-css';
+@import 'shadcn/tailwind.css';
+@import '@fontsource-variable/geist';
+
+@custom-variant dark (&:is(.dark *));
+
+@theme {
+  --color-app-bg: var(--app-bg);
+  --color-app-glow: #af5f5f;
+  --color-civilian: var(--civilian);
+  --color-undercover: var(--undercover);
+  --color-mrwhite: var(--mrwhite);
+
+  /* Group header colours. */
+  --color-group-coral: #e8a3a3;
+  --color-group-peach: #f2b8a0;
+  --color-group-violet: #c5b3e6;
+  --color-group-sky: #a9b8e0;
+  --color-group-mint: #a8d8c0;
+  --color-group-rose: #f0b3cc;
+
+  /* Player avatars, cycled by seat. */
+  --color-avatar-1: #a8d8c0;
+  --color-avatar-2: #a9b8e0;
+  --color-avatar-3: #e8c49a;
+  --color-on-avatar: oklch(0.21 0.006 286 / 80%);
+  --color-on-group: oklch(0.21 0.006 286 / 85%);
+
+  /* Face-down cards, highlights and notices. */
+  --color-card-front: #f6dfc8;
+  --color-card-back: #e8c49a;
+  --color-on-card: #5a4632;
+  --color-warning: var(--warning);
+  --color-subtle: var(--subtle);
+  --color-subtle-strong: var(--subtle-strong);
+  --color-sunken: var(--sunken);
+  --color-gain: #f6dfc8;
+  --color-eliminate: #f2b8a0;
+  --color-on-eliminate: #5a3a2a;
+  --color-alive: #a9b8e0;
+  --color-trophy: #b8863c;
+
+  /* Winner splash gradients (top to bottom). */
+  --color-splash-civilians-top: #c4ebdc;
+  --color-splash-civilians-bottom: #8fd9c4;
+  --color-splash-infiltrators-top: #f8c8d2;
+  --color-splash-infiltrators-bottom: #e8a3a3;
+  --color-splash-mrwhite-top: #f1f5f9;
+  --color-splash-mrwhite-bottom: #cbd5e1;
+}
+
+html,
+body,
+#root {
+  min-height: 100dvh;
+}
+
+@theme inline {
+  --font-heading: var(--font-sans);
+  --font-sans: 'Geist Variable', sans-serif;
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar: var(--sidebar);
+  --color-chart-5: var(--chart-5);
+  --color-chart-4: var(--chart-4);
+  --color-chart-3: var(--chart-3);
+  --color-chart-2: var(--chart-2);
+  --color-chart-1: var(--chart-1);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --color-foreground: var(--foreground);
+  --color-background: var(--background);
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+  --radius-4xl: calc(var(--radius) * 2.6);
+}
+
+:root {
+  --background: oklch(1 0 0);
+  --foreground: oklch(0.145 0 0);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.145 0 0);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.145 0 0);
+  --primary: oklch(0.205 0 0);
+  --primary-foreground: oklch(0.985 0 0);
+  --secondary: oklch(0.97 0 0);
+  --secondary-foreground: oklch(0.205 0 0);
+  --muted: oklch(0.97 0 0);
+  --muted-foreground: oklch(0.556 0 0);
+  --accent: oklch(0.97 0 0);
+  --accent-foreground: oklch(0.205 0 0);
+  --destructive: oklch(0.577 0.245 27.325);
+  --border: oklch(0.922 0 0);
+  --input: oklch(0.922 0 0);
+  --ring: oklch(0.708 0 0);
+  --chart-1: oklch(0.87 0 0);
+  --chart-2: oklch(0.556 0 0);
+  --chart-3: oklch(0.439 0 0);
+  --chart-4: oklch(0.371 0 0);
+  --chart-5: oklch(0.269 0 0);
+  --radius: 0.625rem;
+  --sidebar: oklch(0.985 0 0);
+  --sidebar-foreground: oklch(0.145 0 0);
+  --sidebar-primary: oklch(0.205 0 0);
+  --sidebar-primary-foreground: oklch(0.985 0 0);
+  --sidebar-accent: oklch(0.97 0 0);
+  --sidebar-accent-foreground: oklch(0.205 0 0);
+  --sidebar-border: oklch(0.922 0 0);
+  --sidebar-ring: oklch(0.708 0 0);
+
+  --app-bg: #f3f1f0;
+  --civilian: #1f8a70;
+  --undercover: #c0405a;
+  --mrwhite: #475569;
+  --warning: #94652a;
+  --subtle: oklch(0 0 0 / 5%);
+  --subtle-strong: oklch(0 0 0 / 10%);
+  --sunken: oklch(0 0 0 / 7%);
+
+  --glass-from: oklch(1 0 0 / 82%);
+  --glass-to: oklch(1 0 0 / 58%);
+  --glass-press-from: oklch(1 0 0 / 96%);
+  --glass-press-to: oklch(1 0 0 / 80%);
+  --glass-rim: oklch(0 0 0 / 9%);
+  --glass-rim-top: oklch(1 0 0 / 95%);
+  --glass-rim-bottom: oklch(0 0 0 / 4%);
+  --glass-drop: oklch(0 0 0 / 12%);
+  --glass-heavy-from: oklch(1 0 0 / 90%);
+  --glass-heavy-to: oklch(0.97 0.005 280 / 94%);
+  --glass-heavy-rim: oklch(0 0 0 / 10%);
+  --glass-heavy-top: oklch(1 0 0 / 80%);
+  --glass-heavy-drop: oklch(0 0 0 / 25%);
+  --prom-from: oklch(0.3 0 0);
+  --prom-to: oklch(0.2 0 0);
+  --prom-press-from: oklch(0.38 0 0);
+  --prom-press-to: oklch(0.26 0 0);
+  --prom-top: oklch(1 0 0 / 22%);
+  --prom-bottom: oklch(0 0 0 / 30%);
+  --prom-drop: oklch(0 0 0 / 22%);
+  --inset-bg: oklch(0 0 0 / 6%);
+  --inset-shade: oklch(0 0 0 / 14%);
+  --inset-rim: oklch(0 0 0 / 8%);
+  --inset-lip: oklch(1 0 0 / 70%);
+}
+
+.dark {
+  --background: oklch(0.145 0 0);
+  --foreground: oklch(0.985 0 0);
+  --card: oklch(0.205 0 0);
+  --card-foreground: oklch(0.985 0 0);
+  --popover: oklch(0.205 0 0);
+  --popover-foreground: oklch(0.985 0 0);
+  --primary: oklch(0.922 0 0);
+  --primary-foreground: oklch(0.205 0 0);
+  --secondary: oklch(0.269 0 0);
+  --secondary-foreground: oklch(0.985 0 0);
+  --muted: oklch(0.269 0 0);
+  --muted-foreground: oklch(0.708 0 0);
+  --accent: oklch(0.269 0 0);
+  --accent-foreground: oklch(0.985 0 0);
+  --destructive: oklch(0.704 0.191 22.216);
+  --border: oklch(1 0 0 / 10%);
+  --input: oklch(1 0 0 / 15%);
+  --ring: oklch(0.556 0 0);
+  --chart-1: oklch(0.87 0 0);
+  --chart-2: oklch(0.556 0 0);
+  --chart-3: oklch(0.439 0 0);
+  --chart-4: oklch(0.371 0 0);
+  --chart-5: oklch(0.269 0 0);
+  --sidebar: oklch(0.205 0 0);
+  --sidebar-foreground: oklch(0.985 0 0);
+  --sidebar-primary: oklch(0.488 0.243 264.376);
+  --sidebar-primary-foreground: oklch(0.985 0 0);
+  --sidebar-accent: oklch(0.269 0 0);
+  --sidebar-accent-foreground: oklch(0.985 0 0);
+  --sidebar-border: oklch(1 0 0 / 10%);
+  --sidebar-ring: oklch(0.556 0 0);
+
+  --app-bg: #1c1c1c;
+  --civilian: #8fd9c4;
+  --undercover: #f4a0b0;
+  --mrwhite: #e2e8f0;
+  --warning: #e8c49a;
+  --subtle: oklch(1 0 0 / 10%);
+  --subtle-strong: oklch(1 0 0 / 18%);
+  --sunken: oklch(0 0 0 / 30%);
+
+  --glass-from: oklch(1 0 0 / 16%);
+  --glass-to: oklch(1 0 0 / 5%);
+  --glass-press-from: oklch(1 0 0 / 30%);
+  --glass-press-to: oklch(1 0 0 / 14%);
+  --glass-rim: oklch(1 0 0 / 14%);
+  --glass-rim-top: oklch(1 0 0 / 35%);
+  --glass-rim-bottom: oklch(1 0 0 / 6%);
+  --glass-drop: oklch(0 0 0 / 30%);
+  --glass-heavy-from: oklch(0.32 0.02 280 / 78%);
+  --glass-heavy-to: oklch(0.2 0.015 280 / 82%);
+  --glass-heavy-rim: oklch(1 0 0 / 16%);
+  --glass-heavy-top: oklch(1 0 0 / 30%);
+  --glass-heavy-drop: oklch(0 0 0 / 55%);
+  --prom-from: oklch(1 0 0 / 94%);
+  --prom-to: oklch(0.88 0 0 / 84%);
+  --prom-press-from: oklch(1 0 0);
+  --prom-press-to: oklch(0.95 0 0 / 95%);
+  --prom-top: oklch(1 0 0 / 90%);
+  --prom-bottom: oklch(0 0 0 / 10%);
+  --prom-drop: oklch(0 0 0 / 35%);
+  --inset-bg: oklch(0 0 0 / 28%);
+  --inset-shade: oklch(0 0 0 / 45%);
+  --inset-rim: oklch(1 0 0 / 12%);
+  --inset-lip: oklch(1 0 0 / 10%);
+}
+
+/*
+ * iOS-style "liquid glass" surfaces. The rim is an inset box-shadow (not a border) so it never
+ * fights a component's own border classes. Every value is a theme variable (see :root / .dark).
+ */
+@utility glass {
+  background: linear-gradient(135deg, var(--glass-from), var(--glass-to));
+  backdrop-filter: blur(20px) saturate(180%);
+  box-shadow:
+    inset 0 0 0 1px var(--glass-rim),
+    inset 0 1px 0 var(--glass-rim-top),
+    inset 0 -1px 0 var(--glass-rim-bottom),
+    0 4px 16px var(--glass-drop);
+  &:where(button, a, [role='button'], [data-slot='select-trigger']):active {
+    background: linear-gradient(135deg, var(--glass-press-from), var(--glass-press-to));
+  }
+}
+
+/* Denser glass for floating layers (dialogs, menus) that must stay readable over anything. */
+@utility glass-heavy {
+  background: linear-gradient(135deg, var(--glass-heavy-from), var(--glass-heavy-to));
+  backdrop-filter: blur(36px) saturate(200%);
+  box-shadow:
+    inset 0 0 0 1px var(--glass-heavy-rim),
+    inset 0 1px 0 var(--glass-heavy-top),
+    0 24px 60px var(--glass-heavy-drop);
+}
+
+/* Primary action: high-contrast glass (milky in dark mode, ink in light mode). */
+@utility glass-prominent {
+  background: linear-gradient(135deg, var(--prom-from), var(--prom-to));
+  backdrop-filter: blur(20px) saturate(180%);
+  box-shadow:
+    inset 0 1px 0 var(--prom-top),
+    inset 0 -1px 0 var(--prom-bottom),
+    0 6px 20px var(--prom-drop);
+  &:where(button, a):active {
+    background: linear-gradient(135deg, var(--prom-press-from), var(--prom-press-to));
+  }
+}
+
+/* Recessed glass for text fields. */
+@utility glass-inset {
+  background: var(--inset-bg);
+  backdrop-filter: blur(12px);
+  box-shadow:
+    inset 0 1px 3px var(--inset-shade),
+    inset 0 0 0 1px var(--inset-rim),
+    0 1px 0 var(--inset-lip);
+}
+
+/* Page background. Near-black; set --color-app-bg to #000 for pure black. */
+@utility app-bg {
+  background:
+    radial-gradient(
+      55% 28% at 88% 0%,
+      color-mix(in oklch, var(--color-app-glow) 45%, transparent),
+      transparent 75%
+    ),
+    radial-gradient(
+      120% 60% at 100% -10%,
+      color-mix(in oklch, var(--color-app-glow) 30%, transparent),
+      color-mix(in oklch, var(--color-app-glow) 10%, transparent) 45%,
+      transparent 80%
+    ),
+    var(--color-app-bg);
+}
+
+/* Face-down card the players pick. */
+@utility card-face {
+  background: linear-gradient(135deg, var(--color-card-front), var(--color-card-back));
+  color: var(--color-on-card);
+  box-shadow:
+    inset 0 1px 0 oklch(1 0 0 / 70%),
+    0 6px 18px oklch(0 0 0 / 40%);
+}
+
+/* Red-tinted glass for destructive buttons. */
+@utility glass-destructive {
+  background: color-mix(in oklch, var(--destructive) 20%, transparent);
+  backdrop-filter: blur(20px) saturate(150%);
+  box-shadow:
+    inset 0 0 0 1px var(--glass-rim),
+    inset 0 1px 0 var(--glass-rim-top);
+  &:where(button):hover {
+    background: color-mix(in oklch, var(--destructive) 30%, transparent);
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+    /* Thin, translucent scrollbars on desktop, closer to the overlay bars on phones. */
+    scrollbar-width: thin;
+    scrollbar-color: oklch(1 0 0 / 25%) transparent;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  html {
+    @apply font-sans;
+    color-scheme: dark;
+    -webkit-tap-highlight-color: transparent;
+  }
+  html:not(.dark) {
+    color-scheme: light;
+  }
+  button,
+  a,
+  [role='button'],
+  [data-slot='select-trigger'] {
+    touch-action: manipulation;
+  }
+  h1,
+  h2,
+  h3 {
+    text-wrap: balance;
+    scroll-margin-top: 5rem;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    ::before,
+    ::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
+
+@utility skip-link {
+  position: absolute;
+  left: 0.5rem;
+  top: 0.5rem;
+  z-index: 100;
+  transform: translateY(-200%);
+  &:focus-visible {
+    transform: translateY(0);
+  }
+}
+
+@utility overscroll-contain-all {
+  overscroll-behavior: contain;
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "origami-scrapbooking",
+    "a": "Origami",
+    "b": "Scrapbooking"
+  },
+  {
+    "id": "sewing-embroidery",
+    "a": "Sewing",
+    "b": "Embroidery"
+  },
+  {
+    "id": "woodwork-metalwork",
+    "a": "Woodwork",
+    "b": "Metalwork"
+  },
+  {
+    "id": "calligraphy-handwriting",
+    "a": "Calligraphy",
+    "b": "Handwriting"
+  },
+  {
+    "id": "cross-stitch-beading",
+    "a": "Cross-stitch",
+    "b": "Beading"
+  },
+  {
+    "id": "needlepoint-felting",
+    "a": "Needlepoint",
+    "b": "Felting"
+  },
+  {
+    "id": "sledding-bobsled",
+    "a": "Sledding",
+    "b": "Bobsled"
+  },
+  {
+    "id": "sketching-charcoal",
+    "a": "Sketching",
+    "b": "Charcoal"
+  },
+  {
+    "id": "bouldering-abseiling",
+    "a": "Bouldering",
+    "b": "Abseiling"
+  },
+  {
+    "id": "slackline-tightrope",
+    "a": "Slackline",
+    "b": "Tightrope"
+  }
+]

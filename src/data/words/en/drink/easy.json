@@ -1,0 +1,72 @@
+[
+  {
+    "id": "coffee-tea",
+    "a": "Coffee",
+    "b": "Tea"
+  },
+  {
+    "id": "milk-juice",
+    "a": "Milk",
+    "b": "Juice"
+  },
+  {
+    "id": "soda-sparkling-water",
+    "a": "Soda",
+    "b": "Sparkling water"
+  },
+  {
+    "id": "beer-wine",
+    "a": "Beer",
+    "b": "Wine"
+  },
+  {
+    "id": "hot-chocolate-coffee",
+    "a": "Hot chocolate",
+    "b": "Coffee"
+  },
+  {
+    "id": "smoothie-milkshake",
+    "a": "Smoothie",
+    "b": "Milkshake"
+  },
+  {
+    "id": "whiskey-vodka",
+    "a": "Whiskey",
+    "b": "Vodka"
+  },
+  {
+    "id": "coconut-water-mineral-water",
+    "a": "Coconut water",
+    "b": "Mineral water"
+  },
+  {
+    "id": "energy-drink-sports-drink",
+    "a": "Energy drink",
+    "b": "Sports drink"
+  },
+  {
+    "id": "yogurt-drink-milk",
+    "a": "Yogurt drink",
+    "b": "Milk"
+  },
+  {
+    "id": "tomato-juice-apple-juice",
+    "a": "Tomato juice",
+    "b": "Apple juice"
+  },
+  {
+    "id": "port-sherry",
+    "a": "Port",
+    "b": "Sherry"
+  },
+  {
+    "id": "oat-milk-rice-milk",
+    "a": "Oat milk",
+    "b": "Rice milk"
+  },
+  {
+    "id": "pineapple-juice-mango-juice",
+    "a": "Pineapple juice",
+    "b": "Mango juice"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "id": "movie-play",
+    "a": "Movie",
+    "b": "Play"
+  },
+  {
+    "id": "radio-podcast",
+    "a": "Radio",
+    "b": "Podcast"
+  },
+  {
+    "id": "chess-checkers",
+    "a": "Chess",
+    "b": "Checkers"
+  },
+  {
+    "id": "magician-clown",
+    "a": "Magician",
+    "b": "Clown"
+  },
+  {
+    "id": "drummer-guitarist",
+    "a": "Drummer",
+    "b": "Guitarist"
+  },
+  {
+    "id": "piano-violin",
+    "a": "Piano",
+    "b": "Violin"
+  },
+  {
+    "id": "museum-library",
+    "a": "Museum",
+    "b": "Library"
+  },
+  {
+    "id": "theme-park-zoo",
+    "a": "Theme park",
+    "b": "Zoo"
+  },
+  {
+    "id": "video-game-board-game",
+    "a": "Video game",
+    "b": "Board game"
+  },
+  {
+    "id": "ballet-opera",
+    "a": "Ballet",
+    "b": "Opera"
+  },
+  {
+    "id": "trailer-commercial",
+    "a": "Trailer",
+    "b": "Commercial"
+  },
+  {
+    "id": "poster-billboard",
+    "a": "Poster",
+    "b": "Billboard"
+  },
+  {
+    "id": "documentary-news",
+    "a": "Documentary",
+    "b": "News"
+  },
+  {
+    "id": "dice-playing-cards",
+    "a": "Dice",
+    "b": "Playing cards"
+  },
+  {
+    "id": "microphone-megaphone",
+    "a": "Microphone",
+    "b": "Megaphone"
+  },
+  {
+    "id": "sculpture-painting",
+    "a": "Sculpture",
+    "b": "Painting"
+  },
+  {
+    "id": "rollercoaster-ferris-wheel",
+    "a": "Rollercoaster",
+    "b": "Ferris wheel"
+  },
+  {
+    "id": "fireworks-sparkler",
+    "a": "Fireworks",
+    "b": "Sparkler"
+  },
+  {
+    "id": "newspaper-magazine",
+    "a": "Newspaper",
+    "b": "Magazine"
+  },
+  {
+    "id": "dancer-acrobat",
+    "a": "Dancer",
+    "b": "Acrobat"
+  },
+  {
+    "id": "hide-and-seek-tag",
+    "a": "Hide and seek",
+    "b": "Tag"
+  },
+  {
+    "id": "sudoku-crossword",
+    "a": "Sudoku",
+    "b": "Crossword"
+  },
+  {
+    "id": "singer-rapper",
+    "a": "Singer",
+    "b": "Rapper"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "latte-cappuccino",
+    "a": "Latte",
+    "b": "Cappuccino"
+  },
+  {
+    "id": "ginger-ale-cola",
+    "a": "Ginger ale",
+    "b": "Cola"
+  },
+  {
+    "id": "matcha-green-tea",
+    "a": "Matcha",
+    "b": "Green tea"
+  },
+  {
+    "id": "chai-black-tea",
+    "a": "Chai",
+    "b": "Black tea"
+  },
+  {
+    "id": "rum-whiskey",
+    "a": "Rum",
+    "b": "Whiskey"
+  },
+  {
+    "id": "flat-white-americano",
+    "a": "Flat white",
+    "b": "Americano"
+  },
+  {
+    "id": "cream-soda-root-beer",
+    "a": "Cream soda",
+    "b": "Root beer"
+  },
+  {
+    "id": "prosecco-cava",
+    "a": "Prosecco",
+    "b": "Cava"
+  },
+  {
+    "id": "tequila-mezcal",
+    "a": "Tequila",
+    "b": "Mezcal"
+  },
+  {
+    "id": "shandy-radler",
+    "a": "Shandy",
+    "b": "Radler"
+  }
+]
